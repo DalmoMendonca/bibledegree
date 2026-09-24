@@ -1,0 +1,245 @@
+{
+  "basis": "topic",
+  "sourceNote": "AI-authored supplementary topic guide, checked against the linked historical resources. No complete transcript was available; this does not represent Reeves’s precise wording or coverage. Readings are supplementary, not verified instructor assignments.",
+  "summary": "Christianity emerged within Jewish history and spread through a Mediterranean world profoundly shaped by Greek language, education, and political experience. Understanding that environment helps us see both the opportunities and the conflicts early Christians encountered. It does not reduce Christian origins to a single cultural influence.\n\nClassical Greece consisted of distinct city-states, or poleis. Athens was influential, but its democratic institutions were neither universal across Greece nor inclusive by modern standards. Greek intellectual life was equally varied: poets, public speakers, philosophers, and worshipers offered different accounts of the good life and humanity’s relation to the divine.\n\nAlexander’s conquests and the kingdoms that followed widened the reach of Greek culture. This Hellenistic world involved cultural exchange and local adaptation as well as conquest. Greek language and learning continued to matter under Roman political rule. Political control and cultural influence therefore need to be tracked separately.\n\nFor biblical study, the crucial question is how communities used shared cultural forms while making distinctive claims. Acts 17 offers one literary portrayal of that encounter: Paul’s speech engages an Athenian setting, yet the resurrection provokes disagreement. Read such texts with attention to their authors’ purposes, rather than treating them as unmediated recordings. As you watch, distinguish historical background, Reeves’s interpretation, and your own theological conclusions.",
+  "keyIdeas": [
+    {
+      "title": "A world of cities",
+      "explanation": "The polis joined civic institutions, law, communal identity, and religious life. City-states had different constitutions; “Greek” did not imply a unified nation-state."
+    },
+    {
+      "title": "Participation had boundaries",
+      "explanation": "Athenian democracy gave citizens a direct political role while excluding women, enslaved people, and resident foreigners from that citizenship. Ask who belonged whenever a source celebrates freedom."
+    },
+    {
+      "title": "Conquest reshaped cultural contact",
+      "explanation": "Alexander’s campaigns and successor kingdoms extended Greek influence. Hellenization was uneven: local traditions persisted and interacted with new institutions."
+    },
+    {
+      "title": "Rome did not erase Greece",
+      "explanation": "Greek culture retained prestige under Roman rule. A community could live under Roman imperial authority while using Greek language and educational traditions."
+    },
+    {
+      "title": "Shared language, disputed meaning",
+      "explanation": "Communication across cultures requires familiar terms, but a familiar term need not carry an identical worldview. In Acts 17, engagement with Greek hearers does not eliminate disagreement over resurrection."
+    },
+    {
+      "title": "Sources are arguments too",
+      "explanation": "Plato’s presentation of Socrates and Acts’ presentation of Paul have literary purposes. Identify genre, narrator, audience, and claims before drawing historical conclusions."
+    }
+  ],
+  "terms": [
+    {
+      "term": "Polis / poleis",
+      "definition": "A Greek city-state / city-states, understood as a political community as well as a place."
+    },
+    {
+      "term": "Hellenistic",
+      "definition": "Conventionally, the era after Alexander’s death in 323 BCE through the rise of Roman domination; also the Greek-influenced cultures of that era."
+    },
+    {
+      "term": "Hellenization",
+      "definition": "Processes by which Greek cultural practices spread and were adapted, resisted, or combined with local traditions."
+    },
+    {
+      "term": "Koine",
+      "definition": "The broadly shared form of Greek used across much of the eastern Mediterranean in the Hellenistic and Roman periods, including the New Testament."
+    },
+    {
+      "term": "Primary source",
+      "definition": "Evidence from the period or historical process being investigated; proximity does not make a source neutral or infallible."
+    }
+  ],
+  "mastery": [
+    {
+      "question": "Why is “ancient Greece was a democracy” a misleading generalization?",
+      "answer": "It treats one political form, especially associated with Athens, as universal. Many poleis had other constitutions, and even Athenian political participation excluded much of the population."
+    },
+    {
+      "question": "Distinguish Greek cultural influence from Greek political sovereignty.",
+      "answer": "Language, education, art, and intellectual traditions can persist after political power changes hands. Roman conquest did not end the prestige or use of Greek culture."
+    },
+    {
+      "question": "What would count as evidence of Hellenization, and what would not?",
+      "answer": "Greek inscriptions, educational institutions, artistic forms, or adapted civic practices can provide evidence. A Greek name alone does not establish total replacement of a community’s earlier identity or beliefs."
+    },
+    {
+      "question": "How does Acts 17 portray both connection and conflict?",
+      "answer": "The speech engages an Athenian religious setting and quotes poetry, yet its proclamation of judgment and resurrection produces mixed responses. Cultural intelligibility is not the same as doctrinal agreement."
+    },
+    {
+      "question": "Why read Plato’s Apology critically even though it is a primary source?",
+      "answer": "It is Plato’s literary presentation of Socrates’ defense, not a modern verbatim recording. Its philosophical and rhetorical purposes shape what it can establish."
+    },
+    {
+      "question": "How can Greek background illuminate Christianity without erasing its Jewish matrix?",
+      "answer": "Study the languages and institutions through which Christians communicated alongside their engagement with Jewish scriptures, practices, and messianic expectations. Influence is multidirectional and does not by itself establish derivation."
+    }
+  ],
+  "reflection": [
+    "Which exclusions become visible when you look at a celebrated institution from the perspective of people denied membership? How might this change your reading of church history?",
+    "Where does your understanding of Christianity rely on the vocabulary of your own culture? Which terms communicate faithfully, and which quietly reshape the message?",
+    "Read Acts 17 together. Where do you each see patient engagement, and where do you see a boundary that remains unresolved?",
+    "What evidence would make you revise a familiar story about the relationship between faith and philosophy? Name one claim you want to investigate rather than inherit."
+  ],
+  "readings": [
+    {
+      "title": "Acts 17:16–34 — Paul in Athens",
+      "url": "https://www.biblegateway.com/passage/?search=acts+17%3A+16-34&version=NIV",
+      "kind": "Supplementary primary text",
+      "access": "Free full text · Compare the literary portrayal with the historical background"
+    },
+    {
+      "title": "Plato, Apology — English translation",
+      "url": "https://atlas.perseus.tufts.edu/library/urn%3Acts%3AgreekLit%3Atlg0059.tlg002/",
+      "kind": "Supplementary primary text",
+      "access": "Free full text · Perseus Digital Library"
+    },
+    {
+      "title": "Donald Kagan — The Rise of the Polis",
+      "url": "https://oyc.yale.edu/classics/clcv-205/lecture-5",
+      "kind": "Supplementary historical context",
+      "access": "Free lecture and transcript · Open Yale Courses"
+    },
+    {
+      "title": "The Hellenistic Era",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/6-3-the-hellenistic-era",
+      "kind": "Supplementary textbook reading",
+      "access": "Free full text · OpenStax"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which description best fits the classical Greek polis?",
+      "options": [
+        "A political community with its own institutions",
+        "A province administered by a Roman governor",
+        "A federation joining all Greek-speaking people",
+        "A philosophical school devoted to public speaking"
+      ],
+      "answer": 0,
+      "explanation": "The polis was a city-state and civic community. Shared language or religious traditions did not make all poleis a single state."
+    },
+    {
+      "question": "What is the main problem with treating Athens as representative of every Greek city?",
+      "options": [
+        "Athens had no political institutions",
+        "Greek city-states had varied constitutions and histories",
+        "Athens did not use Greek",
+        "Greek cities were always ruled by Persia"
+      ],
+      "answer": 1,
+      "explanation": "Athens is unusually prominent in surviving evidence. Its prominence should not turn its institutions into a universal Greek pattern."
+    },
+    {
+      "question": "Which statement best qualifies Athenian democracy?",
+      "options": [
+        "Its assembly included every adult resident",
+        "It required representative parliamentary elections",
+        "Citizen participation coexisted with major exclusions",
+        "It abolished slavery as a condition of citizenship"
+      ],
+      "answer": 2,
+      "explanation": "Direct participation by citizens did not amount to universal inclusion. Women, enslaved people, and resident foreigners were excluded from political citizenship."
+    },
+    {
+      "question": "Which event conventionally marks the beginning of the Hellenistic period?",
+      "options": [
+        "The founding of Rome",
+        "The birth of Jesus",
+        "The destruction of Jerusalem in 70 CE",
+        "Alexander’s death in 323 BCE"
+      ],
+      "answer": 3,
+      "explanation": "Alexander’s death is the conventional period boundary. His earlier conquests helped create the conditions for the successor kingdoms and wider cultural exchange."
+    },
+    {
+      "question": "An inscription combines a local deity’s name with Greek wording. What is the most responsible initial inference?",
+      "options": [
+        "Greek linguistic influence interacted with local religious practice",
+        "The entire population abandoned its earlier religion",
+        "The city must have been governed directly from Athens",
+        "The inscription proves the arrival of Christianity"
+      ],
+      "answer": 0,
+      "explanation": "The evidence supports interaction at the level the inscription reveals. It does not establish wholesale cultural replacement or identify every resident’s beliefs."
+    },
+    {
+      "question": "Why does Greek background remain relevant after Roman conquest?",
+      "options": [
+        "Rome prohibited its own language throughout the empire",
+        "Cultural practices can persist under a new political authority",
+        "Roman government restored every Greek city’s independence",
+        "Christian authors all wrote before Roman expansion"
+      ],
+      "answer": 1,
+      "explanation": "Political and cultural histories do not share identical boundaries. Greek language and education remained important in the Roman world."
+    },
+    {
+      "question": "What does the term Koine identify in biblical studies?",
+      "options": [
+        "A single Greek philosophical school",
+        "The constitution of the Athenian assembly",
+        "A widely shared form of Greek used in the New Testament",
+        "A Roman law establishing religious toleration"
+      ],
+      "answer": 2,
+      "explanation": "Koine refers to a common form of Greek, not a particular school or law. Its widespread use helps explain communication across different communities."
+    },
+    {
+      "question": "In Acts 17, why is agreement on some cultural references insufficient to establish agreement with Paul?",
+      "options": [
+        "The speech contains no recognizable cultural references",
+        "All hearers are portrayed as accepting the message",
+        "Greek was unknown in Athens",
+        "The proclamation of resurrection elicits conflicting responses"
+      ],
+      "answer": 3,
+      "explanation": "Acts portrays mixed responses to resurrection. Shared language and points of contact make debate possible without guaranteeing assent."
+    },
+    {
+      "question": "How should Plato’s Apology be used as historical evidence?",
+      "options": [
+        "As a literary presentation whose purposes must be evaluated",
+        "As an audio transcript preserved without editorial shaping",
+        "As evidence that all Greeks shared Socrates’ views",
+        "As a Christian account written by Paul"
+      ],
+      "answer": 0,
+      "explanation": "A primary source remains a constructed work. Its author, genre, and aims are part of the evidence, rather than obstacles that can simply be ignored."
+    },
+    {
+      "question": "Which comparison most carefully relates Christianity to its Greek environment?",
+      "options": [
+        "Greek influence proves that Christianity had no Jewish roots",
+        "Greek forms of communication interacted with Jewish scriptures and distinctive Christian claims",
+        "Shared vocabulary guarantees identical meanings",
+        "Cultural background alone settles whether a theological claim is true"
+      ],
+      "answer": 1,
+      "explanation": "This account allows multiple historical relationships. Showing that a community uses a language or concept does not, by itself, settle its origins or the truth of its beliefs."
+    },
+    {
+      "question": "A historian finds Greek-style artwork in a city. Which follow-up would best test how deeply Greek practices shaped local life?",
+      "options": [
+        "Assume every resident held the same worldview",
+        "Ignore local evidence because artistic style is decisive",
+        "Compare inscriptions, institutions, household evidence, and local traditions",
+        "Date the city solely from a modern photograph"
+      ],
+      "answer": 2,
+      "explanation": "Different kinds of evidence can show whether influence was broad, selective, elite, or adapted. One artifact rarely supports a total claim about a society."
+    },
+    {
+      "question": "Which note best separates observation from interpretation while watching this lecture?",
+      "options": [
+        "“Everything the lecturer says is equally certain.”",
+        "“The title proves which interpretation is correct.”",
+        "“Historical context can be ignored when discussing theology.”",
+        "“Here is the source cited; here is the lecturer’s inference; here is my question about it.”"
+      ],
+      "answer": 3,
+      "explanation": "Separating evidence, inference, and response makes disagreement more precise. It also helps you identify which claims need further investigation."
+    }
+  ]
+}
