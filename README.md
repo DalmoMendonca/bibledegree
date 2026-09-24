@@ -1,95 +1,23 @@
 # Bible Degree
 
-A free, mobile-first theological learning companion built from excellent open courses. The goal is an MDiv-scale independent-study path: serious biblical studies, languages, exegesis, theology, history, philosophy, and—over time—the practical and formational disciplines expected in a Master of Divinity curriculum.
+A free, browser-local companion for biblical studies. React + Vite, deployed on Netlify at https://mdiv.dalmo.ai.
 
-Live site: https://mdiv.dalmo.ai
+## Run
 
-## Product model
+`npm install`, then `npm run dev`. Build with `npm run build`; validate catalog and published study packs with `node scripts/validate-content.mjs`.
 
-### Anonymous and browser-local for now
+## Current behavior
 
-There are no user profiles or accounts in the current version. Course completion, lesson completion, and quiz results are stored in the browser with `localStorage`.
+One anonymous progress record lives in localStorage. No accounts, streaks, notebook, import/export, runtime AI, or paid API dependencies. Existing browser progress migrates from the earlier shared-profile format, combining completed lessons and best quiz results. New visitors start with no completed courses. Clearing browser storage removes progress.
 
-- no Dalmo/Viv profiles
-- no streak
-- no notebook
-- no export/import workflow
-- no server-side learner database
+Courses retain their subject categories. Seven editorial study paths connect foundations, languages, exegesis, and advanced studies. These are suggested sequences, not institutional prerequisites.
 
-A future Google sign-in release can migrate browser-local progress into a cloud account.
+All lesson resources are static JSON. Only packs explicitly grounded in a transcript are displayed. Unprepared lessons clearly show their status and link to the original course. Study questions are independently prepared learning aids, not institutional assessments.
 
-### Canonical lesson content is static
+## Content coverage
 
-The app does **not** generate summaries, quizzes, reflection questions, or transcripts at study time. Canonical lesson material is researched or generated once, reviewed, and committed to this repository.
+62 courses / 1,938 lessons. 72 full Yale transcripts, 17 additional publisher transcript links, and 4 transcript-grounded study packs (12 multiple-choice questions each). Most lessons still need content preparation. See ROADMAP.md and public/data/content-status.json for the exact backlog.
 
-Static source material lives in:
+Yale transcripts retain source attribution and their CC BY-NC-SA license. Other publishers' materials are linked where republication permission is unverified or restricted. Source links do not imply affiliation. BiblicalTraining content is provided by BiblicalTraining.org; this project is not affiliated with BiblicalTraining.org.
 
-- `public/data/catalog.json` — courses, lecture metadata, provider links, assigned readings/resources
-- `public/data/lectures/<lessonId>.json` — archived lecture transcripts and other source material
-- `public/data/guides/<lessonId>.json` — static summaries, key ideas, mastery questions, reflection prompts, readings, and multiple-choice quizzes
-
-The repository currently includes complete static transcript files for three imported lecture series:
-
-- Dale B. Martin, Yale — *Introduction to New Testament* (26 lectures)
-- Christine Hayes, Yale — *Introduction to the Old Testament* (24 lectures)
-- Paul Freedman, Yale — *The Early Middle Ages* (22 lectures)
-
-That is 72 transcript-backed lectures already bundled. The remaining catalog still needs systematic transcript and study-guide procurement. Missing static material is shown honestly in the interface rather than generated dynamically.
-
-A future course-aware chatbot can use this static corpus as grounding context without changing the canonical lesson content.
-
-## Curriculum UX
-
-The visual language is deliberately tactile and progress-oriented: rounded surfaces, physical button depth, a teal learning path, concise copy, and playful course progression without copying Duolingo branding.
-
-The curriculum remains organized by subject category. A prerequisite map additionally shows sensible learning sequences where dependencies matter, including:
-
-- NT survey → Greek → NT exegesis method → book exegesis
-- OT survey → Hebrew → OT exegesis method → book exegesis
-- systematic-theology progression
-- church-history progression
-- philosophy progression
-
-These arrows are editorial recommendations for this independent-study program, not formal prerequisites imposed by the original course providers.
-
-## MDiv parity roadmap
-
-The original curriculum is unusually deep in academic biblical studies and theology. To approach the content breadth of a contemporary MDiv, the next curriculum expansion should prioritize areas that are currently thin or absent:
-
-1. preaching / homiletics
-2. pastoral theology and pastoral care
-3. Christian worship / liturgy
-4. world Christianity and missions
-5. non-Christian religions and interfaith engagement
-6. church leadership and/or Christian education
-7. public theology / church and society
-8. supervised ministry / field education
-9. an integrative capstone or seminar
-
-Supervised ministry cannot be replaced by open courseware alone; the app can structure competencies, reflection, and documentation, but meaningful parity requires a real ministry context and human supervision.
-
-Product roadmap after the current static-content build:
-
-1. finish transcript procurement and static study guides for every indexed lecture
-2. source open-course material for the missing MDiv practice/formation domains
-3. improve prerequisite/dependency metadata from editorial heuristics into explicit course data
-4. add Google OAuth and cloud progress sync
-5. add a course-aware and lesson-aware chatbot grounded in the static corpus
-6. add supervised-ministry/capstone workflows once the academic curriculum is mature
-
-This project is an independent educational resource. It does not confer an accredited degree or claim accreditation.
-
-## Development
-
-```sh
-npm install
-npm run dev
-```
-
-Production build:
-
-```sh
-npm run build
-```
-
-Netlify publishes the Vite build configured by `netlify.toml`.
+`scripts/prepare-static-guides.py` reproducibly writes the four authored packs without calling an AI service. `archive/previous-edition` preserves historical source and is not part of the published site.

@@ -1,0 +1,224 @@
+{
+  "basis": "transcript",
+  "summary": "Dale Martin begins by asking why a university class should study the New Testament and what kind of study it will undertake. He distinguishes reading a document as a community’s scripture from examining it as historical evidence. The course prioritizes the meanings of early Christian writings in their ancient settings rather than devotional application or the entire history of their later influence.\n\nAn opening exercise separates statements in the texts from familiar later traditions. Its larger purpose is methodological: cultural familiarity can create confidence without close textual knowledge. Martin asks religious and nonreligious students alike to suspend inherited assumptions long enough to notice what the documents actually contain.\n\nA rapid tour exposes literary diversity. Four Gospels retell related material differently; Acts resembles ancient travel narratives in some respects; letters address particular communities and problems; Hebrews raises questions about its conventional title; Revelation presents visionary and apocalyptic imagery. Genre, audience, performance, and historical context therefore matter.\n\nMartin then imagines an outsider encountering an early Christian gathering. He translates familiar religious vocabulary into less familiar everyday language to expose how insiders and outsiders might hear it differently. The imaginary account includes misunderstandings and rumors, not a literal description of every Christian practice. The course will recover diverse early Christian positions on Jesus, Jewish law, women, slavery, and imperial power before considering later efforts at unity.",
+  "keyIdeas": [
+    {
+      "title": "Scripture within a community",
+      "explanation": "Martin treats scriptural status as a relationship between a text and a community that receives it as sacred. The classroom’s historical question is different from a church’s devotional question."
+    },
+    {
+      "title": "Tradition is not identical with textual wording",
+      "explanation": "Familiar images and doctrines may belong to later interpretation. Close reading distinguishes a document’s statements from the cultural memory surrounding it."
+    },
+    {
+      "title": "Twenty-seven documents, multiple genres",
+      "explanation": "Gospels, letters, narrative, homiletic discourse, and apocalypse require attention to distinct forms and purposes."
+    },
+    {
+      "title": "Ancient audiences and public reading",
+      "explanation": "Martin asks what a letter would do when read aloud in a gathered community, rather than assuming modern private reading conditions."
+    },
+    {
+      "title": "Vocabulary can conceal strangeness",
+      "explanation": "Ordinary meanings behind familiar terms help expose the distance between modern expectations and ancient usage."
+    },
+    {
+      "title": "Diversity before synthesis",
+      "explanation": "The course separates voices and contexts to investigate early Christian disagreements before imposing later unity."
+    }
+  ],
+  "terms": [
+    {
+      "term": "Historical-critical study",
+      "definition": "Inquiry into a text’s historical circumstances, literary character, and early meanings."
+    },
+    {
+      "term": "Reception",
+      "definition": "The ways later readers and communities interpret and use a text."
+    },
+    {
+      "term": "Genre",
+      "definition": "A recognizable literary form that shapes interpretation."
+    },
+    {
+      "term": "Apocalypse",
+      "definition": "Revelation or disclosure; a label associated with visionary literature."
+    },
+    {
+      "term": "Exegesis",
+      "definition": "Careful interpretation of a particular passage in its literary and historical setting."
+    }
+  ],
+  "mastery": [
+    {
+      "question": "How do devotional and historical readings ask different questions?",
+      "answer": "A devotional reading may seek an authoritative word for a believing community; historical inquiry asks how documents functioned in particular ancient contexts."
+    },
+    {
+      "question": "Why can a nonreligious student also bring preconceptions?",
+      "answer": "Cultural exposure to Christianity supplies assumptions even without church participation. Martin asks all students to examine that inherited familiarity."
+    },
+    {
+      "question": "What is the point of distinguishing three gifts from three visitors?",
+      "answer": "It illustrates how a remembered tradition can exceed the wording of the narrative. The first task is identifying what the text actually says."
+    },
+    {
+      "question": "Why does public reading matter for interpreting a letter?",
+      "answer": "Tone, exhortation, social conflict, and group identity may function differently in a gathered community from how they appear to an isolated modern reader."
+    },
+    {
+      "question": "What must one avoid when using Martin’s imagined outsider scene?",
+      "answer": "Do not treat hostile rumors or deliberate misunderstandings as straightforward evidence that Christians practiced everything the outsider suspects."
+    },
+    {
+      "question": "How does investigating diversity change the course’s method?",
+      "answer": "It invites comparison among particular documents and communities rather than assuming a single theology, practice, or social position across all early Christians."
+    }
+  ],
+  "reflection": [
+    "Which “biblical” idea in your inherited imagination might actually come from art, liturgy, or later tradition? How would you check?",
+    "Try describing one familiar religious practice in ordinary language. What does that clarify, and what does it distort?",
+    "How might hearing a Pauline letter with an entire community change the questions you ask about it?",
+    "What would it mean to describe an early Christian disagreement fairly before deciding which position you favor?"
+  ],
+  "quiz": [
+    {
+      "question": "What is Martin’s principal aim for this course?",
+      "options": [
+        "To prescribe one church’s devotional interpretation",
+        "To survey all Western art inspired by scripture",
+        "To investigate early Christian documents in their historical contexts",
+        "To assume later Christian doctrines resolve every textual difference"
+      ],
+      "answer": 2,
+      "explanation": "He distinguishes his historical focus from both confessional reading and a comprehensive reception history."
+    },
+    {
+      "question": "In Martin’s framing, what makes a document scripture for a group?",
+      "options": [
+        "The community receives it as sacred and authoritative",
+        "Its parchment has a special chemical composition",
+        "Its literary genre must be poetry",
+        "Every person who encounters it must recognize it as holy"
+      ],
+      "answer": 0,
+      "explanation": "He emphasizes a relationship of reception, rather than treating sacred status as a universally self-evident property."
+    },
+    {
+      "question": "Why does the opening exercise distinguish the visitors to Jesus from their gifts?",
+      "options": [
+        "To show Matthew contains no visitors at all",
+        "To establish that the gifts are not mentioned",
+        "To prove all later traditions are historically worthless",
+        "To expose an assumption supplied by later tradition rather than explicit wording"
+      ],
+      "answer": 3,
+      "explanation": "The example teaches precise textual observation without requiring dismissal of the cultural importance of tradition."
+    },
+    {
+      "question": "What does Martin ask of students who grew up without religion?",
+      "options": [
+        "To assume they have no prior conceptions",
+        "To examine cultural assumptions they may still bring to the text",
+        "To adopt a denomination before attending",
+        "To avoid interpreting religious vocabulary"
+      ],
+      "answer": 1,
+      "explanation": "Participation in a culture influenced by Christianity can create familiarity even outside religious households."
+    },
+    {
+      "question": "Why discuss genre during the introductory tour?",
+      "options": [
+        "Every New Testament document is a private diary",
+        "Different literary forms create different interpretive expectations",
+        "Genre determines whether a text is morally good",
+        "Genre makes historical context unnecessary"
+      ],
+      "answer": 1,
+      "explanation": "Letters, narratives, and visions do different kinds of work for their audiences."
+    },
+    {
+      "question": "What question does Martin raise about reading early Christian letters?",
+      "options": [
+        "Whether they were primarily written for solitary modern readers",
+        "Why they contain no social concerns",
+        "Whether their recipients all lived in one city",
+        "How they would be heard when read aloud in a community"
+      ],
+      "answer": 3,
+      "explanation": "Communal performance is part of the historical setting, not merely a modern delivery preference."
+    },
+    {
+      "question": "What is the role of the imagined outsider in Corinth?",
+      "options": [
+        "To make familiar Christian language appear unfamiliar and potentially misunderstood",
+        "To provide a verbatim diary from a known seamstress",
+        "To establish that every rumor about Christians was true",
+        "To replace textual evidence with fiction"
+      ],
+      "answer": 0,
+      "explanation": "The thought experiment defamiliarizes vocabulary. Its suspicions are not presented as reliable reports of all Christian behavior."
+    },
+    {
+      "question": "Which distinction best captures Martin’s treatment of the Trinity in the opening exercise?",
+      "options": [
+        "No later theologian ever used the New Testament",
+        "All first-century Christians used the later creed’s exact wording",
+        "Later doctrinal formulation is distinguishable from its use of New Testament material",
+        "Historical study can by itself settle the doctrine’s theological truth"
+      ],
+      "answer": 2,
+      "explanation": "He separates the history of doctrinal formulation from the theological judgment that later readers may make about it."
+    },
+    {
+      "question": "Why compare the four Gospels rather than immediately combine them?",
+      "options": [
+        "Only the longest Gospel can be interpreted",
+        "Differences make all four historically meaningless",
+        "Their titles guarantee identical authorship",
+        "Their different presentations are evidence for distinct perspectives"
+      ],
+      "answer": 3,
+      "explanation": "Comparison attends to the diversity that a harmonized narrative can obscure."
+    },
+    {
+      "question": "Which question concerns reception history rather than the course’s primary early-context focus?",
+      "options": [
+        "What social problem an early letter addresses",
+        "How later paintings portray Peter’s death",
+        "What an ancient audience might understand by a term",
+        "What genre a first-century narrative uses"
+      ],
+      "answer": 1,
+      "explanation": "Reception history asks how later communities use and interpret earlier texts."
+    },
+    {
+      "question": "What does Martin’s emphasis on early Christianities invite students to investigate?",
+      "options": [
+        "A movement with no meaningful disagreements",
+        "Only the eventual majority position",
+        "Differences in belief, practice, identity, and social relationships",
+        "A single unchanged institution from the beginning"
+      ],
+      "answer": 2,
+      "explanation": "The plural framing directs attention to historical diversity and the processes that later sought unity."
+    },
+    {
+      "question": "Which approach best applies the lecture to a familiar passage?",
+      "options": [
+        "Identify its genre, setting, and audience, then distinguish its wording from later assumptions",
+        "Begin by combining every later interpretation into the text",
+        "Treat familiarity as sufficient evidence of understanding",
+        "Ignore translation because all versions express identical choices"
+      ],
+      "answer": 0,
+      "explanation": "This combines close reading with historical context while making inherited assumptions available for examination."
+    }
+  ],
+  "readings": [],
+  "sourceUrl": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-1",
+  "sourceHash": "71a9ab94544ea97e61a4ef389c33f0dafe95315571cef4160c6b792a0ef6e402",
+  "sourceNote": "Prepared from the complete published lecture transcript. Interpretive positions are attributed to the lecturer; these questions are independent study aids, not Yale assessments. Source: https://oyc.yale.edu/religious-studies/rlst-152/lecture-1",
+  "preparedBy": "AI-assisted editorial preparation",
+  "status": "published"
+}
