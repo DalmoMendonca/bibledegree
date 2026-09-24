@@ -1,61 +1,95 @@
 # Bible Degree
 
-A personal theological learning companion for Dalmo and Viv. React + Vite, deployed to Netlify at https://mdiv.dalmo.ai. Teal learning paths, an original reading-lamb mascot, and separate learner profiles.
+A free, mobile-first theological learning companion built from excellent open courses. The goal is an MDiv-scale independent-study path: serious biblical studies, languages, exegesis, theology, history, philosophy, and—over time—the practical and formational disciplines expected in a Master of Divinity curriculum.
 
-## Run
+Live site: https://mdiv.dalmo.ai
+
+## Product model
+
+### Anonymous and browser-local for now
+
+There are no user profiles or accounts in the current version. Course completion, lesson completion, and quiz results are stored in the browser with `localStorage`.
+
+- no Dalmo/Viv profiles
+- no streak
+- no notebook
+- no export/import workflow
+- no server-side learner database
+
+A future Google sign-in release can migrate browser-local progress into a cloud account.
+
+### Canonical lesson content is static
+
+The app does **not** generate summaries, quizzes, reflection questions, or transcripts at study time. Canonical lesson material is researched or generated once, reviewed, and committed to this repository.
+
+Static source material lives in:
+
+- `public/data/catalog.json` — courses, lecture metadata, provider links, assigned readings/resources
+- `public/data/lectures/<lessonId>.json` — archived lecture transcripts and other source material
+- `public/data/guides/<lessonId>.json` — static summaries, key ideas, mastery questions, reflection prompts, readings, and multiple-choice quizzes
+
+The repository currently includes complete static transcript files for three imported lecture series:
+
+- Dale B. Martin, Yale — *Introduction to New Testament* (26 lectures)
+- Christine Hayes, Yale — *Introduction to the Old Testament* (24 lectures)
+- Paul Freedman, Yale — *The Early Middle Ages* (22 lectures)
+
+That is 72 transcript-backed lectures already bundled. The remaining catalog still needs systematic transcript and study-guide procurement. Missing static material is shown honestly in the interface rather than generated dynamically.
+
+A future course-aware chatbot can use this static corpus as grounding context without changing the canonical lesson content.
+
+## Curriculum UX
+
+The visual language is deliberately tactile and progress-oriented: rounded surfaces, physical button depth, a teal learning path, concise copy, and playful course progression without copying Duolingo branding.
+
+The curriculum remains organized by subject category. A prerequisite map additionally shows sensible learning sequences where dependencies matter, including:
+
+- NT survey → Greek → NT exegesis method → book exegesis
+- OT survey → Hebrew → OT exegesis method → book exegesis
+- systematic-theology progression
+- church-history progression
+- philosophy progression
+
+These arrows are editorial recommendations for this independent-study program, not formal prerequisites imposed by the original course providers.
+
+## MDiv parity roadmap
+
+The original curriculum is unusually deep in academic biblical studies and theology. To approach the content breadth of a contemporary MDiv, the next curriculum expansion should prioritize areas that are currently thin or absent:
+
+1. preaching / homiletics
+2. pastoral theology and pastoral care
+3. Christian worship / liturgy
+4. world Christianity and missions
+5. non-Christian religions and interfaith engagement
+6. church leadership and/or Christian education
+7. public theology / church and society
+8. supervised ministry / field education
+9. an integrative capstone or seminar
+
+Supervised ministry cannot be replaced by open courseware alone; the app can structure competencies, reflection, and documentation, but meaningful parity requires a real ministry context and human supervision.
+
+Product roadmap after the current static-content build:
+
+1. finish transcript procurement and static study guides for every indexed lecture
+2. source open-course material for the missing MDiv practice/formation domains
+3. improve prerequisite/dependency metadata from editorial heuristics into explicit course data
+4. add Google OAuth and cloud progress sync
+5. add a course-aware and lesson-aware chatbot grounded in the static corpus
+6. add supervised-ministry/capstone workflows once the academic curriculum is mature
+
+This project is an independent educational resource. It does not confer an accredited degree or claim accreditation.
+
+## Development
 
 ```sh
-npm ci
+npm install
 npm run dev
+```
+
+Production build:
+
+```sh
 npm run build
 ```
 
-Netlify uses `netlify.toml`; the output directory is `dist`. Server functions live in `netlify/functions`. No API secret belongs in a Vite/browser environment variable.
-
-## Content and actual coverage
-
-The curriculum is imported from the supplied Google Sheet. This snapshot contains 62 courses and 1,938 lecture entries; 1,272 have YouTube embeds. Other indexed lessons open at their course provider. Hours are the original sheet estimates, not measured credit hours. Some rows are alternative courses.
-
-72 Open Yale Courses lectures include published transcripts and available assignment/resource links: Hayes, Martin, and Freedman. Other providers' transcripts are linked when available; unavailable transcripts are explicitly labeled. Readings distinguish assignments from supplementary material. Videos remain with the original providers, who control availability and embedding.
-
-One complete AI-authored **topic guide** for Reeves's first lecture is included, with six mastery prompts, four reflections, and twelve explained quiz questions. It is explicitly not a transcript-grounded summary of Reeves. Other guides are prepared on demand once the server AI credentials are configured.
-
-### Enable live study guides
-
-In the Netlify **mdiv** project's Environment variables, set `OPENAI_API_KEY` as a secret for Functions in production. Redeploy. Alternatively, enable Netlify AI Gateway on a supported team plan; it supplies `OPENAI_API_KEY` and `OPENAI_BASE_URL`. No credential is currently committed or included in the client bundle.
-
-The function uses `gpt-4.1-mini`, validates the returned question structure, and caches default guides in Netlify Blobs. Transcript-based summaries and topic-only guides are labeled differently. Pasted transcripts are sent to the configured AI provider to generate a response, but are not stored in the shared guide cache. Personal reflections are never sent to AI. Generation is rate-limited; AI calls may incur provider charges. Cached and bundled guides do not require a new generation call.
-
-Smoke test after configuration:
-
-```sh
-curl -X POST https://mdiv.dalmo.ai/api/study \
-  -H 'Content-Type: application/json' \
-  -d '{"lessonId":"c31-l2"}'
-```
-
-## Progress and privacy
-
-Profiles, completion, quiz history, and notes are stored in this browser's localStorage. This is **not** authenticated cross-device sync. Settings provides JSON export/import for both profiles. Import replaces local progress. The names are convenient local profiles, not privacy/security boundaries. Course content and cached study guides are public.
-
-The two completed Yale courses are pre-marked from the supplied history. XP starts with activity performed in this app; it is not fabricated historical activity.
-
-## Source gaps to preserve
-
-- Biblical Greek: the old Mounce full course is not entirely free; free introductory lectures and chapter overviews exist at the provider.
-- Historical Theology II: the sheet repeats the Historical Theology I playlist. The second course is retained but unindexed, rather than duplicating the wrong lectures.
-- Frame and O'Connor's old iTunes links and Shepardson's channel need a verified replacement lecture list.
-- London Latin: first 100 playlist items are indexed; additional items require playlist pagination.
-- BiblicalTraining lessons currently route to their verified course page where the provider's lesson selector is available. They do not pretend to contain an embedded player.
-
-## Maintaining content
-
-`public/data/catalog.json` contains course and lecture metadata. `public/data/lectures/{id}.json` contains source transcripts/resources. `public/data/guides/{id}.json` contains bundled guides. Imported IDs are stable and form progress keys; preserve IDs when correcting titles or links.
-
-`scripts/import-playlists.py` and `scripts/import-yale.py` document the imports. `scripts/import-extra.py` depends on cached source HTML and should only be run after collecting those source pages. `scripts/seed-first-guide.py` reproduces the bundled guide. Python import dependencies: requests and beautifulsoup4. Source cache files are not committed.
-
-## Attribution
-
-Open Yale Courses material: Yale University and the credited instructors, under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/us/), except third-party materials excluded by Yale's terms. Each transcript preserves a source link and attribution. Those course materials and derivatives remain subject to their applicable license; this repository does not relicense them. See https://oyc.yale.edu/terms for the controlling terms.
-
-Provider names, titles, and links identify their original owners. YouTube videos are embedded, not copied. This project is independent and is not affiliated with Yale, BiblicalTraining, Gordon-Conwell, Duolingo, or the other institutions. Independent learning does not award an accredited MDiv.
+Netlify publishes the Vite build configured by `netlify.toml`.
