@@ -277,5 +277,43 @@
   "preparedBy": "AI-assisted preparation, one-time static publication",
   "status": "published",
   "readings": [],
-  "sourceHash": "cbcfaae2fdf7a43adc984e48d400146ee1ba362112317fb5d8e5e669af2a03a6"
+  "sourceHash": "5e6f334af9514558498d140ce5a50b6a9976f7143a3bd558b7944625149ec93d",
+  "outline": [
+    {
+      "title": "Scripture vs. Canon",
+      "points": [
+        "Scripture is any holy writing, while canon is a definitive list of texts a religious community adheres to."
+      ]
+    },
+    {
+      "title": "Development of Christian Texts",
+      "points": [
+        "Paul's letters were the earliest Christian writings, later regarded as scripture and forming the basis of the New Testament."
+      ]
+    },
+    {
+      "title": "Influence of Oral Tradition",
+      "points": [
+        "The gospels originated from oral traditions about Jesus, which were later documented, starting with Mark around 70 CE."
+      ]
+    },
+    {
+      "title": "Role of Marcion",
+      "points": [
+        "Marcion proposed a limited canon, excluding Jewish scriptures, which prompted broader debates on canon formation."
+      ]
+    },
+    {
+      "title": "Criteria for Canon Inclusion",
+      "points": [
+        "Texts were included based on apostolic authorship, acceptance, and theological alignment with proto-orthodox Christianity."
+      ]
+    },
+    {
+      "title": "Impact of the Codex",
+      "points": [
+        "The codex allowed for easier compilation and comparison of texts, influencing the solidification of the New Testament canon."
+      ]
+    }
+  ]
 }

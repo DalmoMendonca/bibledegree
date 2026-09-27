@@ -1,0 +1,19 @@
+{
+  "transcriptUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-21/",
+  "sourceUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-21/",
+  "attribution": "William Lane Craig / Reasonable Faith. Copyright retained by the publisher; full transcript linked at source.",
+  "readings": [],
+  "transcriptMatch": "Publisher page embeds the exact catalog video ID.",
+  "transcriptSourceHash": "453bce155b528123ceed3e94afdcb2d9b2a897d34d7f979433d6bc1383273d4f",
+  "transcriptCheckedAt": "2026-09-27",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 25718,
+    "words": 4554,
+    "cleanedSha256": "81fde56969ba7d10de1caf138874fe2ca89cf3d482da4cbf49c2c694e86a666b",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-21/",
+    "checkedAt": "2026-09-27"
+  }
+}

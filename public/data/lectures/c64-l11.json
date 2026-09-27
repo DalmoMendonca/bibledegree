@@ -1,0 +1,19 @@
+{
+  "transcriptUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-11/",
+  "sourceUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-11/",
+  "attribution": "William Lane Craig / Reasonable Faith. Copyright retained by the publisher; full transcript linked at source.",
+  "readings": [],
+  "transcriptMatch": "Publisher page embeds the exact catalog video ID.",
+  "transcriptSourceHash": "f26bd4a632898643a6a3deacb2c2a9bbeee76d3455e329c5a7959506c7454be7",
+  "transcriptCheckedAt": "2026-09-27",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 24962,
+    "words": 4371,
+    "cleanedSha256": "2f955b1ce0bd7b482ae904b1c681e826d93b2ca276f0eed70640ee350d6802bf",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-11/",
+    "checkedAt": "2026-09-27"
+  }
+}

@@ -217,8 +217,46 @@
   ],
   "readings": [],
   "sourceUrl": "https://oyc.yale.edu/history/hist-210/lecture-2",
-  "sourceHash": "7371061a6ddb63560b04b8fd20f874002b353ab22f6ba6a6fbbc0aa5e74fd5ce",
+  "sourceHash": "2e4fdf34a1e9d5336ba3a0f28f11cd32aa8f556d307a63cb0e7357c625d24f32",
   "sourceNote": "Prepared from the complete published lecture transcript. Interpretive positions are attributed to the lecturer; these questions are independent study aids, not Yale assessments. Source: https://oyc.yale.edu/history/hist-210/lecture-2",
   "preparedBy": "AI-assisted editorial preparation",
-  "status": "published"
+  "status": "published",
+  "outline": [
+    {
+      "title": "Several pressures converge",
+      "points": [
+        "Frontier invasions, unstable succession, and fiscal strain reinforced one another; no single item exhausts the crisis."
+      ]
+    },
+    {
+      "title": "Military incentives matter",
+      "points": [
+        "Donatives rewarded troops when a new emperor appeared, creating an incentive structure that could undermine stable rule."
+      ]
+    },
+    {
+      "title": "Coinage and confidence",
+      "points": [
+        "Debasement reduced precious-metal content, encouraged the circulation of poorer coins, and contributed to inflation and uncertainty."
+      ]
+    },
+    {
+      "title": "Taxation supports defense",
+      "points": [
+        "Diocletian’s administrative work sought a more effective valuation and collection of resources to support an expanded army."
+      ]
+    },
+    {
+      "title": "Rule is reorganized",
+      "points": [
+        "The tetrarchy divided duties among two Augusti and two Caesars, while court ceremony elevated the distance and authority of the emperor."
+      ]
+    },
+    {
+      "title": "Mixed outcomes, substantial survival",
+      "points": [
+        "Price controls and the succession system failed, but the state’s recovery makes it misleading to call the whole reform program unsuccessful."
+      ]
+    }
+  ]
 }

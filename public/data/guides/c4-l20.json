@@ -277,5 +277,43 @@
   "preparedBy": "AI-assisted preparation, one-time static publication",
   "status": "published",
   "readings": [],
-  "sourceHash": "3076a277e9eda14614910fcc28eb6350cc898a2bb4f50c37532d0d8dd362a16a"
+  "sourceHash": "3296f190f00f445a7e422d2887537151718fc83cafbacc6da0d7ff4093c908c8",
+  "outline": [
+    {
+      "title": "The Acts of Paul and Thecla",
+      "points": [
+        "A second-century Christian text promoting asceticism and challenging traditional family values."
+      ]
+    },
+    {
+      "title": "Apocryphal Literature",
+      "points": [
+        "Non-canonical Christian writings, often misunderstood as 'hidden' but historically significant."
+      ]
+    },
+    {
+      "title": "Asceticism in Early Christianity",
+      "points": [
+        "The practice of celibacy and sexual abstinence as a spiritual ideal, contrasting modern views."
+      ]
+    },
+    {
+      "title": "Cultural Context of the Ancient World",
+      "points": [
+        "Sex was linked to birth and death cycles; Christianity offered an escape through celibacy."
+      ]
+    },
+    {
+      "title": "Thecla as a Feminist Icon",
+      "points": [
+        "Thecla's defiance of gender roles and her role as an apostle raises questions about feminism."
+      ]
+    },
+    {
+      "title": "Conflict with Pastoral Epistles",
+      "points": [
+        "The contrasting views on marriage and family between The Acts of Paul and Thecla and Pastoral Epistles."
+      ]
+    }
+  ]
 }

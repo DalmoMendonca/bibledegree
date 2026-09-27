@@ -217,8 +217,46 @@
   ],
   "readings": [],
   "sourceUrl": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-1",
-  "sourceHash": "26664e4fbf03986e606ca108c8f75b1cdef292f5945c4efa9b7157e5a765a8c3",
+  "sourceHash": "8699338fb43c5df249456aaa9bcb5397003d628727b06cb2a23d4848811c7504",
   "sourceNote": "Prepared from the complete published lecture transcript. Interpretive positions are attributed to the lecturer; these questions are independent study aids, not Yale assessments. Source: https://oyc.yale.edu/religious-studies/rlst-145/lecture-1",
   "preparedBy": "AI-assisted editorial preparation",
-  "status": "published"
+  "status": "published",
+  "outline": [
+    {
+      "title": "An anthology with many voices",
+      "points": [
+        "Different genres and historical settings yield diverse perspectives. Hayes asks readers to preserve these differences rather than assume that every biblical voice says the same thing."
+      ]
+    },
+    {
+      "title": "Shared stories, changed meanings",
+      "points": [
+        "The flood comparison shows how similar narrative elements can support different accounts of divine motivation and human wrongdoing."
+      ]
+    },
+    {
+      "title": "Editors and inherited traditions",
+      "points": [
+        "A final editorial perspective need not perfectly erase earlier voices. Tensions can illuminate the history of a text’s composition."
+      ]
+    },
+    {
+      "title": "Characters are not automatic moral models",
+      "points": [
+        "Hayes emphasizes psychologically complex figures capable of deception, failure, growth, and loyalty. Portrayal must be distinguished from endorsement."
+      ]
+    },
+    {
+      "title": "Community and canon",
+      "points": [
+        "The Tanakh’s three divisions and the Septuagint’s different arrangement show that communities organize and authorize collections in different ways."
+      ]
+    },
+    {
+      "title": "An academic method with limits",
+      "points": [
+        "The course investigates the demonstrably human production and transmission of the texts. It does not require either affirming or denying divine inspiration."
+      ]
+    }
+  ]
 }

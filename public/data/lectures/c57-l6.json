@@ -9,5 +9,18 @@
       "kind": "Publisher transcript",
       "access": "Free full text at Biblical eLearning"
     }
-  ]
+  ],
+  "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/08/deSilva_Apocrypha_EN_Lecture06.pdf",
+  "transcriptSourceHash": "244fbd4b4a7212225a43de07c39d7f9c6f80d2a431cddcd0b3c8f244ae7ff6d4",
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 37293,
+    "words": 6533,
+    "cleanedSha256": "30b1e5f4eb4699ebfae01c2acaa59ec2fd5d55cdce46524c9f3d6777015f596b",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/08/deSilva_Apocrypha_EN_Lecture06.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

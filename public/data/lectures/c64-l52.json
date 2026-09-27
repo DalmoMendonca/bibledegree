@@ -1,0 +1,19 @@
+{
+  "transcriptUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-51/",
+  "sourceUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-51/",
+  "attribution": "William Lane Craig / Reasonable Faith. Copyright retained by the publisher; full transcript linked at source.",
+  "readings": [],
+  "transcriptMatch": "Publisher page embeds the exact catalog video ID.",
+  "transcriptSourceHash": "974fb3caae03a13d2f02cc001f3274b9a0338dac16fdeec6bd64a1c8f1befcfd",
+  "transcriptCheckedAt": "2026-09-27",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 26509,
+    "words": 4673,
+    "cleanedSha256": "ed79f8fc920d4d2ad902b12fbfd172c431b70136afab5051fe80abc412079413",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-51/",
+    "checkedAt": "2026-09-27"
+  }
+}

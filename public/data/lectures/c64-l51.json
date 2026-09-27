@@ -1,0 +1,19 @@
+{
+  "transcriptUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-50/",
+  "sourceUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-50/",
+  "attribution": "William Lane Craig / Reasonable Faith. Copyright retained by the publisher; full transcript linked at source.",
+  "readings": [],
+  "transcriptMatch": "Publisher page embeds the exact catalog video ID.",
+  "transcriptSourceHash": "1d286e4eb3f9950927c729779979b9a47b8b5429e0406935eb2bf4f231ef0e6a",
+  "transcriptCheckedAt": "2026-09-27",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 21235,
+    "words": 3871,
+    "cleanedSha256": "26cef4ad18fe9376e9953f03906f2ff7575d8719f277ea19a0726e5d347bc6b7",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-50/",
+    "checkedAt": "2026-09-27"
+  }
+}

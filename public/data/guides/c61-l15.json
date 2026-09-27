@@ -277,5 +277,43 @@
   "preparedBy": "AI-assisted preparation, one-time static publication",
   "status": "published",
   "readings": [],
-  "sourceHash": "a6461d266066b5426ecba89dd520d54799509be9374ec1a0b15f09e58fc47206"
+  "sourceHash": "19f313b39603dfa9372cab1c0253fc8f03da3a8f822d125685dfd36eff9a9a54",
+  "outline": [
+    {
+      "title": "Paradox of Islamic Conquests",
+      "points": [
+        "Despite rapid territorial expansion, Islam did not enforce conversions, remaining a minority religion for centuries."
+      ]
+    },
+    {
+      "title": "Weakness of Persia and Byzantium",
+      "points": [
+        "These empires were unable to withstand Arab assaults, facilitating rapid conquests."
+      ]
+    },
+    {
+      "title": "Internal Divisions in Islam",
+      "points": [
+        "Disputes over succession after Mohammed's death led to the Sunni-Shiite split."
+      ]
+    },
+    {
+      "title": "Factors Favoring Conquests",
+      "points": [
+        "Desert warfare mastery, religious motivation, and exploiting local discontent aided Arab success."
+      ]
+    },
+    {
+      "title": "Transformation of the Caliphate",
+      "points": [
+        "The move from Medina to Damascus marked a shift to a more cosmopolitan and monarchic regime."
+      ]
+    },
+    {
+      "title": "Non-Arab Muslim Dynamics",
+      "points": [
+        "The gradual Islamization process involved increasing numbers of non-Arab converts."
+      ]
+    }
+  ]
 }

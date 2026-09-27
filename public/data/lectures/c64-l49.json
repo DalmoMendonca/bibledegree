@@ -1,0 +1,19 @@
+{
+  "transcriptUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-48/",
+  "sourceUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-48/",
+  "attribution": "William Lane Craig / Reasonable Faith. Copyright retained by the publisher; full transcript linked at source.",
+  "readings": [],
+  "transcriptMatch": "Publisher page embeds the exact catalog video ID.",
+  "transcriptSourceHash": "6b21f4542036c2b46b17d15b62530e7783d7aba7cd77fcbdb2e51da969becba2",
+  "transcriptCheckedAt": "2026-09-27",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 21864,
+    "words": 3953,
+    "cleanedSha256": "65dba5a96f620fc524923b8e40b304e89ea2ff7b887b7bc181c2fc9a6937186b",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-48/",
+    "checkedAt": "2026-09-27"
+  }
+}

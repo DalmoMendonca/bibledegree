@@ -277,5 +277,43 @@
   "preparedBy": "AI-assisted preparation, one-time static publication",
   "status": "published",
   "readings": [],
-  "sourceHash": "502a3d717b8155ad811863129c4e900f00126013275b877a8c97c6454ee77a5d"
+  "sourceHash": "0026b47a22d6daa6f3d2a5448ff56245bef126a65d98754356b9ab0794206440",
+  "outline": [
+    {
+      "title": "Carolingian Renaissance",
+      "points": [
+        "A planned revival of learning under Charlemagne, focusing on both classical and Christian texts to support the state and church."
+      ]
+    },
+    {
+      "title": "Preservation of Learning",
+      "points": [
+        "Before the Carolingians, learning was preserved by clerics and monasteries, with scriptoria established to copy manuscripts."
+      ]
+    },
+    {
+      "title": "Charlemagne's Educational Program",
+      "points": [
+        "Aimed to standardize education, especially for clergy, to improve governance and ensure uniformity across the empire."
+      ]
+    },
+    {
+      "title": "Classical Texts and Manuscripts",
+      "points": [
+        "The Carolingians played a crucial role in preserving classical texts, copying them in monasteries, and saving them from obscurity."
+      ]
+    },
+    {
+      "title": "Einhard’s Relic Acquisition",
+      "points": [
+        "Einhard's story of acquiring relics of Sts Marcellinus and Peter shows the intertwining of piety and intellectual endeavors."
+      ]
+    },
+    {
+      "title": "Piety and Education",
+      "points": [
+        "Despite the focus on elite education, the piety of the educated mirrored that of the common people, with shared beliefs in the supernatural."
+      ]
+    }
+  ]
 }

@@ -277,5 +277,43 @@
   "preparedBy": "AI-assisted preparation, one-time static publication",
   "status": "published",
   "readings": [],
-  "sourceHash": "8653f0a7acde42408c75f79453e5b038fecb72b32d018ef83b3b4a7f47f93df7"
+  "sourceHash": "4f75672622f1957dce0819198654142cc854c186de3d80ccc76a8bd010925cc7",
+  "outline": [
+    {
+      "title": "Gregory of Tours' Historical Style",
+      "points": [
+        "Gregory's work is characterized by its seemingly disorganized narrative and emphasis on supernatural events, differing from classical historical styles."
+      ]
+    },
+    {
+      "title": "Role of the Supernatural",
+      "points": [
+        "Gregory emphasizes miracles and divine intervention, particularly through St. Martin, showing a world where supernatural forces influence events."
+      ]
+    },
+    {
+      "title": "Clovis and Catholicism",
+      "points": [
+        "Clovis is portrayed as a pivotal figure for converting the Franks to Catholicism, avoiding Arianism, and thus receiving divine favor."
+      ]
+    },
+    {
+      "title": "Merovingian Dynasty",
+      "points": [
+        "The lecture covers the Merovingian dynasty's origin, leadership style, and how Clovis' descendants continued his legacy through violent means."
+      ]
+    },
+    {
+      "title": "Political and Religious Dynamics",
+      "points": [
+        "Gregory's narrative illustrates the intertwining of political power and religious influence, with the Church playing a key role in governance."
+      ]
+    },
+    {
+      "title": "Gregory's Historical Significance",
+      "points": [
+        "As one of the few sources on the Merovingians, Gregory's detailed accounts are crucial for understanding this period, despite their chaotic style."
+      ]
+    }
+  ]
 }

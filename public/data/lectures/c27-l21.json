@@ -9,5 +9,18 @@
       "kind": "Publisher transcript",
       "access": "Free full text"
     }
-  ]
+  ],
+  "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/02/Waltke_Psalms_EN_Lecture08.pdf",
+  "transcriptSourceHash": "70dd55edf680539d20985c692d9c17bb756e5838e54bcd7f3dfe8973f4cdb8b2",
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 30105,
+    "words": 5534,
+    "cleanedSha256": "a0c3e676d6ae91a2ab8faacba044726060dddd26411cc85b33cc0737fae5d202",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/02/Waltke_Psalms_EN_Lecture08.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

@@ -5,12 +5,12 @@
 - Anonymous browser-local progress; no profiles, streaks, notebook, backups, or live AI generation.
 - Generic Journey page; fresh visitors start at zero.
 - Seven suggested course paths with visible progression and branches.
-- 42 static, transcript-grounded study packs with summaries, terms, mastery questions, reflections, and 650 quiz questions.
-- 72 full transcripts, 167 publisher transcript links, and 147 publisher study-guide links.
+- 44 static, transcript-grounded study packs with summaries, terms, mastery questions, reflections, and 682 quiz questions.
+- 72 full transcripts, 216 publisher transcript links, and 147 publisher study-guide links.
 
 ## Essential content work — still incomplete
 
-The catalog has 1,686 full lectures and 252 supplemental previews. 42 lectures have study packs; 1,644 remain. 72 have inline full transcripts; 167 more link to a publisher transcript. The remaining 1,447 have no verified transcript resource in the app. Publisher study guides are additional external resources, not completed in-app quizzes.
+The catalog has 1,686 full lectures and 252 supplemental previews. 44 lectures have study packs; 1,642 remain. 72 have inline full transcripts; 216 more link to a publisher transcript. The remaining 1,398 have no verified transcript resource in the app. Publisher study guides are additional external resources, not completed in-app quizzes.
 
 For every remaining lesson: obtain an authorized transcript or transcribe accessible audio, check it against the recording, preserve attribution and permissions, prepare lesson-specific summaries/questions/reflections/readings, and review answer accuracy. Verify assigned readings against actual syllabi; label supplementary readings separately. Add substantive written assignments and rubric-based assessments as courses mature.
 
@@ -37,3 +37,5 @@ The goal is comparable breadth and rigor for independent learning. The app does 
 - Optional lesson chatbot grounded in the full course and current lesson, with citations, cost controls, and clear separation from published study materials.
 
 Neither feature is active in this release.
+
+Detailed transcript acquisition and access barriers: [TRANSCRIPTS.md](TRANSCRIPTS.md).

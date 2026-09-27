@@ -9,5 +9,18 @@
       "kind": "Publisher transcript",
       "access": "Free full text at Biblical eLearning"
     }
-  ]
+  ],
+  "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/08/DeSilva_CWNT_EN_Lecture07.pdf",
+  "transcriptSourceHash": "60d2b6867345f75da6a9d4ccc6af2e6a38bf709e50dc65bc9561c7a0451cba84",
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 47556,
+    "words": 8394,
+    "cleanedSha256": "0414d0c4fbf53a9e3a73487f8fda5fb15ea687634af9b47f387a2597b1f35418",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/08/DeSilva_CWNT_EN_Lecture07.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

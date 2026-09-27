@@ -16,5 +16,18 @@
       "access": "Free prepared study material; publisher labels this AI-assisted"
     }
   ],
-  "studyGuideUrl": "https://biblicalelearning.org/meadors_1cor_session26-3/"
+  "studyGuideUrl": "https://biblicalelearning.org/meadors_1cor_session26-3/",
+  "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/09/Meadors_1Cor_EN_Lecture26.pdf",
+  "transcriptSourceHash": "3417270caec461107fdd3c7a8a5e3acd74de44b42c201ee2df46cfebeeda6c01",
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 58288,
+    "words": 10548,
+    "cleanedSha256": "fcc308d3cd2da360a2f72d4a8ae78322cdcc727684d49d82cae26d0aa5b9f77d",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/09/Meadors_1Cor_EN_Lecture26.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

@@ -277,5 +277,43 @@
   "preparedBy": "AI-assisted preparation, one-time static publication",
   "status": "published",
   "readings": [],
-  "sourceHash": "9560b3f44a0cfa9cbe8411502769aabe226ccd0f6f69daf831ebe92b97dfd298"
+  "sourceHash": "5faf23c1c036f9f0d061821bd259d610357d837afeb3299230958b9c7c1c8c06",
+  "outline": [
+    {
+      "title": "Ancient Pseudepigraphy",
+      "points": [
+        "Pseudepigraphy involves falsely attributing works to notable figures, common in ancient times."
+      ]
+    },
+    {
+      "title": "Pauline Corpus",
+      "points": [
+        "The Pauline Corpus includes undisputed letters by Paul and disputed letters like Colossians and Ephesians."
+      ]
+    },
+    {
+      "title": "Realized Eschatology",
+      "points": [
+        "Colossians and Ephesians depict salvation as already attained, unlike Paul's future-oriented eschatology."
+      ]
+    },
+    {
+      "title": "High Christology",
+      "points": [
+        "Colossians and Ephesians present Christ as embodying the fullness of God, differing from Paul's view."
+      ]
+    },
+    {
+      "title": "Writing Style",
+      "points": [
+        "Differences in writing style and vocabulary suggest different authorship for Colossians and Ephesians."
+      ]
+    },
+    {
+      "title": "Cultural Impact",
+      "points": [
+        "The letters reflect an evolving interpretation of Paul’s teachings as his influence became historical."
+      ]
+    }
+  ]
 }

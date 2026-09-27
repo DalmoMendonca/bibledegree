@@ -16,5 +16,18 @@
       "access": "Free prepared study material; publisher labels this AI-assisted"
     }
   ],
-  "studyGuideUrl": "https://biblicalelearning.org/waltke_psalms_session22_notebooklm_guides-2/"
+  "studyGuideUrl": "https://biblicalelearning.org/waltke_psalms_session22_notebooklm_guides-2/",
+  "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/02/Waltke_Psalms_EN_Lecture22.pdf",
+  "transcriptSourceHash": "248b7390f381ab49dc6889ec668d40f19e7a13c1d6ed63958aef7ba020f2d05a",
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 46559,
+    "words": 8584,
+    "cleanedSha256": "08be08bf3e2bc86084c463b6f5497b6c2ec3b9f835c9f5ddb8e52f16603b6674",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/02/Waltke_Psalms_EN_Lecture22.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

@@ -277,5 +277,43 @@
   "preparedBy": "AI-assisted preparation, one-time static publication",
   "status": "published",
   "readings": [],
-  "sourceHash": "8e6c1b897ef2e6138dda36b79047efc8fe5c255b778c9b03414b264e00388a8e"
+  "sourceHash": "bd5ddfd3186bd83db8b215663600f8af25a1fdbe42a6d0f487e91128a9c52084",
+  "outline": [
+    {
+      "title": "Historical Critical Method",
+      "points": [
+        "A dominant method in biblical studies focusing on the historical context of texts, but not the only way to interpret scripture."
+      ]
+    },
+    {
+      "title": "Theological Interpretation",
+      "points": [
+        "An approach that considers the religious and theological meanings of texts, beyond their historical context."
+      ]
+    },
+    {
+      "title": "Hermeneutics",
+      "points": [
+        "The study of interpretation theory, particularly how texts like the Bible should be understood."
+      ]
+    },
+    {
+      "title": "Hebrews as a Sermon",
+      "points": [
+        "Hebrews is a carefully structured sermon, not a letter, using Jewish scriptures to argue for Jesus’ superiority."
+      ]
+    },
+    {
+      "title": "Interpretation of Jewish Scripture",
+      "points": [
+        "Early Christians reinterpreted Jewish scriptures, often allegorically, to support Christian theology."
+      ]
+    },
+    {
+      "title": "Dualism in Hebrews",
+      "points": [
+        "Hebrews contrasts the old and new covenants, spiritual and physical, using a dualistic framework common in Hellenistic thought."
+      ]
+    }
+  ]
 }

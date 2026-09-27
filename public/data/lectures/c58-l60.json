@@ -16,5 +16,18 @@
       "access": "Free prepared study material; publisher labels this AI-assisted"
     }
   ],
-  "studyGuideUrl": "https://biblicalelearning.org/fowler_otb_session20/"
+  "studyGuideUrl": "https://biblicalelearning.org/fowler_otb_session20/",
+  "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/04/Fowler_OTB_EN_Lect20.pdf",
+  "transcriptSourceHash": "88ffd6e87998d269fe38d80514a20ad607fbbcb031fa1fa3f8bbbef576e69e9a",
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 35431,
+    "words": 6414,
+    "cleanedSha256": "4868acfdb30881e947387a879553554a6346253a85744cbb19390c52853fed56",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/04/Fowler_OTB_EN_Lect20.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

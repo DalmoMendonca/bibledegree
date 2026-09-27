@@ -19,5 +19,15 @@
   "studyGuideUrl": "https://biblicalelearning.org/meadors_1cor_session18-3/",
   "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/09/Meadors_1Cor_EN_Lecture18.pdf",
   "transcriptSourceHash": "25c09578762ce3cd48044a439f1278700f85ee65e7bbe83dbffd334bc505312f",
-  "transcriptCheckedAt": "2026-09-25"
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 49402,
+    "words": 9085,
+    "cleanedSha256": "a49da6e555a005d5be5c672ec60a013a6fb0f575e250ba1cc597ea005e79c19a",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/09/Meadors_1Cor_EN_Lecture18.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

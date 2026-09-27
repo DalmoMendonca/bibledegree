@@ -217,8 +217,46 @@
   ],
   "readings": [],
   "sourceUrl": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-1",
-  "sourceHash": "71a9ab94544ea97e61a4ef389c33f0dafe95315571cef4160c6b792a0ef6e402",
+  "sourceHash": "4694fc069084a919fe7bb660144d9cdcb1b39629de0d4dda79292cde7192bf8c",
   "sourceNote": "Prepared from the complete published lecture transcript. Interpretive positions are attributed to the lecturer; these questions are independent study aids, not Yale assessments. Source: https://oyc.yale.edu/religious-studies/rlst-152/lecture-1",
   "preparedBy": "AI-assisted editorial preparation",
-  "status": "published"
+  "status": "published",
+  "outline": [
+    {
+      "title": "Scripture within a community",
+      "points": [
+        "Martin treats scriptural status as a relationship between a text and a community that receives it as sacred. The classroom’s historical question is different from a church’s devotional question."
+      ]
+    },
+    {
+      "title": "Tradition is not identical with textual wording",
+      "points": [
+        "Familiar images and doctrines may belong to later interpretation. Close reading distinguishes a document’s statements from the cultural memory surrounding it."
+      ]
+    },
+    {
+      "title": "Twenty-seven documents, multiple genres",
+      "points": [
+        "Gospels, letters, narrative, homiletic discourse, and apocalypse require attention to distinct forms and purposes."
+      ]
+    },
+    {
+      "title": "Ancient audiences and public reading",
+      "points": [
+        "Martin asks what a letter would do when read aloud in a gathered community, rather than assuming modern private reading conditions."
+      ]
+    },
+    {
+      "title": "Vocabulary can conceal strangeness",
+      "points": [
+        "Ordinary meanings behind familiar terms help expose the distance between modern expectations and ancient usage."
+      ]
+    },
+    {
+      "title": "Diversity before synthesis",
+      "points": [
+        "The course separates voices and contexts to investigate early Christian disagreements before imposing later unity."
+      ]
+    }
+  ]
 }

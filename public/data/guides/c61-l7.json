@@ -277,5 +277,43 @@
   "preparedBy": "AI-assisted preparation, one-time static publication",
   "status": "published",
   "readings": [],
-  "sourceHash": "19e01dc5be0e70760a7224d3e2587ee7644813720fbec897341477aa1da2ac04"
+  "sourceHash": "0799f35db500b4a105f5f08e467502859e21a19cf59cc5afcf49a79367c38097",
+  "outline": [
+    {
+      "title": "Complexity of Roman Collapse",
+      "points": [
+        "Freedman argues that the fall of Rome involved both immediate events and long-term trends, challenging simplistic explanations."
+      ]
+    },
+    {
+      "title": "Barbarian Accommodation",
+      "points": [
+        "Barbarians sought to integrate into Roman society rather than destroy it, often through alliances and settlements."
+      ]
+    },
+    {
+      "title": "Tacitus’ Critique",
+      "points": [
+        "Tacitus used his portrayal of Germanic tribes to critique Roman society, highlighting perceived virtues of the 'noble savage'."
+      ]
+    },
+    {
+      "title": "Ethnogenesis",
+      "points": [
+        "Barbarian identities, such as the Visigoths, were partly constructed through interactions with Romans, involving fictive kinship."
+      ]
+    },
+    {
+      "title": "Burgundian Code",
+      "points": [
+        "This legal code reveals the integration of Roman and barbarian legal practices, emphasizing compensation and class distinctions."
+      ]
+    },
+    {
+      "title": "Intellectual Preservation",
+      "points": [
+        "Figures like Boethius and Cassiodorus played key roles in preserving Roman intellectual traditions during barbarian rule."
+      ]
+    }
+  ]
 }

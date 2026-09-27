@@ -16,5 +16,18 @@
       "access": "Free prepared study material; publisher labels this AI-assisted"
     }
   ],
-  "studyGuideUrl": "https://biblicalelearning.org/walton_job_session09-3/"
+  "studyGuideUrl": "https://biblicalelearning.org/walton_job_session09-3/",
+  "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2023/06/Walton_Job_Session09.pdf",
+  "transcriptSourceHash": "1c4464d461c30c09992dc861f102cdade57869980f627ee55c038f8dbfeb8dcc",
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 8398,
+    "words": 1511,
+    "cleanedSha256": "4f51dd133831c1cc416129f01334ea80188daa58dcd5627201aa0192c8061742",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2023/06/Walton_Job_Session09.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

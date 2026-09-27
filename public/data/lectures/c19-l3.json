@@ -9,5 +9,18 @@
       "kind": "Publisher transcript",
       "access": "Free full text"
     }
-  ]
+  ],
+  "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/03/Keener_Matthew-_EN_Lecture01.pdf",
+  "transcriptSourceHash": "764b7206dfc3ef889f5fe48f13d794e4d5ca1ad53ac8a433bf760be8ec6d71d2",
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 59874,
+    "words": 10352,
+    "cleanedSha256": "d346ddb58e14eef28b0842513019efd1353ed48f18d40804f1a6422aef5223c8",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/03/Keener_Matthew-_EN_Lecture01.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

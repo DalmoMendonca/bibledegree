@@ -217,8 +217,46 @@
   ],
   "readings": [],
   "sourceUrl": "https://oyc.yale.edu/history/hist-210/lecture-1",
-  "sourceHash": "68a6a51576c2344912c062ab786f502a5fcdf4cbb1adc0aea191192cbc1ffc47",
+  "sourceHash": "dd95c3212b1bdea8304a8d38f9ec4af808073c2cf8f48f07ae6ec9c8217e5c27",
   "sourceNote": "Prepared from the complete published lecture transcript. Interpretive positions are attributed to the lecturer; these questions are independent study aids, not Yale assessments. Source: https://oyc.yale.edu/history/hist-210/lecture-1",
   "preparedBy": "AI-assisted editorial preparation",
-  "status": "published"
+  "status": "published",
+  "outline": [
+    {
+      "title": "An empire with several heirs",
+      "points": [
+        "The course follows Roman legacies through the Western church, Byzantium, successor kingdoms, and the regions transformed by Islam."
+      ]
+    },
+    {
+      "title": "Gibbon is an interpreter",
+      "points": [
+        "His praise of the second century and criticism of Christianity reflect an Enlightenment perspective that the lecture interrogates."
+      ]
+    },
+    {
+      "title": "Stability is not equal benefit",
+      "points": [
+        "Durability and security are compatible with social inequality and laws that privilege property holders."
+      ]
+    },
+    {
+      "title": "The Mediterranean as center",
+      "points": [
+        "Control of the sea’s shores and a shared cultural orientation made the Mediterranean fundamental to Roman organization."
+      ]
+    },
+    {
+      "title": "Civic elites connect the system",
+      "points": [
+        "Local benefactors and common elite practices sustained urban institutions and contributed to imperial cohesion."
+      ]
+    },
+    {
+      "title": "Crisis requires explanation",
+      "points": [
+        "Long-standing weaknesses alone do not explain why crises occur at a particular time or why regions experience different outcomes."
+      ]
+    }
+  ]
 }

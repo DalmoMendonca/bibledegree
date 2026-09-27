@@ -277,5 +277,43 @@
   "preparedBy": "AI-assisted preparation, one-time static publication",
   "status": "published",
   "readings": [],
-  "sourceHash": "6400d35fd940a51bc593e41b0fed8af34fd1362522bc52293879b0e5a77ff00f"
+  "sourceHash": "660fbcc8de400555d2346229aa46cd17e4f0c7242be6304e05adf032b81f22d5",
+  "outline": [
+    {
+      "title": "Lamentations",
+      "points": [
+        "A book of dirges mourning Jerusalem's destruction, traditionally linked to Jeremiah, highlighting grief and the theme of sin leading to divine wrath."
+      ]
+    },
+    {
+      "title": "Wisdom Literature",
+      "points": [
+        "Includes Proverbs, Job, and Ecclesiastes, focusing on practical advice, human intelligence, and understanding societal ways."
+      ]
+    },
+    {
+      "title": "Proverbs",
+      "points": [
+        "Promotes the idea of a moral world where righteousness leads to prosperity, connecting wisdom with reverence for God."
+      ]
+    },
+    {
+      "title": "Book of Job",
+      "points": [
+        "Challenges the notion of a moral order by presenting undeserved suffering, questioning divine justice and the reasons for human virtue."
+      ]
+    },
+    {
+      "title": "God's Response in Job",
+      "points": [
+        "God speaks from a whirlwind, highlighting divine wisdom beyond human understanding and challenging human-centric views of justice."
+      ]
+    },
+    {
+      "title": "Existential Questions",
+      "points": [
+        "Job raises profound questions about the nature of righteousness, the purpose of suffering, and the reliability of a moral universe."
+      ]
+    }
+  ]
 }

@@ -19,5 +19,15 @@
   "studyGuideUrl": "https://biblicalelearning.org/keener_matthew_session10/",
   "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/03/Keener_Matthew-_EN_Lecture10.pdf",
   "transcriptSourceHash": "c61222f1ecc29680f79336a52cb283c96fae09a73be5700e4a5c84240aa583f9",
-  "transcriptCheckedAt": "2026-09-25"
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 50587,
+    "words": 8996,
+    "cleanedSha256": "a381f03a0c46a69e0d9b7d58360c81a83eed523d56be973039aff45fe3d837b0",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/03/Keener_Matthew-_EN_Lecture10.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

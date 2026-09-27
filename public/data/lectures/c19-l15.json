@@ -16,5 +16,18 @@
       "access": "Free prepared study material; publisher labels this AI-assisted"
     }
   ],
-  "studyGuideUrl": "https://biblicalelearning.org/keener_matthew_session05/"
+  "studyGuideUrl": "https://biblicalelearning.org/keener_matthew_session05/",
+  "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/03/Keener_Matthew-_EN_Lecture05.pdf",
+  "transcriptSourceHash": "f73acebd52db9d626ac1c888d29faacd74f5cf03e3a540d74acc8cf66afe17f0",
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 53300,
+    "words": 9539,
+    "cleanedSha256": "4c6a544f454ab81192233097ee9feb1cef847ebe613063b5f05e77786254fcc5",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/03/Keener_Matthew-_EN_Lecture05.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

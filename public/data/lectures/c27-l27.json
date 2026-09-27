@@ -19,5 +19,15 @@
   "studyGuideUrl": "https://biblicalelearning.org/waltke_psalms_session10_notebooklm_guides-2/",
   "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/02/Waltke_Psalms_EN_Lecture10.pdf",
   "transcriptSourceHash": "effa855d15553266fdc4d6143f80a391f20544144ce034da6718b4132aeb27b2",
-  "transcriptCheckedAt": "2026-09-25"
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 61119,
+    "words": 11320,
+    "cleanedSha256": "f16cf34ee5f68214d25ff500834a7b322ccee3098e29cf1396d811e5a81ebd6c",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/02/Waltke_Psalms_EN_Lecture10.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

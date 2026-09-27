@@ -1,0 +1,19 @@
+{
+  "transcriptUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-25-the-work-of-christ-18-the-resurrection/",
+  "sourceUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-25-the-work-of-christ-18-the-resurrection/",
+  "attribution": "William Lane Craig / Reasonable Faith. Copyright retained by the publisher; full transcript linked at source.",
+  "readings": [],
+  "transcriptMatch": "Publisher page embeds the exact catalog video ID.",
+  "transcriptSourceHash": "fa40c0732dcd46da18c81f65b8564eea9a1a0916a6ae110abbd402d0c250b61d",
+  "transcriptCheckedAt": "2026-09-27",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 19750,
+    "words": 3593,
+    "cleanedSha256": "e084d3b291a71572efddabebe074f924b4d9c741cf39d7bdcfc96889b2d79d3b",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-doctrine-of-christ/doctrine-of-christ-part-25-the-work-of-christ-18-the-resurrection/",
+    "checkedAt": "2026-09-27"
+  }
+}

@@ -23,5 +23,18 @@
     }
   ],
   "studyGuideUrl": "https://biblicalelearning.org/keener_romans_session04_pgs1-6_willnoteprocess_pgs7_19/",
-  "outlineUrl": "https://biblicalelearning.org/wp-content/uploads/2026/08/Keener_Romans_Session04_Abst_KeyWords_Outline.pdf"
+  "outlineUrl": "https://biblicalelearning.org/wp-content/uploads/2026/08/Keener_Romans_Session04_Abst_KeyWords_Outline.pdf",
+  "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/03/Keener_Romans_EN_Lecture04-1.pdf",
+  "transcriptSourceHash": "5d58b0e8023b7aa4883e482f6cd9d9d99d817e1b112a626c79e406d4ae07d4a1",
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 45749,
+    "words": 7878,
+    "cleanedSha256": "c3fe1bdfad3da9d49f04f69b287845be74cc875cd7f875d3cc5389526d062390",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/03/Keener_Romans_EN_Lecture04-1.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

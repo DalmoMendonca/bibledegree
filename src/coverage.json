@@ -1,10 +1,11 @@
 {
+  "acquiredTranscripts": 288,
   "publisherStudyGuides": 147,
   "courses": 62,
   "lessons": 1686,
   "inlineTranscripts": 72,
-  "publisherTranscripts": 167,
-  "studyPacks": 42,
-  "questions": 650,
+  "publisherTranscripts": 216,
+  "studyPacks": 44,
+  "questions": 682,
   "supplementalVideos": 252
 }

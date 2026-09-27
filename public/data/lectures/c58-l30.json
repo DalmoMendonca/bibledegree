@@ -19,5 +19,15 @@
   "studyGuideUrl": "https://biblicalelearning.org/fowler_otb_session10/",
   "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/04/Fowler_OTB_EN_Lect10.pdf",
   "transcriptSourceHash": "21d7fd7a4a25a2acb95a299627d48c93b5378b0bfd44e10e3eb3efd4b558d3b1",
-  "transcriptCheckedAt": "2026-09-25"
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 37372,
+    "words": 6765,
+    "cleanedSha256": "e75648aa03fbdcd6cdd95f49f75f38366795f44ec76e8c7f9eb5712150bbca37",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/04/Fowler_OTB_EN_Lect10.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

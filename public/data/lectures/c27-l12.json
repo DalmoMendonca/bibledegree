@@ -16,5 +16,18 @@
       "access": "Free prepared study material; publisher labels this AI-assisted"
     }
   ],
-  "studyGuideUrl": "https://biblicalelearning.org/waltke_psalms_session05_notebooklm_guides-2/"
+  "studyGuideUrl": "https://biblicalelearning.org/waltke_psalms_session05_notebooklm_guides-2/",
+  "transcriptPdfUrl": "https://biblicalelearning.org/wp-content/uploads/2024/02/Waltke_Psalms_EN_Lecture05.pdf",
+  "transcriptSourceHash": "8b3929fa7d19a44a389519c85585bb7bf30bc6e4830fe3c0b3578451b302d41f",
+  "transcriptCheckedAt": "2026-09-25",
+  "preparation": {
+    "status": "text-acquired",
+    "characters": 51813,
+    "words": 9654,
+    "cleanedSha256": "0f411978714935d316a4c364eb6327ab04982e3d44c43812a6bc512945e9435e",
+    "cleanup": "Whitespace, page counters, and layout artifacts only; not audio-verified.",
+    "storage": "preparation-cache",
+    "sourceUrl": "https://biblicalelearning.org/wp-content/uploads/2024/02/Waltke_Psalms_EN_Lecture05.pdf",
+    "checkedAt": "2026-09-27"
+  }
 }

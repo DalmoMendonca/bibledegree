@@ -277,5 +277,43 @@
   "preparedBy": "AI-assisted preparation, one-time static publication",
   "status": "published",
   "readings": [],
-  "sourceHash": "409fe376439712c9413f87e6b1412ce9d6765e6b43f3713830d049181966bc48"
+  "sourceHash": "0360129de81a148b7afca9c6bf262d5480245c8ea8b91063df151e79900e2e1d",
+  "outline": [
+    {
+      "title": "Monasticism and Learning",
+      "points": [
+        "Monasticism is associated with learning but originally focused on spiritual practices and community life."
+      ]
+    },
+    {
+      "title": "Rule of Saint Benedict",
+      "points": [
+        "This sixth-century text guided monastic life, emphasizing prayer, labor, and community, not the preservation of classical knowledge."
+      ]
+    },
+    {
+      "title": "Spiritual Power and Intercession",
+      "points": [
+        "Monks were believed to possess spiritual power, allowing them to intercede with God, attracting donations from the wealthy."
+      ]
+    },
+    {
+      "title": "Evolution of Monasticism",
+      "points": [
+        "Originally solitary, monasticism became communal in Western Europe, leading to the establishment of influential monasteries."
+      ]
+    },
+    {
+      "title": "Monasticism's Societal Influence",
+      "points": [
+        "Despite renouncing the world, monks significantly influenced society through spiritual and intellectual contributions."
+      ]
+    },
+    {
+      "title": "Unexpected Custodians of Learning",
+      "points": [
+        "Monasteries became centers of learning due to their literacy, time, and wealth, inadvertently preserving ancient texts."
+      ]
+    }
+  ]
 }

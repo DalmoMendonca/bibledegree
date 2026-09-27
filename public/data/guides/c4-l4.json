@@ -231,7 +231,45 @@
   "readings": [],
   "sourceUrl": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-4",
   "sourceNote": "Independently prepared from Dale B. Martin’s full Open Yale Courses transcript for RLST 152, Lecture 4. Historical-critical interpretations are attributed to the lecturer. Not an instructor assessment. Transcript: Yale University, CC BY-NC-SA 3.0.",
-  "sourceHash": "9b32bc49f42c92ff372e82da2eb0015140a640a0722a13464e14a97859c435c9",
+  "sourceHash": "ed9e3faa05eaf0f029f51951794412a79c9f7a554fce7187ce4d7901caf58686",
   "preparedBy": "AI-assisted preparation, one-time static publication",
-  "status": "published"
+  "status": "published",
+  "outline": [
+    {
+      "title": "Borderland politics",
+      "points": [
+        "Judea lay between the Seleucid realm centered in Syria and the Ptolemaic kingdom in Egypt. Rival empires repeatedly constrained local choices."
+      ]
+    },
+    {
+      "title": "Hellenization within Judaism",
+      "points": [
+        "Martin emphasizes disagreement among Jews over Greek education, civic institutions, worship, and social advancement. The conflict was not simply Greeks versus a uniformly resistant Jewish people."
+      ]
+    },
+    {
+      "title": "Several strategies of response",
+      "points": [
+        "Accommodation, stricter Torah observance, withdrawal, armed revolt, and hope for divine intervention were distinct responses to domination. They should not be collapsed into a single Jewish position."
+      ]
+    },
+    {
+      "title": "Daniel in historical context",
+      "points": [
+        "Martin reads the visions against Seleucid–Ptolemaic politics and Antiochus IV. His historical-critical dating argument locates the text where accurate retrospective narration gives way to expectations that were not fulfilled."
+      ]
+    },
+    {
+      "title": "A decisive rupture in 70 CE",
+      "points": [
+        "The Roman destruction of the Jerusalem temple removed the center of sacrificial worship. Martin treats this event as a crucial dividing point for understanding both Jewish and early Christian developments."
+      ]
+    },
+    {
+      "title": "The setting of the Jesus movement",
+      "points": [
+        "Jewish hopes expressed in scripture stood in tension with subordination to larger powers. Martin places Jesus and the earliest Christian movement within this world of Jewish apocalyptic expectation."
+      ]
+    }
+  ]
 }

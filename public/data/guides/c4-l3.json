@@ -266,5 +266,43 @@
   "preparedBy": "AI-assisted preparation, one-time static publication",
   "status": "published",
   "readings": [],
-  "sourceHash": "c3e8381d0464900ec382a2fe451c01dd8d7c4c61ed8762bf84f8dc8e192d19b0"
+  "sourceHash": "10b8f0db8bb252b99d028df3b91cccb91a478c3ea1aab681e432a327440a91fd",
+  "outline": [
+    {
+      "title": "Hellenization",
+      "points": [
+        "Alexander the Great's conquests spread Greek culture, language, and institutions across the Mediterranean."
+      ]
+    },
+    {
+      "title": "Religious Syncretism",
+      "points": [
+        "The blending of different religious traditions became common, aiding in cultural unification."
+      ]
+    },
+    {
+      "title": "Roman Social Structure",
+      "points": [
+        "The Roman household and patron-client system played a crucial role in societal organization."
+      ]
+    },
+    {
+      "title": "Pax Romana",
+      "points": [
+        "A period of peace under Roman rule that facilitated trade, travel, and the spread of Christianity."
+      ]
+    },
+    {
+      "title": "Greek City-State Institutions",
+      "points": [
+        "Key institutions like the gymnasium and boule were integral to Greek city-states and influenced early Christian communities."
+      ]
+    },
+    {
+      "title": "Roman Religious Tolerance",
+      "points": [
+        "The Romans allowed local religions to flourish unless they posed a political threat."
+      ]
+    }
+  ]
 }
