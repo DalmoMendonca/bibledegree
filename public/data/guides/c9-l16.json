@@ -1,0 +1,281 @@
+{
+  "summary": "Professor Christine Hayes explores the literary prophets, focusing on Amos, an eighth-century prophet from the northern kingdom of Israel. The prophets are categorized by historical crises: Assyrian, Babylonian, Exilic, and Post-Exilic periods. Amos, although not first in the biblical order, is pivotal due to his unique features and themes. Amos' message is delivered through a series of oracles and visions, characterized by dramatic imagery and rhetorical devices. Unlike the Deuteronomistic historian who attributes national downfall solely to idolatry, Amos emphasizes moral failings as equally catastrophic. The lecture highlights Amos' critique of social injustice and superficial piety, underscoring that morality holds precedence over ritualistic observance. While the Deuteronomist's perspective is more singularly focused on idolatry, Amos integrates moral and ethical obligations as central to the covenant with God. Despite the predominant message of impending doom, the prophets, including Amos, often incorporate themes of hope and restoration. Hayes also examines the structural composition of prophetic texts, noting their anthology-like nature and the editorial influences that shaped them over time. The lecture concludes with reflections on how Amos' themes resonate throughout prophetic literature, setting a foundation for understanding other prophets like Hosea and Isaiah.",
+  "keyIdeas": [
+    {
+      "title": "Prophetic Context",
+      "explanation": "Prophets are linked to specific historical crises, providing context for their messages."
+    },
+    {
+      "title": "Amos' Background",
+      "explanation": "Amos was a shepherd from the southern kingdom, prophesying in the north during a stable period."
+    },
+    {
+      "title": "Literary Structure",
+      "explanation": "Amos' book is divided into oracles and visions, using dramatic rhetoric and imagery."
+    },
+    {
+      "title": "Moral Critique",
+      "explanation": "Amos condemns social injustice and false piety, emphasizing morality over ritual."
+    },
+    {
+      "title": "Prophetic vs. Deuteronomistic Views",
+      "explanation": "Amos includes moral failings as reasons for national punishment, unlike the Deuteronomistic focus on idolatry."
+    },
+    {
+      "title": "Hope and Restoration",
+      "explanation": "Despite messages of doom, prophetic literature often includes themes of future hope."
+    }
+  ],
+  "terms": [
+    {
+      "term": "Literary Prophets",
+      "definition": "Prophets whose messages are preserved in written form, associated with historical crises."
+    },
+    {
+      "term": "Assyrian Crisis",
+      "definition": "A period marked by the threat and expansion of the Assyrian Empire."
+    },
+    {
+      "term": "Oracle",
+      "definition": "A divine message delivered by a prophet, often involving warnings or predictions."
+    },
+    {
+      "term": "Covenant",
+      "definition": "A sacred agreement between God and Israel, entailing specific moral and religious obligations."
+    },
+    {
+      "term": "Eschatology",
+      "definition": "The study of end times or final events, often involving divine intervention."
+    },
+    {
+      "term": "Deuteronomistic Historian",
+      "definition": "A biblical perspective attributing national misfortunes primarily to idolatry."
+    }
+  ],
+  "mastery": [
+    {
+      "question": "What historical period does Amos prophesy during?",
+      "answer": "Amos prophesied during a stable period in the northern kingdom around 750 BCE."
+    },
+    {
+      "question": "How does Amos differ from the Deuteronomistic historian in identifying sins?",
+      "answer": "Amos emphasizes moral failings alongside idolatry, while the Deuteronomist focuses mainly on idolatry."
+    },
+    {
+      "question": "What literary forms are common in prophetic writings?",
+      "answer": "Prophetic writings include oracles, hymns, laments, and covenant lawsuits."
+    },
+    {
+      "question": "Why were Amos' messages eventually enshrined?",
+      "answer": "Despite initial resistance, they were recognized as crucial to Israel's religious heritage."
+    },
+    {
+      "question": "What is a central theme of Amos' prophecies?",
+      "answer": "A central theme is the denunciation of social injustice and moral decay."
+    },
+    {
+      "question": "What does the term 'Day of Yahweh' signify in Amos?",
+      "answer": "Contrary to popular belief, Amos warns it will be a day of judgment, not triumph."
+    },
+    {
+      "question": "How does Amos use dramatic imagery?",
+      "answer": "Amos uses metaphors and puns, such as calling wealthy women 'cows of Bashan.'"
+    },
+    {
+      "question": "What does the epilogue in Amos signify?",
+      "answer": "It introduces a message of hope and restoration after judgment."
+    }
+  ],
+  "reflection": [
+    "How do Amos' messages reflect his historical context?",
+    "What are the implications of Amos' critique of social injustice?",
+    "How does the literary structure of Amos enhance its message?",
+    "In what ways does Amos challenge popular beliefs about God?",
+    "How do the themes in Amos set the stage for other prophetic writings?"
+  ],
+  "quiz": [
+    {
+      "question": "What historical crisis is associated with Amos?",
+      "options": [
+        "Babylonian",
+        "Exilic",
+        "Assyrian",
+        "Post-Exilic"
+      ],
+      "answer": 2,
+      "explanation": "Amos is linked to the Assyrian crisis, prophesying before Assyria's threat was apparent."
+    },
+    {
+      "question": "What is a defining feature of Amos' literary style?",
+      "options": [
+        "Dramatic imagery",
+        "Chronological order",
+        "Historical accuracy",
+        "Minimalist language"
+      ],
+      "answer": 0,
+      "explanation": "Amos uses dramatic imagery and exaggeration to convey his messages."
+    },
+    {
+      "question": "How does Amos differ from the Deuteronomistic historian?",
+      "options": [
+        "Focus on idolatry",
+        "Emphasis on ritual",
+        "Denial of prophecy",
+        "Inclusion of moral failings"
+      ],
+      "answer": 3,
+      "explanation": "Amos emphasizes moral failings as reasons for national punishment."
+    },
+    {
+      "question": "What is the 'Day of Yahweh' according to Amos?",
+      "options": [
+        "Day of victory",
+        "Day of judgment",
+        "Day of rest",
+        "Day of creation"
+      ],
+      "answer": 1,
+      "explanation": "Amos warns that it will be a day of judgment, not triumph."
+    },
+    {
+      "question": "What literary device does Amos frequently use?",
+      "options": [
+        "Alliteration",
+        "Hyperbole",
+        "Pun",
+        "Metaphor"
+      ],
+      "answer": 2,
+      "explanation": "Amos uses puns to convey deeper meanings, like 'cows of Bashan.'"
+    },
+    {
+      "question": "What does Amos criticize in society?",
+      "options": [
+        "Social injustice",
+        "Political structure",
+        "Economic growth",
+        "Cultural diversity"
+      ],
+      "answer": 0,
+      "explanation": "Amos condemns social injustice and the treatment of the poor."
+    },
+    {
+      "question": "What does Amos say about God's covenant?",
+      "options": [
+        "Guarantee of safety",
+        "Irrelevant",
+        "Exclusive to priests",
+        "Binding code of conduct"
+      ],
+      "answer": 3,
+      "explanation": "The covenant binds the nation to moral and ethical obligations."
+    },
+    {
+      "question": "What is the significance of the epilogue in Amos?",
+      "options": [
+        "Affirms doom",
+        "Introduces hope",
+        "Denies prophecy",
+        "Supports idolatry"
+      ],
+      "answer": 1,
+      "explanation": "The epilogue introduces a message of hope and restoration."
+    },
+    {
+      "question": "How does Amos describe the wealthy women of Samaria?",
+      "options": [
+        "Generous",
+        "Pious",
+        "Cows of Bashan",
+        "Ignorant"
+      ],
+      "answer": 2,
+      "explanation": "Amos uses the term 'cows of Bashan' to critique their indulgence."
+    },
+    {
+      "question": "What is a 'riv' in prophetic literature?",
+      "options": [
+        "Covenant lawsuit",
+        "Prophetic vision",
+        "Divine promise",
+        "Moral teaching"
+      ],
+      "answer": 0,
+      "explanation": "A 'riv' is a covenant lawsuit, where God charges Israel with breach of contract."
+    },
+    {
+      "question": "What does Amos emphasize about morality?",
+      "options": [
+        "Equal to ritual",
+        "Unimportant",
+        "Only for priests",
+        "Superior to cult"
+      ],
+      "answer": 3,
+      "explanation": "Amos stresses that morality is perhaps superior to cultic obligations."
+    },
+    {
+      "question": "What period does Amos belong to?",
+      "options": [
+        "Babylonian",
+        "Assyrian",
+        "Post-Exilic",
+        "Persian"
+      ],
+      "answer": 1,
+      "explanation": "Amos is associated with the Assyrian crisis."
+    },
+    {
+      "question": "What does Amos say about empty piety?",
+      "options": [
+        "Encourages it",
+        "Ignores it",
+        "Denounces it",
+        "Redefines it"
+      ],
+      "answer": 2,
+      "explanation": "Amos denounces empty piety and ritual without meaning."
+    },
+    {
+      "question": "How are prophetic books structured?",
+      "options": [
+        "Literarily",
+        "Chronologically",
+        "Randomly",
+        "Thematically"
+      ],
+      "answer": 0,
+      "explanation": "Prophetic books are structured based on literary, not chronological, principles."
+    },
+    {
+      "question": "How does Amos view the Day of Yahweh?",
+      "options": [
+        "A day of light",
+        "A day of rest",
+        "A day of peace",
+        "A day of darkness"
+      ],
+      "answer": 3,
+      "explanation": "Amos views it as a day of darkness and judgment."
+    },
+    {
+      "question": "What is a major theme in Amos?",
+      "options": [
+        "National triumph",
+        "Social justice",
+        "Economic prosperity",
+        "Cultural diversity"
+      ],
+      "answer": 1,
+      "explanation": "A major theme is the denunciation of social injustice and moral decay."
+    }
+  ],
+  "basis": "transcript",
+  "sourceUrl": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-16",
+  "sourceNote": "Prepared from the complete published lecture transcript. Independent study questions, not Yale assessments. Interpretive positions belong to the lecturer.",
+  "preparedBy": "AI-assisted preparation, one-time static publication",
+  "status": "published",
+  "readings": [],
+  "sourceHash": "39615683cc4712f538dec2498d75a8ef684e2f8c4ff42e999e090b4de482e809"
+}

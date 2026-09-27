@@ -5,12 +5,12 @@
 - Anonymous browser-local progress; no profiles, streaks, notebook, backups, or live AI generation.
 - Generic Journey page; fresh visitors start at zero.
 - Seven suggested course paths with visible progression and branches.
-- Four static, transcript-grounded study packs with summaries, terms, mastery questions, reflections, and 12-question quizzes.
-- Seventy-two full transcripts and seventeen additional publisher transcript links.
+- 42 static, transcript-grounded study packs with summaries, terms, mastery questions, reflections, and 650 quiz questions.
+- 72 full transcripts, 167 publisher transcript links, and 147 publisher study-guide links.
 
 ## Essential content work — still incomplete
 
-The catalog has 1,938 lessons. Only 4 currently have complete study packs; 1,934 remain. Seventy-two have inline full transcripts; seventeen more link directly to a publisher transcript. The remaining 1,849 have no verified transcript resource in the app.
+The catalog has 1,686 full lectures and 252 supplemental previews. 42 lectures have study packs; 1,644 remain. 72 have inline full transcripts; 167 more link to a publisher transcript. The remaining 1,447 have no verified transcript resource in the app. Publisher study guides are additional external resources, not completed in-app quizzes.
 
 For every remaining lesson: obtain an authorized transcript or transcribe accessible audio, check it against the recording, preserve attribution and permissions, prepare lesson-specific summaries/questions/reflections/readings, and review answer accuracy. Verify assigned readings against actual syllabi; label supplementary readings separately. Add substantive written assignments and rubric-based assessments as courses mature.
 

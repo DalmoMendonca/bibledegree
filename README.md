@@ -16,7 +16,7 @@ All lesson resources are static JSON. Only packs explicitly grounded in a transc
 
 ## Content coverage
 
-62 courses / 1,938 lessons. 72 full Yale transcripts, 17 additional publisher transcript links, and 4 transcript-grounded study packs (12 multiple-choice questions each). Most lessons still need content preparation. See ROADMAP.md and public/data/content-status.json for the exact backlog.
+62 courses / 1,686 full lectures, with 252 supplemental previews kept separately. 72 full Yale transcripts, 167 publisher transcript links, 147 publisher study-guide links, and 42 transcript-grounded study packs with 650 multiple-choice questions. Most lessons still need content preparation. See ROADMAP.md and public/data/content-status.json for the exact backlog.
 
 Yale transcripts retain source attribution and their CC BY-NC-SA license. Other publishers' materials are linked where republication permission is unverified or restricted. Source links do not imply affiliation. BiblicalTraining content is provided by BiblicalTraining.org; this project is not affiliated with BiblicalTraining.org.
 

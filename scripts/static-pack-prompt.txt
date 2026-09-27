@@ -1,0 +1,10 @@
+Author a static study pack grounded ONLY in the full lecture transcript below. Return ONLY valid JSON, no markdown, with these fields:
+summary: 200-300 original words preserving the lecturer's qualifications;
+keyIdeas: 6 objects with title and explanation;
+terms: 6 objects with term and definition;
+mastery: 8 objects with question and answer;
+reflection: 5 original lesson-specific question strings;
+quiz: 16 objects with question, options (four plausible strings), answer (zero-based correct index), explanation (at least 25 words explaining why), evidenceQuote (a short EXACT phrase from the transcript supporting the correct answer).
+At least half the questions test interpretation, comparison, or application. Avoid absurd distractors, duplicate questions, and all/none-of-the-above. Vary correct answer positions. Distinguish the lecturer's claims from settled consensus. No invented quotations, reading assignments or facts. Return every field and every question in full.
+TRANSCRIPT:
+

@@ -1,0 +1,281 @@
+{
+  "summary": "In this lecture, Professor Christine Hayes explores the prophetic books of Hosea and Isaiah, focusing on their historical contexts and major themes. Hosea, a prophet from the northern kingdom during the Assyrian crisis, uses his marriage to a promiscuous woman as a metaphor for Israel's unfaithfulness to God. Hosea's message emphasizes the importance of trust in God over human alliances, aligning with the covenantal themes of Deuteronomy. Despite Hosea's grim outlook, he hints at reconciliation through God's steadfast love. In contrast, Isaiah, a southern prophet during the same period, highlights the Davidic Covenant over the Mosaic one. He counsels Judah's kings during Assyrian sieges, advocating for trust in God's promises to David. Isaiah's eschatological vision includes a future messianic era with universal recognition of Yahweh. Both prophets balance messages of doom with hope, reflecting on Israel's election and the enduring covenant with God. Professor Hayes underscores the tension between divine justice and mercy, a recurring theme in prophetic literature.",
+  "keyIdeas": [
+    {
+      "title": "Hosea's Marriage Metaphor",
+      "explanation": "Hosea's marriage to a promiscuous woman symbolizes Israel's unfaithfulness to God, illustrating the nation's breach of covenant."
+    },
+    {
+      "title": "Trust in God vs. Human Alliances",
+      "explanation": "Hosea condemns Israel's reliance on foreign alliances, advocating for trust in God as part of the covenantal relationship."
+    },
+    {
+      "title": "Isaiah's Emphasis on the Davidic Covenant",
+      "explanation": "Isaiah prioritizes the Davidic Covenant, emphasizing God's promises to the house of David over the Mosaic Covenant."
+    },
+    {
+      "title": "Eschatological Vision in Isaiah",
+      "explanation": "Isaiah envisions a future messianic era where all nations recognize Yahweh, highlighting Israel's mission for universal redemption."
+    },
+    {
+      "title": "Tension Between Justice and Mercy",
+      "explanation": "Both prophets address the balance between God's justice and mercy, with destruction and eventual salvation as key themes."
+    },
+    {
+      "title": "Prophetic Roles in Historical Context",
+      "explanation": "Hosea and Isaiah prophesied during times of Assyrian threat, advising their respective kingdoms with messages of doom and hope."
+    }
+  ],
+  "terms": [
+    {
+      "term": "Covenant",
+      "definition": "A formal agreement between God and Israel, often conditional on Israel's obedience."
+    },
+    {
+      "term": "Assyrian Crisis",
+      "definition": "A period during the 8th century BCE when the Assyrian Empire threatened Israel and Judah."
+    },
+    {
+      "term": "Davidic Covenant",
+      "definition": "God's promise to David and his descendants, emphasizing the enduring nature of his dynasty."
+    },
+    {
+      "term": "Eschatology",
+      "definition": "A vision of the end times, often involving divine intervention and universal peace."
+    },
+    {
+      "term": "Remnant",
+      "definition": "A surviving group that remains faithful to God, often seen as a hope for future restoration."
+    },
+    {
+      "term": "Riv",
+      "definition": "A lawsuit form used by prophets to indict Israel for covenant violations."
+    }
+  ],
+  "mastery": [
+    {
+      "question": "What does Hosea's marriage symbolize?",
+      "answer": "It symbolizes Israel's unfaithfulness to God and the breach of their covenant."
+    },
+    {
+      "question": "Why does Hosea criticize foreign alliances?",
+      "answer": "He believes they demonstrate a lack of trust in God's power and violate the covenant."
+    },
+    {
+      "question": "How does Isaiah's focus differ from Hosea's?",
+      "answer": "Isaiah emphasizes the Davidic Covenant, focusing on God's promises to David."
+    },
+    {
+      "question": "What is Isaiah's eschatological vision?",
+      "answer": "A future era where all nations recognize Yahweh, led by a messianic king from David's line."
+    },
+    {
+      "question": "How do Hosea and Isaiah balance themes of doom and hope?",
+      "answer": "They highlight destruction due to covenant violations but offer hope through God's enduring love."
+    },
+    {
+      "question": "What historical events do Hosea and Isaiah respond to?",
+      "answer": "They prophesy during the Assyrian threat, offering guidance and warnings to their kingdoms."
+    },
+    {
+      "question": "What is the role of a 'remnant' in prophetic literature?",
+      "answer": "A remnant is a faithful group that survives destruction, symbolizing hope for renewal."
+    },
+    {
+      "question": "What does the term 'riv' refer to?",
+      "answer": "A lawsuit form used by prophets to accuse Israel of covenant violations."
+    }
+  ],
+  "reflection": [
+    "How does Hosea's use of metaphor impact our understanding of Israel's relationship with God?",
+    "In what ways does Isaiah's emphasis on the Davidic Covenant shape his prophetic message?",
+    "How do the historical contexts of Hosea and Isaiah influence their prophecies?",
+    "What role does the theme of divine justice versus mercy play in these prophetic books?",
+    "How do Hosea and Isaiah's messages relate to modern concepts of faith and trust?"
+  ],
+  "quiz": [
+    {
+      "question": "What does Hosea's marriage represent?",
+      "options": [
+        "A literal event with no metaphorical meaning",
+        "The unity between Israel and Judah",
+        "Israel's unfaithfulness to God",
+        "God's punishment of other nations"
+      ],
+      "answer": 2,
+      "explanation": "Hosea's marriage to a promiscuous woman symbolizes Israel's breach of their covenant with God."
+    },
+    {
+      "question": "What was Hosea's stance on foreign alliances?",
+      "options": [
+        "He condemned them as a lack of trust in God.",
+        "He supported them to ensure Israel's safety.",
+        "He was indifferent to them.",
+        "He encouraged alliances specifically with Egypt."
+      ],
+      "answer": 0,
+      "explanation": "Hosea believed foreign alliances showed a lack of faith in God's power and violated the covenant."
+    },
+    {
+      "question": "Which covenant does Isaiah emphasize?",
+      "options": [
+        "Mosaic Covenant",
+        "No covenant",
+        "Covenant with the Patriarchs",
+        "Davidic Covenant"
+      ],
+      "answer": 3,
+      "explanation": "Isaiah places more emphasis on the Davidic Covenant, highlighting God's promises to David."
+    },
+    {
+      "question": "What does Isaiah's eschatological vision include?",
+      "options": [
+        "Destruction of all nations",
+        "A messianic era of peace",
+        "The end of the Davidic line",
+        "Eternal exile for Israel"
+      ],
+      "answer": 1,
+      "explanation": "Isaiah envisions a future where all nations recognize Yahweh, led by a messianic king."
+    },
+    {
+      "question": "How do Hosea and Isaiah handle themes of justice and mercy?",
+      "options": [
+        "They focus solely on justice.",
+        "They ignore justice in favor of mercy.",
+        "They balance both, with destruction and hope.",
+        "They deny any possibility of mercy."
+      ],
+      "answer": 2,
+      "explanation": "Both prophets balance the themes of destruction due to covenant violations with hope for reconciliation."
+    },
+    {
+      "question": "What historical event is central to Isaiah's prophecies?",
+      "options": [
+        "The Assyrian siege of Jerusalem",
+        "The Babylonian exile",
+        "The fall of Jerusalem in 586 BCE",
+        "The unification of Israel and Judah"
+      ],
+      "answer": 0,
+      "explanation": "Isaiah's prophecies are set against the backdrop of the Assyrian threat and sieges."
+    },
+    {
+      "question": "What is the significance of a 'remnant' in Hosea and Isaiah?",
+      "options": [
+        "It signifies complete destruction.",
+        "It denotes foreign nations.",
+        "It symbolizes Israel's military strength.",
+        "It offers hope for future restoration."
+      ],
+      "answer": 3,
+      "explanation": "A remnant signifies a faithful group that survives and symbolizes hope for renewal."
+    },
+    {
+      "question": "What does 'riv' refer to in prophetic literature?",
+      "options": [
+        "A type of covenant",
+        "A lawsuit form",
+        "A foreign alliance",
+        "A ritual sacrifice"
+      ],
+      "answer": 1,
+      "explanation": "Riv is a lawsuit form used by prophets to accuse Israel of violating the covenant."
+    },
+    {
+      "question": "How does Isaiah view the inviolability of Zion?",
+      "options": [
+        "Zion can be destroyed like any other city.",
+        "Zion's fate is unrelated to any covenant.",
+        "Zion is inviolable due to God's covenant with David.",
+        "Zion's inviolability depends on foreign alliances."
+      ],
+      "answer": 2,
+      "explanation": "Isaiah believes in the inviolability of Zion due to God's special relationship with the Davidic line."
+    },
+    {
+      "question": "What role does Israel's election play in prophetic literature?",
+      "options": [
+        "It means Israel is chosen for universal redemption.",
+        "It signifies Israel's superiority over all nations.",
+        "It indicates Israel's eventual demise.",
+        "It implies Israel has no special role."
+      ],
+      "answer": 0,
+      "explanation": "In prophetic literature, Israel's election is for the mission of universal redemption and recognition of Yahweh."
+    },
+    {
+      "question": "What is the purpose of Isaiah's symbolic acts?",
+      "options": [
+        "To entertain the people",
+        "To show allegiance to foreign powers",
+        "To fulfill ritual requirements",
+        "To shock and attract attention"
+      ],
+      "answer": 3,
+      "explanation": "Isaiah's symbolic acts, like parading naked, were meant to shock and illustrate the consequences of not trusting in God."
+    },
+    {
+      "question": "How does Isaiah counsel King Hezekiah during the siege of 701?",
+      "options": [
+        "To surrender to the Assyrians",
+        "To trust in God's promises to David",
+        "To rely on military alliances",
+        "To flee Jerusalem"
+      ],
+      "answer": 1,
+      "explanation": "Isaiah advises Hezekiah to trust in God's promises to David and not to capitulate to the Assyrians."
+    },
+    {
+      "question": "What is the significance of the child named Immanuel in Isaiah?",
+      "options": [
+        "It predicts the birth of Jesus.",
+        "It signifies the end of David's line.",
+        "It symbolizes God's presence with Israel.",
+        "It has no particular meaning."
+      ],
+      "answer": 2,
+      "explanation": "The child named Immanuel symbolizes God's presence with Israel, indicating divine support."
+    },
+    {
+      "question": "What future transformation does Isaiah envision?",
+      "options": [
+        "Universal recognition of Yahweh",
+        "The destruction of all nations",
+        "A return to idolatry",
+        "The end of Israel's existence"
+      ],
+      "answer": 0,
+      "explanation": "Isaiah envisions a future where all nations recognize Yahweh, a major transformation in religious understanding."
+    },
+    {
+      "question": "What is a key feature of Isaiah's prophecy regarding the Davidic line?",
+      "options": [
+        "It will be permanently destroyed.",
+        "It is irrelevant to Israel's future.",
+        "It will merge with foreign dynasties.",
+        "It will be restored by a messianic king."
+      ],
+      "answer": 3,
+      "explanation": "Isaiah predicts the restoration of the Davidic line by a messianic king from the branch of Jesse."
+    },
+    {
+      "question": "How does Isaiah's prophecy contrast with the Deuteronomistic historian's view?",
+      "options": [
+        "Isaiah emphasizes punishment; the historian emphasizes restoration.",
+        "Isaiah focuses on restoration; the historian justifies God's actions.",
+        "Both agree on the inevitability of exile.",
+        "Isaiah and the historian have identical views."
+      ],
+      "answer": 1,
+      "explanation": "Isaiah focuses on the future restoration and hope, while the Deuteronomistic historian justifies God's actions against Israel."
+    }
+  ],
+  "basis": "transcript",
+  "sourceUrl": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-17",
+  "sourceNote": "Prepared from the complete published lecture transcript. Independent study questions, not Yale assessments. Interpretive positions belong to the lecturer.",
+  "preparedBy": "AI-assisted preparation, one-time static publication",
+  "status": "published",
+  "readings": [],
+  "sourceHash": "5222f03750ca5efd052d5b3625b597536a4f4d499006c3bd739a62ea6eea77ec"
+}

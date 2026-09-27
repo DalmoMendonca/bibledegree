@@ -130,44 +130,44 @@
       "question": "Why discuss genre during the introductory tour?",
       "options": [
         "Every New Testament document is a private diary",
-        "Different literary forms create different interpretive expectations",
         "Genre determines whether a text is morally good",
+        "Different literary forms create different interpretive expectations",
         "Genre makes historical context unnecessary"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Letters, narratives, and visions do different kinds of work for their audiences."
     },
     {
       "question": "What question does Martin raise about reading early Christian letters?",
       "options": [
+        "How they would be heard when read aloud in a community",
         "Whether they were primarily written for solitary modern readers",
         "Why they contain no social concerns",
-        "Whether their recipients all lived in one city",
-        "How they would be heard when read aloud in a community"
+        "Whether their recipients all lived in one city"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "Communal performance is part of the historical setting, not merely a modern delivery preference."
     },
     {
       "question": "What is the role of the imagined outsider in Corinth?",
       "options": [
-        "To make familiar Christian language appear unfamiliar and potentially misunderstood",
         "To provide a verbatim diary from a known seamstress",
         "To establish that every rumor about Christians was true",
-        "To replace textual evidence with fiction"
+        "To replace textual evidence with fiction",
+        "To make familiar Christian language appear unfamiliar and potentially misunderstood"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "The thought experiment defamiliarizes vocabulary. Its suspicions are not presented as reliable reports of all Christian behavior."
     },
     {
       "question": "Which distinction best captures Martin’s treatment of the Trinity in the opening exercise?",
       "options": [
         "No later theologian ever used the New Testament",
-        "All first-century Christians used the later creed’s exact wording",
         "Later doctrinal formulation is distinguishable from its use of New Testament material",
+        "All first-century Christians used the later creed’s exact wording",
         "Historical study can by itself settle the doctrine’s theological truth"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "He separates the history of doctrinal formulation from the theological judgment that later readers may make about it."
     },
     {
@@ -175,21 +175,21 @@
       "options": [
         "Only the longest Gospel can be interpreted",
         "Differences make all four historically meaningless",
-        "Their titles guarantee identical authorship",
-        "Their different presentations are evidence for distinct perspectives"
+        "Their different presentations are evidence for distinct perspectives",
+        "Their titles guarantee identical authorship"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Comparison attends to the diversity that a harmonized narrative can obscure."
     },
     {
       "question": "Which question concerns reception history rather than the course’s primary early-context focus?",
       "options": [
-        "What social problem an early letter addresses",
         "How later paintings portray Peter’s death",
+        "What social problem an early letter addresses",
         "What an ancient audience might understand by a term",
         "What genre a first-century narrative uses"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Reception history asks how later communities use and interpret earlier texts."
     },
     {
@@ -197,21 +197,21 @@
       "options": [
         "A movement with no meaningful disagreements",
         "Only the eventual majority position",
-        "Differences in belief, practice, identity, and social relationships",
-        "A single unchanged institution from the beginning"
+        "A single unchanged institution from the beginning",
+        "Differences in belief, practice, identity, and social relationships"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "The plural framing directs attention to historical diversity and the processes that later sought unity."
     },
     {
       "question": "Which approach best applies the lecture to a familiar passage?",
       "options": [
-        "Identify its genre, setting, and audience, then distinguish its wording from later assumptions",
         "Begin by combining every later interpretation into the text",
+        "Identify its genre, setting, and audience, then distinguish its wording from later assumptions",
         "Treat familiarity as sufficient evidence of understanding",
         "Ignore translation because all versions express identical choices"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "This combines close reading with historical context while making inherited assumptions available for examination."
     }
   ],

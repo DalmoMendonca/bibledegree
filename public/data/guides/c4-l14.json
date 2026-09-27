@@ -1,0 +1,281 @@
+{
+  "summary": "In this lecture, Professor Dale Martin, a scholar of New Testament history, examines the complex figure of Paul the Apostle, often considered a founder of Christianity. Martin highlights the debates among scholars regarding the historical accuracy of Paul's letters and the accounts in the Acts of the Apostles. He notes that Paul has been interpreted variously throughout history, from a martyr to a theologian to a psychological struggler. The early church viewed Paul mainly as a martyr, while figures like Martin Luther saw him as embodying a struggle with religious guilt, ultimately discovering salvation through faith. Martin also discusses the discrepancies between Paul's self-descriptions in his letters and the portrayal of his life in Acts, suggesting that Paul's letters provide a more accurate historical account. Paul, a Pharisee and zealous Jew, is said to have preached primarily to Gentiles, urging them to abandon idol worship for the God of Israel. His teachings included the imminent return of Jesus, who would save believers from divine wrath. Martin explains that Paul's letters, such as 1 Thessalonians, reveal his mission to create communities of Gentile believers. These letters also highlight cultural and theological shifts, such as the move from Jewish law to Christian faith and the expectation of Jesus' return. The lecture underscores the protean nature of Paul's legacy, shaped by various interpretations and historical contexts.",
+  "keyIdeas": [
+    {
+      "title": "Historical Paul vs. Literary Accounts",
+      "explanation": "Debates exist on the authenticity of Paul's letters and the Acts of the Apostles; discrepancies suggest Paul's letters may be more historically accurate."
+    },
+    {
+      "title": "Paul's Role in Christianity",
+      "explanation": "Paul is viewed as a founder of Christianity, shifting focus from Jesus' teachings to doctrines about Jesus, influencing Christian theology."
+    },
+    {
+      "title": "Paul's Diverse Interpretations",
+      "explanation": "Paul has been seen as a martyr, a theological innovator, and a psychological struggler, reflecting diverse historical and cultural views."
+    },
+    {
+      "title": "Paul's Missionary Approach",
+      "explanation": "Paul primarily preached to Gentiles, urging conversion from idol worship to faith in the God of Israel, expecting Jesus' imminent return."
+    },
+    {
+      "title": "Cultural and Theological Shifts",
+      "explanation": "Paul's teachings mark a shift from Jewish law to faith-based salvation, with an emphasis on Jesus' return and ethical living."
+    },
+    {
+      "title": "Discrepancies in Acts",
+      "explanation": "Acts portrays Paul as starting in synagogues, but his letters suggest a direct mission to Gentiles, highlighting inconsistencies."
+    }
+  ],
+  "terms": [
+    {
+      "term": "Protean Apostle",
+      "definition": "A term describing Paul's ability to be interpreted in various ways throughout history, likened to the shape-shifting Proteus."
+    },
+    {
+      "term": "Porneia",
+      "definition": "A Greek term used by Paul to describe sexual immorality, encompassing various sexual practices viewed as sinful by Jews."
+    },
+    {
+      "term": "Parousia",
+      "definition": "A Greek term meaning 'coming' or 'presence,' referring to the anticipated return of Jesus Christ."
+    },
+    {
+      "term": "Paterfamilias",
+      "definition": "The male head of a Roman household, a concept used to describe the leadership structure in early Christian house churches."
+    },
+    {
+      "term": "Undisputed Letters",
+      "definition": "Letters attributed to Paul that most scholars agree he wrote, including Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians, and Philemon."
+    },
+    {
+      "term": "Acts of the Apostles",
+      "definition": "A book in the New Testament that provides an account of Paul's life and missionary work, often debated for its historical accuracy."
+    }
+  ],
+  "mastery": [
+    {
+      "question": "What are the undisputed letters of Paul?",
+      "answer": "Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians, and Philemon."
+    },
+    {
+      "question": "How does Professor Martin describe Paul's role in Christianity?",
+      "answer": "As a founder of Christianity, shifting focus from Jesus' teachings to doctrines about Jesus."
+    },
+    {
+      "question": "What is the significance of the term 'Protean Apostle'?",
+      "answer": "It highlights Paul's various interpretations throughout history, akin to the shape-shifting Proteus."
+    },
+    {
+      "question": "What does 'porneia' encompass according to Paul's teachings?",
+      "answer": "Sexual immorality, including adultery, homosexuality, and other practices viewed as sinful by Jews."
+    },
+    {
+      "question": "Why are Paul's letters considered more historically accurate than Acts?",
+      "answer": "They provide direct self-descriptions, contrasting with Acts' possibly embellished narrative."
+    },
+    {
+      "question": "How did Paul view Jesus' return?",
+      "answer": "As imminent, expecting Jesus to save believers from divine wrath."
+    },
+    {
+      "question": "What cultural shift did Paul promote among Gentiles?",
+      "answer": "From idol worship to faith in the God of Israel and ethical living."
+    },
+    {
+      "question": "How does Acts' portrayal of Paul's mission differ from his letters?",
+      "answer": "Acts suggests starting in synagogues, while letters show a direct mission to Gentiles."
+    }
+  ],
+  "reflection": [
+    "How does the concept of the 'Protean Apostle' influence our understanding of Paul's role in history?",
+    "In what ways do cultural and theological shifts in Paul's teachings reflect the early Christian context?",
+    "How do discrepancies between Acts and Paul's letters affect historical interpretations?",
+    "What challenges arise when interpreting Paul's views on sexual morality?",
+    "How might the early church's view of Paul as a martyr contrast with later theological interpretations?"
+  ],
+  "quiz": [
+    {
+      "question": "Which letters are considered undisputedly written by Paul?",
+      "options": [
+        "Ephesians, Philippians, 1 Timothy, 2 Timothy, Titus",
+        "1 and 2 Thessalonians, Colossians, Ephesians",
+        "Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians, Philemon",
+        "1 Timothy, Titus, Romans, Galatians"
+      ],
+      "answer": 2,
+      "explanation": "These letters are widely accepted by scholars as authentically written by Paul."
+    },
+    {
+      "question": "How does Martin Luther interpret Paul's message?",
+      "options": [
+        "As a struggle with religious guilt leading to salvation through faith",
+        "As a call to uphold Jewish law",
+        "As a purely historical account",
+        "As a focus on Jesus' moral teachings"
+      ],
+      "answer": 0,
+      "explanation": "Luther saw Paul as discovering salvation through faith after struggling with religious guilt."
+    },
+    {
+      "question": "What does 'porneia' refer to in Paul's teachings?",
+      "options": [
+        "A specific Jewish practice",
+        "A type of idolatry",
+        "Strict adherence to the law",
+        "General sexual immorality"
+      ],
+      "answer": 3,
+      "explanation": "Porneia encompasses various forms of sexual immorality, as viewed by Jews in Paul's time."
+    },
+    {
+      "question": "What was a key aspect of Paul's message to Gentiles?",
+      "options": [
+        "Adherence to Jewish law",
+        "Abandonment of idol worship",
+        "Focus on Jesus' parables",
+        "Strict dietary rules"
+      ],
+      "answer": 1,
+      "explanation": "Paul urged Gentiles to abandon idol worship and turn to the God of Israel."
+    },
+    {
+      "question": "How does Acts portray Paul's missionary strategy?",
+      "options": [
+        "Preaching first to Gentiles",
+        "Avoiding major cities",
+        "Starting in synagogues",
+        "Focusing only on Roman citizens"
+      ],
+      "answer": 2,
+      "explanation": "Acts suggests Paul went first to synagogues before turning to Gentiles."
+    },
+    {
+      "question": "What is a major theme in Paul's letters regarding Jesus?",
+      "options": [
+        "Jesus as the Jewish Messiah and King",
+        "Jesus as a moral teacher",
+        "Jesus' role in creation",
+        "Jesus' emphasis on dietary laws"
+      ],
+      "answer": 0,
+      "explanation": "Paul emphasized Jesus as the Jewish Messiah and King in his teachings."
+    },
+    {
+      "question": "What does the term 'Parousia' mean?",
+      "options": [
+        "The birth of Jesus",
+        "The crucifixion of Jesus",
+        "The teachings of Jesus",
+        "The coming or presence of Jesus"
+      ],
+      "answer": 3,
+      "explanation": "Parousia refers to the anticipated return or presence of Jesus."
+    },
+    {
+      "question": "According to Paul's letters, who did he primarily preach to?",
+      "options": [
+        "Jews in Jerusalem",
+        "Gentiles in Greek cities",
+        "Roman citizens exclusively",
+        "Jewish leaders in synagogues"
+      ],
+      "answer": 1,
+      "explanation": "Paul's letters suggest he focused on Gentiles, not primarily Jews."
+    },
+    {
+      "question": "How does Martin describe Paul's letters compared to Acts?",
+      "options": [
+        "Less reliable",
+        "Equally reliable",
+        "More historically accurate",
+        "Focused on different topics"
+      ],
+      "answer": 2,
+      "explanation": "Martin argues that Paul's letters provide a more accurate historical account than Acts."
+    },
+    {
+      "question": "What does Paul say about his own background?",
+      "options": [
+        "He was a Pharisee",
+        "He was a Sadducee",
+        "He was a Roman governor",
+        "He was a fisherman"
+      ],
+      "answer": 0,
+      "explanation": "Paul identifies himself as a Pharisee, providing insight into his Jewish background."
+    },
+    {
+      "question": "What major event did Paul preach about?",
+      "options": [
+        "The fall of the Roman Empire",
+        "The creation of the world",
+        "The writing of the Gospels",
+        "The return of Jesus"
+      ],
+      "answer": 3,
+      "explanation": "Paul preached about the imminent return of Jesus and the salvation it would bring."
+    },
+    {
+      "question": "What discrepancy exists between Acts and Paul's letters?",
+      "options": [
+        "Paul's birthplace",
+        "Paul's missionary strategy",
+        "Paul's family background",
+        "Paul's trade"
+      ],
+      "answer": 1,
+      "explanation": "Acts presents a different missionary strategy than what is described in Paul's letters."
+    },
+    {
+      "question": "How does Paul address issues of sexual morality?",
+      "options": [
+        "Focusing solely on women's behavior",
+        "Ignoring the topic entirely",
+        "Addressing men about controlling their desires",
+        "Promoting Greek cultural practices"
+      ],
+      "answer": 2,
+      "explanation": "Paul emphasizes controlling desires, particularly addressing men in his letters."
+    },
+    {
+      "question": "What does Paul emphasize about the God of Israel?",
+      "options": [
+        "He is the only true and living God",
+        "He is one among many gods",
+        "He has many human attributes",
+        "He is primarily a war deity"
+      ],
+      "answer": 0,
+      "explanation": "Paul stresses the uniqueness of the God of Israel, contrasting with idol worship."
+    },
+    {
+      "question": "How does Martin view Paul's letters' reliability?",
+      "options": [
+        "As fictional narratives",
+        "As entirely mythical",
+        "As modern interpretations",
+        "As reliable historical sources"
+      ],
+      "answer": 3,
+      "explanation": "Martin argues that Paul's letters are more reliable than the Acts for historical information."
+    },
+    {
+      "question": "What was a significant part of Paul's message to Thessalonians?",
+      "options": [
+        "The importance of Roman law",
+        "The coming wrath and Jesus' return",
+        "The need for dietary restrictions",
+        "The significance of Jewish festivals"
+      ],
+      "answer": 1,
+      "explanation": "Paul warned the Thessalonians about the coming wrath and emphasized Jesus' return."
+    }
+  ],
+  "basis": "transcript",
+  "sourceUrl": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-14",
+  "sourceNote": "Prepared from the complete published lecture transcript. Independent study questions, not Yale assessments. Interpretive positions belong to the lecturer.",
+  "preparedBy": "AI-assisted preparation, one-time static publication",
+  "status": "published",
+  "readings": [],
+  "sourceHash": "3a89adb8324e05ad295736bbab05e4eb4d9ed870440e71887ec3a5b94d89f019"
+}

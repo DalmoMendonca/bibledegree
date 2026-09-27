@@ -4106,20 +4106,303 @@
     "note": "",
     "lessons": [
       {
-        "id": "c18-l1",
-        "title": "Dr. Craig Keener, Romans, Session 1, Video Overview",
-        "videoId": "ZEMv_IPwhas",
-        "duration": "7:21",
-        "url": "https://www.youtube.com/watch?v=ZEMv_IPwhas",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c18-l2",
         "title": "Dr. Craig Keener, Romans, Lecture 1, Introduction",
         "videoId": "hPQZOexILag",
         "duration": "1:04:38",
         "url": "https://www.youtube.com/watch?v=hPQZOexILag",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 1, Video Overview",
+            "url": "https://www.youtube.com/watch?v=ZEMv_IPwhas",
+            "legacyId": "c18-l1"
+          }
+        ]
+      },
+      {
+        "id": "c18-l4",
+        "title": "Dr. Craig Keener, Romans, Lecture 2, Introduction, Romans 1",
+        "videoId": "I6r5ehsRhvQ",
+        "duration": "57:53",
+        "url": "https://www.youtube.com/watch?v=I6r5ehsRhvQ",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 2, Video Overview",
+            "url": "https://www.youtube.com/watch?v=UJcsUIskikE",
+            "legacyId": "c18-l3"
+          }
+        ]
+      },
+      {
+        "id": "c18-l6",
+        "title": "Dr. Craig Keener, Romans, Lecture 3, Romans 1:2-17",
+        "videoId": "5uGrADxu9dI",
+        "duration": "1:04:16",
+        "url": "https://www.youtube.com/watch?v=5uGrADxu9dI",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 3, Video Overview",
+            "url": "https://www.youtube.com/watch?v=dr6IX70DWAo",
+            "legacyId": "c18-l5"
+          }
+        ]
+      },
+      {
+        "id": "c18-l8",
+        "title": "Dr. Craig Keener, Romans, Lecture 4, Romans 1:18-2:10",
+        "videoId": "v07hYvN9CXg",
+        "duration": "58:36",
+        "url": "https://www.youtube.com/watch?v=v07hYvN9CXg",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 4, Video Overview",
+            "url": "https://www.youtube.com/watch?v=Fn3EY48r4Cs",
+            "legacyId": "c18-l7"
+          }
+        ]
+      },
+      {
+        "id": "c18-l10",
+        "title": "Dr. Craig Keener, Romans, Lecture 5,  Romans 2:11-3:23",
+        "videoId": "rrQpDME80OA",
+        "duration": "1:01:18",
+        "url": "https://www.youtube.com/watch?v=rrQpDME80OA",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 5, Video Overview",
+            "url": "https://www.youtube.com/watch?v=hoHUG2BJBfY",
+            "legacyId": "c18-l9"
+          }
+        ]
+      },
+      {
+        "id": "c18-l12",
+        "title": "Dr. Craig Keener, Romans, Lecture 6, Romans 3:24-5:11",
+        "videoId": "j5s4hDc4bjI",
+        "duration": "1:04:04",
+        "url": "https://www.youtube.com/watch?v=j5s4hDc4bjI",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 6, Video Overview",
+            "url": "https://www.youtube.com/watch?v=_pdAnzIrVV8",
+            "legacyId": "c18-l11"
+          }
+        ]
+      },
+      {
+        "id": "c18-l14",
+        "title": "Dr. Craig Keener, Romans, Lecture 7, Romans 5:12-6:23",
+        "videoId": "ZttkPF1YeQA",
+        "duration": "57:49",
+        "url": "https://www.youtube.com/watch?v=ZttkPF1YeQA",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 7, Video Overview",
+            "url": "https://www.youtube.com/watch?v=Sq6YLBxdn4w",
+            "legacyId": "c18-l13"
+          }
+        ]
+      },
+      {
+        "id": "c18-l16",
+        "title": "Dr. Craig Keener, Romans, Lecture 8, Romans 7:1-8:4",
+        "videoId": "w478d6M--pY",
+        "duration": "1:01:52",
+        "url": "https://www.youtube.com/watch?v=w478d6M--pY",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 8, Video Overview",
+            "url": "https://www.youtube.com/watch?v=VtA3STHQNbo",
+            "legacyId": "c18-l15"
+          }
+        ]
+      },
+      {
+        "id": "c18-l18",
+        "title": "Dr. Craig Keener, Romans, Lecture 9, Romans 8:5-26",
+        "videoId": "qAZIYNyHL9I",
+        "duration": "1:02:39",
+        "url": "https://www.youtube.com/watch?v=qAZIYNyHL9I",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 9, Video Overview",
+            "url": "https://www.youtube.com/watch?v=9ty2CRBRCWg",
+            "legacyId": "c18-l17"
+          }
+        ]
+      },
+      {
+        "id": "c18-l20",
+        "title": "Dr. Craig Keener, Romans, Lecture 10, Romans 8:26-9:16",
+        "videoId": "g2VttDarllU",
+        "duration": "1:04:00",
+        "url": "https://www.youtube.com/watch?v=g2VttDarllU",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 10, Video Overview",
+            "url": "https://www.youtube.com/watch?v=RUAUHZYFkqI",
+            "legacyId": "c18-l19"
+          }
+        ]
+      },
+      {
+        "id": "c18-l22",
+        "title": "Dr. Craig Keener, Romans, Lecture 11, Romans 9:7-11:32",
+        "videoId": "Ca_JDSGSL0I",
+        "duration": "1:07:53",
+        "url": "https://www.youtube.com/watch?v=Ca_JDSGSL0I",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 11, Video Overview",
+            "url": "https://www.youtube.com/watch?v=XsIzISOGREs",
+            "legacyId": "c18-l21"
+          }
+        ]
+      },
+      {
+        "id": "c18-l24",
+        "title": "Dr. Craig Keener, Romans, Lecture 12, Romans 11:33-12:13",
+        "videoId": "MAfqHDELJ9o",
+        "duration": "1:02:52",
+        "url": "https://www.youtube.com/watch?v=MAfqHDELJ9o",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 12, Video Overview",
+            "url": "https://www.youtube.com/watch?v=Kf5HlevByXw",
+            "legacyId": "c18-l23"
+          }
+        ]
+      },
+      {
+        "id": "c18-l26",
+        "title": "Dr. Craig Keener, Romans, Lecture 13,  Romans 12:14-14:1",
+        "videoId": "yhqqDHa62jw",
+        "duration": "59:12",
+        "url": "https://www.youtube.com/watch?v=yhqqDHa62jw",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 13, Video Overview",
+            "url": "https://www.youtube.com/watch?v=eTqmyGs_ohM",
+            "legacyId": "c18-l25"
+          }
+        ]
+      },
+      {
+        "id": "c18-l28",
+        "title": "Dr. Craig Keener, Romans, Lecture 14, Romans 14:1-15:12",
+        "videoId": "1SUu3tvEn5g",
+        "duration": "1:05:49",
+        "url": "https://www.youtube.com/watch?v=1SUu3tvEn5g",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 14, Video Overview",
+            "url": "https://www.youtube.com/watch?v=dEeHPmxYKH4",
+            "legacyId": "c18-l27"
+          }
+        ]
+      },
+      {
+        "id": "c18-l30",
+        "title": "Dr. Craig Keener, Romans, Lecture 15, Romans 15:13-29",
+        "videoId": "rea3VPOn2Rw",
+        "duration": "1:04:35",
+        "url": "https://www.youtube.com/watch?v=rea3VPOn2Rw",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 15, Video Overview",
+            "url": "https://www.youtube.com/watch?v=N4YbdKoRZRA",
+            "legacyId": "c18-l29"
+          }
+        ]
+      },
+      {
+        "id": "c18-l32",
+        "title": "Dr. Craig Keener, Romans, Lecture 16, Romans 15:29-16:7",
+        "videoId": "sVMiP5KHGfI",
+        "duration": "1:00:51",
+        "url": "https://www.youtube.com/watch?v=sVMiP5KHGfI",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 16, Video Overview",
+            "url": "https://www.youtube.com/watch?v=DbhI5T6fN98",
+            "legacyId": "c18-l31"
+          }
+        ]
+      },
+      {
+        "id": "c18-l34",
+        "title": "Dr. Craig Keener, Romans, Lecture 17, Romans 16:7-20",
+        "videoId": "Mj4WCiw85g8",
+        "duration": "1:00:44",
+        "url": "https://www.youtube.com/watch?v=Mj4WCiw85g8",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 17, Video Overview",
+            "url": "https://www.youtube.com/watch?v=SwzBREqLwIQ",
+            "legacyId": "c18-l33"
+          }
+        ]
+      },
+      {
+        "id": "c18-l36",
+        "title": "Dr. Craig Keener, Romans, Lecture 18, Romans 16:21-27",
+        "videoId": "GzNMUPzdLm0",
+        "duration": "29:47",
+        "url": "https://www.youtube.com/watch?v=GzNMUPzdLm0",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Romans, Session 18, Video Overview",
+            "url": "https://www.youtube.com/watch?v=S2STveeDM70",
+            "legacyId": "c18-l35"
+          }
+        ]
+      }
+    ],
+    "playlistId": "PLnNXzYjQerJiaBGGzERo7kqjbVfpTe5qp",
+    "indexedAt": "2026-09-24",
+    "supplementalVideos": [
+      {
+        "id": "c18-l1",
+        "title": "Dr. Craig Keener, Romans, Session 1, Video Overview",
+        "videoId": "ZEMv_IPwhas",
+        "duration": "7:21",
+        "url": "https://www.youtube.com/watch?v=ZEMv_IPwhas",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4133,29 +4416,11 @@
         "readings": []
       },
       {
-        "id": "c18-l4",
-        "title": "Dr. Craig Keener, Romans, Lecture 2, Introduction, Romans 1",
-        "videoId": "I6r5ehsRhvQ",
-        "duration": "57:53",
-        "url": "https://www.youtube.com/watch?v=I6r5ehsRhvQ",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c18-l5",
         "title": "Dr. Craig Keener, Romans, Session 3, Video Overview",
         "videoId": "dr6IX70DWAo",
         "duration": "6:09",
         "url": "https://www.youtube.com/watch?v=dr6IX70DWAo",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c18-l6",
-        "title": "Dr. Craig Keener, Romans, Lecture 3, Romans 1:2-17",
-        "videoId": "5uGrADxu9dI",
-        "duration": "1:04:16",
-        "url": "https://www.youtube.com/watch?v=5uGrADxu9dI",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4169,29 +4434,11 @@
         "readings": []
       },
       {
-        "id": "c18-l8",
-        "title": "Dr. Craig Keener, Romans, Lecture 4, Romans 1:18-2:10",
-        "videoId": "v07hYvN9CXg",
-        "duration": "58:36",
-        "url": "https://www.youtube.com/watch?v=v07hYvN9CXg",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c18-l9",
         "title": "Dr. Craig Keener, Romans, Session 5, Video Overview",
         "videoId": "hoHUG2BJBfY",
         "duration": "5:56",
         "url": "https://www.youtube.com/watch?v=hoHUG2BJBfY",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c18-l10",
-        "title": "Dr. Craig Keener, Romans, Lecture 5,  Romans 2:11-3:23",
-        "videoId": "rrQpDME80OA",
-        "duration": "1:01:18",
-        "url": "https://www.youtube.com/watch?v=rrQpDME80OA",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4205,29 +4452,11 @@
         "readings": []
       },
       {
-        "id": "c18-l12",
-        "title": "Dr. Craig Keener, Romans, Lecture 6, Romans 3:24-5:11",
-        "videoId": "j5s4hDc4bjI",
-        "duration": "1:04:04",
-        "url": "https://www.youtube.com/watch?v=j5s4hDc4bjI",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c18-l13",
         "title": "Dr. Craig Keener, Romans, Session 7, Video Overview",
         "videoId": "Sq6YLBxdn4w",
         "duration": "6:54",
         "url": "https://www.youtube.com/watch?v=Sq6YLBxdn4w",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c18-l14",
-        "title": "Dr. Craig Keener, Romans, Lecture 7, Romans 5:12-6:23",
-        "videoId": "ZttkPF1YeQA",
-        "duration": "57:49",
-        "url": "https://www.youtube.com/watch?v=ZttkPF1YeQA",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4241,29 +4470,11 @@
         "readings": []
       },
       {
-        "id": "c18-l16",
-        "title": "Dr. Craig Keener, Romans, Lecture 8, Romans 7:1-8:4",
-        "videoId": "w478d6M--pY",
-        "duration": "1:01:52",
-        "url": "https://www.youtube.com/watch?v=w478d6M--pY",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c18-l17",
         "title": "Dr. Craig Keener, Romans, Session 9, Video Overview",
         "videoId": "9ty2CRBRCWg",
         "duration": "6:35",
         "url": "https://www.youtube.com/watch?v=9ty2CRBRCWg",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c18-l18",
-        "title": "Dr. Craig Keener, Romans, Lecture 9, Romans 8:5-26",
-        "videoId": "qAZIYNyHL9I",
-        "duration": "1:02:39",
-        "url": "https://www.youtube.com/watch?v=qAZIYNyHL9I",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4277,29 +4488,11 @@
         "readings": []
       },
       {
-        "id": "c18-l20",
-        "title": "Dr. Craig Keener, Romans, Lecture 10, Romans 8:26-9:16",
-        "videoId": "g2VttDarllU",
-        "duration": "1:04:00",
-        "url": "https://www.youtube.com/watch?v=g2VttDarllU",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c18-l21",
         "title": "Dr. Craig Keener, Romans, Session 11, Video Overview",
         "videoId": "XsIzISOGREs",
         "duration": "6:49",
         "url": "https://www.youtube.com/watch?v=XsIzISOGREs",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c18-l22",
-        "title": "Dr. Craig Keener, Romans, Lecture 11, Romans 9:7-11:32",
-        "videoId": "Ca_JDSGSL0I",
-        "duration": "1:07:53",
-        "url": "https://www.youtube.com/watch?v=Ca_JDSGSL0I",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4313,29 +4506,11 @@
         "readings": []
       },
       {
-        "id": "c18-l24",
-        "title": "Dr. Craig Keener, Romans, Lecture 12, Romans 11:33-12:13",
-        "videoId": "MAfqHDELJ9o",
-        "duration": "1:02:52",
-        "url": "https://www.youtube.com/watch?v=MAfqHDELJ9o",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c18-l25",
         "title": "Dr. Craig Keener, Romans, Session 13, Video Overview",
         "videoId": "eTqmyGs_ohM",
         "duration": "7:31",
         "url": "https://www.youtube.com/watch?v=eTqmyGs_ohM",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c18-l26",
-        "title": "Dr. Craig Keener, Romans, Lecture 13,  Romans 12:14-14:1",
-        "videoId": "yhqqDHa62jw",
-        "duration": "59:12",
-        "url": "https://www.youtube.com/watch?v=yhqqDHa62jw",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4349,29 +4524,11 @@
         "readings": []
       },
       {
-        "id": "c18-l28",
-        "title": "Dr. Craig Keener, Romans, Lecture 14, Romans 14:1-15:12",
-        "videoId": "1SUu3tvEn5g",
-        "duration": "1:05:49",
-        "url": "https://www.youtube.com/watch?v=1SUu3tvEn5g",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c18-l29",
         "title": "Dr. Craig Keener, Romans, Session 15, Video Overview",
         "videoId": "N4YbdKoRZRA",
         "duration": "6:31",
         "url": "https://www.youtube.com/watch?v=N4YbdKoRZRA",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c18-l30",
-        "title": "Dr. Craig Keener, Romans, Lecture 15, Romans 15:13-29",
-        "videoId": "rea3VPOn2Rw",
-        "duration": "1:04:35",
-        "url": "https://www.youtube.com/watch?v=rea3VPOn2Rw",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4385,29 +4542,11 @@
         "readings": []
       },
       {
-        "id": "c18-l32",
-        "title": "Dr. Craig Keener, Romans, Lecture 16, Romans 15:29-16:7",
-        "videoId": "sVMiP5KHGfI",
-        "duration": "1:00:51",
-        "url": "https://www.youtube.com/watch?v=sVMiP5KHGfI",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c18-l33",
         "title": "Dr. Craig Keener, Romans, Session 17, Video Overview",
         "videoId": "SwzBREqLwIQ",
         "duration": "7:05",
         "url": "https://www.youtube.com/watch?v=SwzBREqLwIQ",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c18-l34",
-        "title": "Dr. Craig Keener, Romans, Lecture 17, Romans 16:7-20",
-        "videoId": "Mj4WCiw85g8",
-        "duration": "1:00:44",
-        "url": "https://www.youtube.com/watch?v=Mj4WCiw85g8",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4419,19 +4558,8 @@
         "url": "https://www.youtube.com/watch?v=S2STveeDM70",
         "source": "YouTube playlist",
         "readings": []
-      },
-      {
-        "id": "c18-l36",
-        "title": "Dr. Craig Keener, Romans, Lecture 18, Romans 16:21-27",
-        "videoId": "GzNMUPzdLm0",
-        "duration": "29:47",
-        "url": "https://www.youtube.com/watch?v=GzNMUPzdLm0",
-        "source": "YouTube playlist",
-        "readings": []
       }
-    ],
-    "playlistId": "PLnNXzYjQerJiaBGGzERo7kqjbVfpTe5qp",
-    "indexedAt": "2026-09-24"
+    ]
   },
   {
     "id": "c19",
@@ -4444,6 +4572,409 @@
     "completed": false,
     "note": "",
     "lessons": [
+      {
+        "id": "c19-l3",
+        "title": "Dr. Craig Keener, Matthew, Lecture 1, Reliability of the Gospels",
+        "videoId": "5jejjJJ8bDM",
+        "duration": "1:07:29",
+        "url": "https://www.youtube.com/watch?v=5jejjJJ8bDM",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 1, Reliability of the Gospels, Short",
+            "url": "https://www.youtube.com/watch?v=XzQkbtfQUZ8",
+            "legacyId": "c19-l1"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 1, Video Overview",
+            "url": "https://www.youtube.com/watch?v=-tmdnJ8OXyE",
+            "legacyId": "c19-l2"
+          }
+        ]
+      },
+      {
+        "id": "c19-l6",
+        "title": "Dr. Craig Keener, Matthew, Lecture 2, Reliability of the Gospels, Miracles",
+        "videoId": "XF5qABUSI-g",
+        "duration": "1:17:47",
+        "url": "https://www.youtube.com/watch?v=XF5qABUSI-g",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 2, Reliability of the Gospels, Miracles, Short",
+            "url": "https://www.youtube.com/watch?v=pdTkhEoaFy0",
+            "legacyId": "c19-l4"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 2, Video Overview",
+            "url": "https://www.youtube.com/watch?v=6_ZZk0J-obk",
+            "legacyId": "c19-l5"
+          }
+        ]
+      },
+      {
+        "id": "c19-l9",
+        "title": "Dr. Craig Keener, Matthew, Lecture 3, Miracles & Exorcism",
+        "videoId": "Cywq3e9bLhM",
+        "duration": "52:30",
+        "url": "https://www.youtube.com/watch?v=Cywq3e9bLhM",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 3, Miracles & Exorcism, Short",
+            "url": "https://www.youtube.com/watch?v=2K4lVLQnm78",
+            "legacyId": "c19-l7"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 3, Video Overview",
+            "url": "https://www.youtube.com/watch?v=7pnzqEOEeR0",
+            "legacyId": "c19-l8"
+          }
+        ]
+      },
+      {
+        "id": "c19-l12",
+        "title": "Dr. Craig Keener, Matthew, Lecture 4, Introduction to Matthew, Matthew 1",
+        "videoId": "YsBFzWGCl7w",
+        "duration": "57:07",
+        "url": "https://www.youtube.com/watch?v=YsBFzWGCl7w",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 4, Introduction to Matthew, Matthew 1, Short",
+            "url": "https://www.youtube.com/watch?v=OLJaLtH1Wjw",
+            "legacyId": "c19-l10"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 4, Video Overview",
+            "url": "https://www.youtube.com/watch?v=YMaT-nujlJ4",
+            "legacyId": "c19-l11"
+          }
+        ]
+      },
+      {
+        "id": "c19-l15",
+        "title": "Dr. Craig Keener, Matthew, Lecture 5, Matthew 2-3",
+        "videoId": "Jz4ouXpxa50",
+        "duration": "1:03:49",
+        "url": "https://www.youtube.com/watch?v=Jz4ouXpxa50",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 5, Matthew 2-3, Short",
+            "url": "https://www.youtube.com/watch?v=wpfznWvo_nw",
+            "legacyId": "c19-l13"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 5, Video Overview",
+            "url": "https://www.youtube.com/watch?v=5yRDF3hV1Jk",
+            "legacyId": "c19-l14"
+          }
+        ]
+      },
+      {
+        "id": "c19-l18",
+        "title": "Dr. Craig Keener, Matthew, Lecture 6, Matthew 3-4",
+        "videoId": "90KYmH36XJg",
+        "duration": "51:18",
+        "url": "https://www.youtube.com/watch?v=90KYmH36XJg",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 6, Matthew 3-4, Short",
+            "url": "https://www.youtube.com/watch?v=q4FiMX7GhBU",
+            "legacyId": "c19-l16"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 6, Video Overview",
+            "url": "https://www.youtube.com/watch?v=1ffP_o3Si-4",
+            "legacyId": "c19-l17"
+          }
+        ]
+      },
+      {
+        "id": "c19-l21",
+        "title": "Dr. Craig Keener, Matthew, Lecture 7,  Sermon on the Mount, Matthew 5",
+        "videoId": "u565FtJXEgM",
+        "duration": "1:01:44",
+        "url": "https://www.youtube.com/watch?v=u565FtJXEgM",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 7, Sermon on the Mount, Matthew 5, Short",
+            "url": "https://www.youtube.com/watch?v=nhEvVccXXAg",
+            "legacyId": "c19-l19"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 7, Video Overview",
+            "url": "https://www.youtube.com/watch?v=K408RqS5ZHA",
+            "legacyId": "c19-l20"
+          }
+        ]
+      },
+      {
+        "id": "c19-l24",
+        "title": "Dr. Craig Keener, Matthew, Lecture 8,  Sermon on the Mount, Matthew 5-6",
+        "videoId": "avZt9f27K_Y",
+        "duration": "59:59",
+        "url": "https://www.youtube.com/watch?v=avZt9f27K_Y",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 8, Sermon on the Mount, Matthew 5-6, Short",
+            "url": "https://www.youtube.com/watch?v=k_iCf5AlOxs",
+            "legacyId": "c19-l22"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 8, Video Overview",
+            "url": "https://www.youtube.com/watch?v=SPzriU6Su-E",
+            "legacyId": "c19-l23"
+          }
+        ]
+      },
+      {
+        "id": "c19-l27",
+        "title": "Dr. Craig Keener, Matthew, Lecture 9, Matthew 7-8",
+        "videoId": "lSHQ1wV5ilY",
+        "duration": "1:00:42",
+        "url": "https://www.youtube.com/watch?v=lSHQ1wV5ilY",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 9, Matthew 7-8, Short",
+            "url": "https://www.youtube.com/watch?v=SozEPADLso4",
+            "legacyId": "c19-l25"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 9, Video Overview",
+            "url": "https://www.youtube.com/watch?v=57-QKzwJUPY",
+            "legacyId": "c19-l26"
+          }
+        ]
+      },
+      {
+        "id": "c19-l30",
+        "title": "Dr. Craig Keener, Matthew, Lecture 10, Matthew 8-9",
+        "videoId": "r4fhjmej948",
+        "duration": "1:03:05",
+        "url": "https://www.youtube.com/watch?v=r4fhjmej948",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 10, Matthew 8-9, Short",
+            "url": "https://www.youtube.com/watch?v=sE4WvLXmQrs",
+            "legacyId": "c19-l28"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 10, Video Overview",
+            "url": "https://www.youtube.com/watch?v=rcLrgkvo3WE",
+            "legacyId": "c19-l29"
+          }
+        ]
+      },
+      {
+        "id": "c19-l33",
+        "title": "Dr. Craig Keener, Matthew, Lecture 11, Matthew 10-11",
+        "videoId": "YKoQQ24xZ30",
+        "duration": "58:09",
+        "url": "https://www.youtube.com/watch?v=YKoQQ24xZ30",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 11, Matthew 10-11, Short",
+            "url": "https://www.youtube.com/watch?v=0jxWimehj5k",
+            "legacyId": "c19-l31"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 11, Video Overview",
+            "url": "https://www.youtube.com/watch?v=QTEWN39l8ho",
+            "legacyId": "c19-l32"
+          }
+        ]
+      },
+      {
+        "id": "c19-l36",
+        "title": "Dr. Craig Keener, Matthew, Lecture 12, Matthew 12-14",
+        "videoId": "Q3aY5KL5EQk",
+        "duration": "1:04:09",
+        "url": "https://www.youtube.com/watch?v=Q3aY5KL5EQk",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 12, Matthew 12-14, Short",
+            "url": "https://www.youtube.com/watch?v=KtRsvJwa5EU",
+            "legacyId": "c19-l34"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 12, Video Overview",
+            "url": "https://www.youtube.com/watch?v=uiDmpnPuJcA",
+            "legacyId": "c19-l35"
+          }
+        ]
+      },
+      {
+        "id": "c19-l39",
+        "title": "Dr. Craig Keener, Matthew, Lecture 13, Matthew 14-16",
+        "videoId": "PHEv6K6Ht-U",
+        "duration": "43:02",
+        "url": "https://www.youtube.com/watch?v=PHEv6K6Ht-U",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 13, Matthew 14-16, Short",
+            "url": "https://www.youtube.com/watch?v=4P1QyzsyqrE",
+            "legacyId": "c19-l37"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 13, Video Overview",
+            "url": "https://www.youtube.com/watch?v=xTh3iTTOfLA",
+            "legacyId": "c19-l38"
+          }
+        ]
+      },
+      {
+        "id": "c19-l42",
+        "title": "Dr. Craig Keener, Matthew, Lecture 14, Matthew 16-19",
+        "videoId": "895fkPGQl08",
+        "duration": "58:14",
+        "url": "https://www.youtube.com/watch?v=895fkPGQl08",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 14, Matthew 16-19, Short",
+            "url": "https://www.youtube.com/watch?v=UxO7Z7kMVK0",
+            "legacyId": "c19-l40"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 14, Video Overview",
+            "url": "https://www.youtube.com/watch?v=Iu86BslvVoY",
+            "legacyId": "c19-l41"
+          }
+        ]
+      },
+      {
+        "id": "c19-l45",
+        "title": "Dr. Craig Keener, Matthew, Lecture 15, Matthew 19-22",
+        "videoId": "I2Rujm05ag4",
+        "duration": "58:54",
+        "url": "https://www.youtube.com/watch?v=I2Rujm05ag4",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 15, Matthew 19-22, Short",
+            "url": "https://www.youtube.com/watch?v=sTA469eT7N4",
+            "legacyId": "c19-l43"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 15, Video Overview",
+            "url": "https://www.youtube.com/watch?v=zSys07jneKQ",
+            "legacyId": "c19-l44"
+          }
+        ]
+      },
+      {
+        "id": "c19-l48",
+        "title": "Dr. Craig Keener, Matthew, Lecture 16, Matthew 23-24",
+        "videoId": "NqAwskHdVjQ",
+        "duration": "1:03:15",
+        "url": "https://www.youtube.com/watch?v=NqAwskHdVjQ",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 16, Matthew 23-24, Short",
+            "url": "https://www.youtube.com/watch?v=k8y54BFqQe4",
+            "legacyId": "c19-l46"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 16, Video Overview",
+            "url": "https://www.youtube.com/watch?v=DstMVdhgIKY",
+            "legacyId": "c19-l47"
+          }
+        ]
+      },
+      {
+        "id": "c19-l51",
+        "title": "Dr. Craig Keener, Matthew, Lecture 17, Matthew 24-25",
+        "videoId": "9BrGBUZTdjs",
+        "duration": "1:01:25",
+        "url": "https://www.youtube.com/watch?v=9BrGBUZTdjs",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 17, Matthew 24-25, Short",
+            "url": "https://www.youtube.com/watch?v=6ZqG-MOKBeY",
+            "legacyId": "c19-l49"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 17 Video Overview",
+            "url": "https://www.youtube.com/watch?v=3yR7hhGSXe4",
+            "legacyId": "c19-l50"
+          }
+        ]
+      },
+      {
+        "id": "c19-l54",
+        "title": "Dr. Craig Keener, Matthew, Lecture 18, Matthew 26-27",
+        "videoId": "AYf57tuHT_I",
+        "duration": "1:03:04",
+        "url": "https://www.youtube.com/watch?v=AYf57tuHT_I",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 18, Matthew 26-27, Short",
+            "url": "https://www.youtube.com/watch?v=spnfKMtROW0",
+            "legacyId": "c19-l52"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 18, Video Overview",
+            "url": "https://www.youtube.com/watch?v=vPnXQncs0o0",
+            "legacyId": "c19-l53"
+          }
+        ]
+      },
+      {
+        "id": "c19-l57",
+        "title": "Dr. Craig Keener, Matthew, Lecture 19, Matthew 27-28",
+        "videoId": "7PFEBkpLaAc",
+        "duration": "44:39",
+        "url": "https://www.youtube.com/watch?v=7PFEBkpLaAc",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 19, Matthew 27-28, Short",
+            "url": "https://www.youtube.com/watch?v=KFOfXOpkwSA",
+            "legacyId": "c19-l55"
+          },
+          {
+            "title": "Dr. Craig Keener, Matthew, Session 19, Video Overview",
+            "url": "https://www.youtube.com/watch?v=6I5uDiFsP3s",
+            "legacyId": "c19-l56"
+          }
+        ]
+      }
+    ],
+    "playlistId": "PLnNXzYjQerJidshPWCq2OrdQ4V3rjgDc3",
+    "indexedAt": "2026-09-24",
+    "supplementalVideos": [
       {
         "id": "c19-l1",
         "title": "Dr. Craig Keener, Matthew, Session 1, Reliability of the Gospels, Short",
@@ -4459,15 +4990,6 @@
         "videoId": "-tmdnJ8OXyE",
         "duration": "8:04",
         "url": "https://www.youtube.com/watch?v=-tmdnJ8OXyE",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c19-l3",
-        "title": "Dr. Craig Keener, Matthew, Lecture 1, Reliability of the Gospels",
-        "videoId": "5jejjJJ8bDM",
-        "duration": "1:07:29",
-        "url": "https://www.youtube.com/watch?v=5jejjJJ8bDM",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4490,15 +5012,6 @@
         "readings": []
       },
       {
-        "id": "c19-l6",
-        "title": "Dr. Craig Keener, Matthew, Lecture 2, Reliability of the Gospels, Miracles",
-        "videoId": "XF5qABUSI-g",
-        "duration": "1:17:47",
-        "url": "https://www.youtube.com/watch?v=XF5qABUSI-g",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c19-l7",
         "title": "Dr. Craig Keener, Matthew, Session 3, Miracles & Exorcism, Short",
         "videoId": "2K4lVLQnm78",
@@ -4513,15 +5026,6 @@
         "videoId": "7pnzqEOEeR0",
         "duration": "5:55",
         "url": "https://www.youtube.com/watch?v=7pnzqEOEeR0",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c19-l9",
-        "title": "Dr. Craig Keener, Matthew, Lecture 3, Miracles & Exorcism",
-        "videoId": "Cywq3e9bLhM",
-        "duration": "52:30",
-        "url": "https://www.youtube.com/watch?v=Cywq3e9bLhM",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4544,15 +5048,6 @@
         "readings": []
       },
       {
-        "id": "c19-l12",
-        "title": "Dr. Craig Keener, Matthew, Lecture 4, Introduction to Matthew, Matthew 1",
-        "videoId": "YsBFzWGCl7w",
-        "duration": "57:07",
-        "url": "https://www.youtube.com/watch?v=YsBFzWGCl7w",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c19-l13",
         "title": "Dr. Craig Keener, Matthew, Session 5, Matthew 2-3, Short",
         "videoId": "wpfznWvo_nw",
@@ -4567,15 +5062,6 @@
         "videoId": "5yRDF3hV1Jk",
         "duration": "6:21",
         "url": "https://www.youtube.com/watch?v=5yRDF3hV1Jk",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c19-l15",
-        "title": "Dr. Craig Keener, Matthew, Lecture 5, Matthew 2-3",
-        "videoId": "Jz4ouXpxa50",
-        "duration": "1:03:49",
-        "url": "https://www.youtube.com/watch?v=Jz4ouXpxa50",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4598,15 +5084,6 @@
         "readings": []
       },
       {
-        "id": "c19-l18",
-        "title": "Dr. Craig Keener, Matthew, Lecture 6, Matthew 3-4",
-        "videoId": "90KYmH36XJg",
-        "duration": "51:18",
-        "url": "https://www.youtube.com/watch?v=90KYmH36XJg",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c19-l19",
         "title": "Dr. Craig Keener, Matthew, Session 7, Sermon on the Mount, Matthew 5, Short",
         "videoId": "nhEvVccXXAg",
@@ -4621,15 +5098,6 @@
         "videoId": "K408RqS5ZHA",
         "duration": "6:55",
         "url": "https://www.youtube.com/watch?v=K408RqS5ZHA",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c19-l21",
-        "title": "Dr. Craig Keener, Matthew, Lecture 7,  Sermon on the Mount, Matthew 5",
-        "videoId": "u565FtJXEgM",
-        "duration": "1:01:44",
-        "url": "https://www.youtube.com/watch?v=u565FtJXEgM",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4652,15 +5120,6 @@
         "readings": []
       },
       {
-        "id": "c19-l24",
-        "title": "Dr. Craig Keener, Matthew, Lecture 8,  Sermon on the Mount, Matthew 5-6",
-        "videoId": "avZt9f27K_Y",
-        "duration": "59:59",
-        "url": "https://www.youtube.com/watch?v=avZt9f27K_Y",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c19-l25",
         "title": "Dr. Craig Keener, Matthew, Session 9, Matthew 7-8, Short",
         "videoId": "SozEPADLso4",
@@ -4675,15 +5134,6 @@
         "videoId": "57-QKzwJUPY",
         "duration": "6:46",
         "url": "https://www.youtube.com/watch?v=57-QKzwJUPY",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c19-l27",
-        "title": "Dr. Craig Keener, Matthew, Lecture 9, Matthew 7-8",
-        "videoId": "lSHQ1wV5ilY",
-        "duration": "1:00:42",
-        "url": "https://www.youtube.com/watch?v=lSHQ1wV5ilY",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4706,15 +5156,6 @@
         "readings": []
       },
       {
-        "id": "c19-l30",
-        "title": "Dr. Craig Keener, Matthew, Lecture 10, Matthew 8-9",
-        "videoId": "r4fhjmej948",
-        "duration": "1:03:05",
-        "url": "https://www.youtube.com/watch?v=r4fhjmej948",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c19-l31",
         "title": "Dr. Craig Keener, Matthew, Session 11, Matthew 10-11, Short",
         "videoId": "0jxWimehj5k",
@@ -4729,15 +5170,6 @@
         "videoId": "QTEWN39l8ho",
         "duration": "7:12",
         "url": "https://www.youtube.com/watch?v=QTEWN39l8ho",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c19-l33",
-        "title": "Dr. Craig Keener, Matthew, Lecture 11, Matthew 10-11",
-        "videoId": "YKoQQ24xZ30",
-        "duration": "58:09",
-        "url": "https://www.youtube.com/watch?v=YKoQQ24xZ30",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4760,15 +5192,6 @@
         "readings": []
       },
       {
-        "id": "c19-l36",
-        "title": "Dr. Craig Keener, Matthew, Lecture 12, Matthew 12-14",
-        "videoId": "Q3aY5KL5EQk",
-        "duration": "1:04:09",
-        "url": "https://www.youtube.com/watch?v=Q3aY5KL5EQk",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c19-l37",
         "title": "Dr. Craig Keener, Matthew, Session 13, Matthew 14-16, Short",
         "videoId": "4P1QyzsyqrE",
@@ -4783,15 +5206,6 @@
         "videoId": "xTh3iTTOfLA",
         "duration": "6:37",
         "url": "https://www.youtube.com/watch?v=xTh3iTTOfLA",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c19-l39",
-        "title": "Dr. Craig Keener, Matthew, Lecture 13, Matthew 14-16",
-        "videoId": "PHEv6K6Ht-U",
-        "duration": "43:02",
-        "url": "https://www.youtube.com/watch?v=PHEv6K6Ht-U",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4814,15 +5228,6 @@
         "readings": []
       },
       {
-        "id": "c19-l42",
-        "title": "Dr. Craig Keener, Matthew, Lecture 14, Matthew 16-19",
-        "videoId": "895fkPGQl08",
-        "duration": "58:14",
-        "url": "https://www.youtube.com/watch?v=895fkPGQl08",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c19-l43",
         "title": "Dr. Craig Keener, Matthew, Session 15, Matthew 19-22, Short",
         "videoId": "sTA469eT7N4",
@@ -4837,15 +5242,6 @@
         "videoId": "zSys07jneKQ",
         "duration": "7:27",
         "url": "https://www.youtube.com/watch?v=zSys07jneKQ",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c19-l45",
-        "title": "Dr. Craig Keener, Matthew, Lecture 15, Matthew 19-22",
-        "videoId": "I2Rujm05ag4",
-        "duration": "58:54",
-        "url": "https://www.youtube.com/watch?v=I2Rujm05ag4",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4868,15 +5264,6 @@
         "readings": []
       },
       {
-        "id": "c19-l48",
-        "title": "Dr. Craig Keener, Matthew, Lecture 16, Matthew 23-24",
-        "videoId": "NqAwskHdVjQ",
-        "duration": "1:03:15",
-        "url": "https://www.youtube.com/watch?v=NqAwskHdVjQ",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c19-l49",
         "title": "Dr. Craig Keener, Matthew, Session 17, Matthew 24-25, Short",
         "videoId": "6ZqG-MOKBeY",
@@ -4891,15 +5278,6 @@
         "videoId": "3yR7hhGSXe4",
         "duration": "7:46",
         "url": "https://www.youtube.com/watch?v=3yR7hhGSXe4",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c19-l51",
-        "title": "Dr. Craig Keener, Matthew, Lecture 17, Matthew 24-25",
-        "videoId": "9BrGBUZTdjs",
-        "duration": "1:01:25",
-        "url": "https://www.youtube.com/watch?v=9BrGBUZTdjs",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -4922,15 +5300,6 @@
         "readings": []
       },
       {
-        "id": "c19-l54",
-        "title": "Dr. Craig Keener, Matthew, Lecture 18, Matthew 26-27",
-        "videoId": "AYf57tuHT_I",
-        "duration": "1:03:04",
-        "url": "https://www.youtube.com/watch?v=AYf57tuHT_I",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c19-l55",
         "title": "Dr. Craig Keener, Matthew, Session 19, Matthew 27-28, Short",
         "videoId": "KFOfXOpkwSA",
@@ -4947,19 +5316,8 @@
         "url": "https://www.youtube.com/watch?v=6I5uDiFsP3s",
         "source": "YouTube playlist",
         "readings": []
-      },
-      {
-        "id": "c19-l57",
-        "title": "Dr. Craig Keener, Matthew, Lecture 19, Matthew 27-28",
-        "videoId": "7PFEBkpLaAc",
-        "duration": "44:39",
-        "url": "https://www.youtube.com/watch?v=7PFEBkpLaAc",
-        "source": "YouTube playlist",
-        "readings": []
       }
-    ],
-    "playlistId": "PLnNXzYjQerJidshPWCq2OrdQ4V3rjgDc3",
-    "indexedAt": "2026-09-24"
+    ]
   },
   {
     "id": "c20",
@@ -4972,6 +5330,619 @@
     "completed": false,
     "note": "",
     "lessons": [
+      {
+        "id": "c20-l3",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 1, Orientation Part 1",
+        "videoId": "UkHJ_2zK8VI",
+        "duration": "1:19:00",
+        "url": "https://www.youtube.com/watch?v=UkHJ_2zK8VI",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 1, Orientation Part 1, Short",
+            "url": "https://www.youtube.com/watch?v=-08ceAteGHs",
+            "legacyId": "c20-l1"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 1, Orientation Part 1, Video Overview",
+            "url": "https://www.youtube.com/watch?v=1VGTtBv7j3Q",
+            "legacyId": "c20-l2"
+          }
+        ]
+      },
+      {
+        "id": "c20-l6",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 2, Orientation Part 2",
+        "videoId": "CdQrlgRGUlA",
+        "duration": "1:03:36",
+        "url": "https://www.youtube.com/watch?v=CdQrlgRGUlA",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 2, Orientation Part 2, Short",
+            "url": "https://www.youtube.com/watch?v=R6P3ObMtTQI",
+            "legacyId": "c20-l4"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 2, Orientation Part 2, Video Overview",
+            "url": "https://www.youtube.com/watch?v=H4ZY1gaKbts",
+            "legacyId": "c20-l5"
+          }
+        ]
+      },
+      {
+        "id": "c20-l9",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 3, How Bible Teaches",
+        "videoId": "dEEqFZqXe2c",
+        "duration": "58:47",
+        "url": "https://www.youtube.com/watch?v=dEEqFZqXe2c",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 3, How Bible Teaches, Short",
+            "url": "https://www.youtube.com/watch?v=TyZRdLWtVac",
+            "legacyId": "c20-l7"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 3, How Bible Teaches, Video Overview",
+            "url": "https://www.youtube.com/watch?v=bNSn3ivl3i0",
+            "legacyId": "c20-l8"
+          }
+        ]
+      },
+      {
+        "id": "c20-l12",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 4, How Bible Teaches Part 2",
+        "videoId": "br2BoIOQX4M",
+        "duration": "1:01:21",
+        "url": "https://www.youtube.com/watch?v=br2BoIOQX4M",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 4, How Bible Teaches Part 2, Short",
+            "url": "https://www.youtube.com/watch?v=N2Y__RQjTXY",
+            "legacyId": "c20-l10"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 4, How Bible Teaches Part 2, Video Overview",
+            "url": "https://www.youtube.com/watch?v=xv_WFK3bZqw",
+            "legacyId": "c20-l11"
+          }
+        ]
+      },
+      {
+        "id": "c20-l15",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 5, Process of Validation",
+        "videoId": "dvgkHAogugI",
+        "duration": "49:09",
+        "url": "https://www.youtube.com/watch?v=dvgkHAogugI",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 5, Process of Validation, Short",
+            "url": "https://www.youtube.com/watch?v=qcngpgukpgs",
+            "legacyId": "c20-l13"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 5, Process of Validation, Video Overview",
+            "url": "https://www.youtube.com/watch?v=l4qrb7EnzUU",
+            "legacyId": "c20-l14"
+          }
+        ]
+      },
+      {
+        "id": "c20-l18",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 6, Introduction to 1 Corinthians",
+        "videoId": "PZEmoMgRQJw",
+        "duration": "47:19",
+        "url": "https://www.youtube.com/watch?v=PZEmoMgRQJw",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 6, Introduction to 1 Corinthians, Short",
+            "url": "https://www.youtube.com/watch?v=VfsIu3upAsE",
+            "legacyId": "c20-l16"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 6, Introduction to 1 Corinthians, Video Overview",
+            "url": "https://www.youtube.com/watch?v=nEK51Ioy130",
+            "legacyId": "c20-l17"
+          }
+        ]
+      },
+      {
+        "id": "c20-l21",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians,  Lecture 7, Introduction to 1 Corinthians,  Part 2",
+        "videoId": "3kzfylae4n0",
+        "duration": "48:31",
+        "url": "https://www.youtube.com/watch?v=3kzfylae4n0",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 7, Introduction to 1 Corinthians, Part 2, Short",
+            "url": "https://www.youtube.com/watch?v=4w6Ykoutm44",
+            "legacyId": "c20-l19"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 7, Introduction to 1 Corinthians, Part 2, Video Overview",
+            "url": "https://www.youtube.com/watch?v=R2Dq1uc4t4U",
+            "legacyId": "c20-l20"
+          }
+        ]
+      },
+      {
+        "id": "c20-l24",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians,  Lecture 8, Structure of 1 Corinthians",
+        "videoId": "sDoqevCpNzA",
+        "duration": "42:41",
+        "url": "https://www.youtube.com/watch?v=sDoqevCpNzA",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 8, Structure of 1 Corinthians, Short",
+            "url": "https://www.youtube.com/watch?v=e7EWlqXKkng",
+            "legacyId": "c20-l22"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 8, Structure of 1 Corinthians, Video Overview",
+            "url": "https://www.youtube.com/watch?v=eAm4YU3zopM",
+            "legacyId": "c20-l23"
+          }
+        ]
+      },
+      {
+        "id": "c20-l27",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 9, 1 Cor. 1:1-9 Introduction",
+        "videoId": "05X_h2-G7-8",
+        "duration": "1:05:10",
+        "url": "https://www.youtube.com/watch?v=05X_h2-G7-8",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 9, 1 Cor. 1:1-9 Introduction, Short",
+            "url": "https://www.youtube.com/watch?v=xx8kU3R1CT4",
+            "legacyId": "c20-l25"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 9, 1 Cor. 1:1-9 Introduction, Video Overview",
+            "url": "https://www.youtube.com/watch?v=NGLr6rmhpKA",
+            "legacyId": "c20-l26"
+          }
+        ]
+      },
+      {
+        "id": "c20-l30",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 10, Response to Chloe's Household Part 1",
+        "videoId": "NwDChqxmdmA",
+        "duration": "53:10",
+        "url": "https://www.youtube.com/watch?v=NwDChqxmdmA",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 10, Response to Chloe's Household Part 1, Short",
+            "url": "https://www.youtube.com/watch?v=VjG1rPL3TFc",
+            "legacyId": "c20-l28"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 10, Response to Chloe's Household Part 1, Video Overview",
+            "url": "https://www.youtube.com/watch?v=zvSex0ekH0U",
+            "legacyId": "c20-l29"
+          }
+        ]
+      },
+      {
+        "id": "c20-l33",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 11, Response to Chloe's Household Part 2",
+        "videoId": "tK3tFZYtVdo",
+        "duration": "49:25",
+        "url": "https://www.youtube.com/watch?v=tK3tFZYtVdo",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 11, Response to Chloe's Household Part 2, Short",
+            "url": "https://www.youtube.com/watch?v=gfbIlitaleo",
+            "legacyId": "c20-l31"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 11, Response to Chloe's Household Part 2, Video Overview",
+            "url": "https://www.youtube.com/watch?v=uO--eBAVEt4",
+            "legacyId": "c20-l32"
+          }
+        ]
+      },
+      {
+        "id": "c20-l36",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 12, Response to Chloe's Household, Part 3",
+        "videoId": "ULlxTeNx8cE",
+        "duration": "46:09",
+        "url": "https://www.youtube.com/watch?v=ULlxTeNx8cE",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 12, Response to Chloe's Household, Part 3, Short",
+            "url": "https://www.youtube.com/watch?v=wvA19UGnL-I",
+            "legacyId": "c20-l34"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 12, Response to Chloe's Household, Pt 3, Video Overview",
+            "url": "https://www.youtube.com/watch?v=RyPubU3I5Vo",
+            "legacyId": "c20-l35"
+          }
+        ]
+      },
+      {
+        "id": "c20-l39",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 13, Response to Chloe's Household, Part 4",
+        "videoId": "P0vCFyfM5pk",
+        "duration": "1:17:46",
+        "url": "https://www.youtube.com/watch?v=P0vCFyfM5pk",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 13, Response to Chloe's Household, Part 4, Short",
+            "url": "https://www.youtube.com/watch?v=AUPT5lYtOJI",
+            "legacyId": "c20-l37"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 13, Response to Chloe's Household, Pt 4, Video Overview",
+            "url": "https://www.youtube.com/watch?v=JGbtC2Fllbs",
+            "legacyId": "c20-l38"
+          }
+        ]
+      },
+      {
+        "id": "c20-l42",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 14, Paul's Response to Oral Reports 1 Cor 5:1-4",
+        "videoId": "45dmnN0V0hM",
+        "duration": "55:12",
+        "url": "https://www.youtube.com/watch?v=45dmnN0V0hM",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 14, Paul's Response to Oral Reports 1 Cor 5:1-4, Short",
+            "url": "https://www.youtube.com/watch?v=Oyi6ZsLWQPg",
+            "legacyId": "c20-l40"
+          }
+        ]
+      },
+      {
+        "id": "c20-l45",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 15, Paul's Response to Oral Reports, 1 Cor 5:5ff",
+        "videoId": "ojWyKcAqQXY",
+        "duration": "44:16",
+        "url": "https://www.youtube.com/watch?v=ojWyKcAqQXY",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 15, Paul's Response to Oral Reports, 1 Cor 5:5ff, Short",
+            "url": "https://www.youtube.com/watch?v=PkG1bwqYJ5w",
+            "legacyId": "c20-l43"
+          }
+        ]
+      },
+      {
+        "id": "c20-l48",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 16, Response to Oral Reports, 1 Cor. 6:1ff",
+        "videoId": "EDenPVRE1ns",
+        "duration": "1:26:56",
+        "url": "https://www.youtube.com/watch?v=EDenPVRE1ns",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 16, Response to Oral Reports, 1 Cor. 6:1ff, Short",
+            "url": "https://www.youtube.com/watch?v=Nk8plb9OCqI",
+            "legacyId": "c20-l46"
+          }
+        ]
+      },
+      {
+        "id": "c20-l51",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 17, Response to Oral Reports, 1 Cor 6:7-20",
+        "videoId": "WabTxpKzHps",
+        "duration": "1:19:57",
+        "url": "https://www.youtube.com/watch?v=WabTxpKzHps",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corintians, Session 17, Response to Oral Reports, 1 Cor 6:7-20, Short",
+            "url": "https://www.youtube.com/watch?v=C8sg7rPbwL0",
+            "legacyId": "c20-l49"
+          }
+        ]
+      },
+      {
+        "id": "c20-l54",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 18, Response to Issues of Sex, 1 Cor 7:1-7a",
+        "videoId": "x2ycX73DQkA",
+        "duration": "1:06:11",
+        "url": "https://www.youtube.com/watch?v=x2ycX73DQkA",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 18, Response to Issues of Sex, 1 Cor 7:1-7a, Short",
+            "url": "https://www.youtube.com/watch?v=OuVSjGBEUKg",
+            "legacyId": "c20-l52"
+          }
+        ]
+      },
+      {
+        "id": "c20-l57",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 19, Response to Issues of Sex,  1 Cor 7:7-40",
+        "videoId": "qPyQYS3oknc",
+        "duration": "1:13:41",
+        "url": "https://www.youtube.com/watch?v=qPyQYS3oknc",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 19, Response to Issues of Sex, 1 Cor 7:7-40, Short",
+            "url": "https://www.youtube.com/watch?v=xy8ik_55rSE",
+            "legacyId": "c20-l55"
+          }
+        ]
+      },
+      {
+        "id": "c20-l60",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 20, Response to Issues of Sex, 1 Cor 7 Excursus Divorce",
+        "videoId": "6TZrqC0RDUQ",
+        "duration": "1:25:43",
+        "url": "https://www.youtube.com/watch?v=6TZrqC0RDUQ",
+        "source": "YouTube playlist",
+        "readings": []
+      },
+      {
+        "id": "c20-l63",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 21, Response to Food to  Idols, 1 Cor 8",
+        "videoId": "m1-aF5qiFng",
+        "duration": "1:27:44",
+        "url": "https://www.youtube.com/watch?v=m1-aF5qiFng",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 21, Response to Food to Idols, 1 Cor 8, Short",
+            "url": "https://www.youtube.com/watch?v=CwTdpdRmCbI",
+            "legacyId": "c20-l61"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 21, Response to Food to Idols, 1 Cor 8, Video Overview",
+            "url": "https://www.youtube.com/watch?v=N2OoLGqjBr4",
+            "legacyId": "c20-l62"
+          }
+        ]
+      },
+      {
+        "id": "c20-l66",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 22, Response to Food Idols, 1 Cor 9",
+        "videoId": "8a9erEPckjk",
+        "duration": "1:05:18",
+        "url": "https://www.youtube.com/watch?v=8a9erEPckjk",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 22, Response to Food Idols, 1 Cor 9, Short",
+            "url": "https://www.youtube.com/watch?v=fz_axrZYGNY",
+            "legacyId": "c20-l64"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 22, Response to Food Idols, 1 Cor 9, Video Overview",
+            "url": "https://www.youtube.com/watch?v=zzZDiEJOoHI",
+            "legacyId": "c20-l65"
+          }
+        ]
+      },
+      {
+        "id": "c20-l69",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 23, Response to Food Idols, 1 Cor 10",
+        "videoId": "mPKq8Il653U",
+        "duration": "55:19",
+        "url": "https://www.youtube.com/watch?v=mPKq8Il653U",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 23, Response to Food Idols, 1 Cor 10, Short",
+            "url": "https://www.youtube.com/watch?v=8fWnFVzuZlc",
+            "legacyId": "c20-l67"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 23, Response to Food Idols, 1 Cor 10, Video Overview",
+            "url": "https://www.youtube.com/watch?v=57sw_gOshzA",
+            "legacyId": "c20-l68"
+          }
+        ]
+      },
+      {
+        "id": "c20-l72",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 24, Response to Food Idols, 1 Cor 10 Conscience",
+        "videoId": "n2u7F1aDGqg",
+        "duration": "1:10:25",
+        "url": "https://www.youtube.com/watch?v=n2u7F1aDGqg",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 24, Response to Food Idols, 1 Cor 10 Conscience, Short",
+            "url": "https://www.youtube.com/watch?v=8ABr3sWqGbk",
+            "legacyId": "c20-l70"
+          }
+        ]
+      },
+      {
+        "id": "c20-l75",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 25, Response Worship Questions, 1 Cor 11:2ff",
+        "videoId": "BnG-rv7UFZs",
+        "duration": "1:18:10",
+        "url": "https://www.youtube.com/watch?v=BnG-rv7UFZs",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 25, Response Worship Questions, 1 Cor 11:2ff, Short",
+            "url": "https://www.youtube.com/watch?v=G79apzq4Yvo",
+            "legacyId": "c20-l73"
+          }
+        ]
+      },
+      {
+        "id": "c20-l78",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 26, Response to Worship Questions, 1 Cor 11 2-16 Pt2",
+        "videoId": "pztuTIsyIhM",
+        "duration": "1:17:45",
+        "url": "https://www.youtube.com/watch?v=pztuTIsyIhM",
+        "source": "YouTube playlist",
+        "readings": []
+      },
+      {
+        "id": "c20-l81",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 27, Response to Worship Questions, 1 Cor 11:17ff",
+        "videoId": "irNnk-Hd_3g",
+        "duration": "1:02:32",
+        "url": "https://www.youtube.com/watch?v=irNnk-Hd_3g",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 27, Response to Worship Questions, 1 Cor 11:17ff, Short",
+            "url": "https://www.youtube.com/watch?v=Ukvpf7gDYIU",
+            "legacyId": "c20-l79"
+          }
+        ]
+      },
+      {
+        "id": "c20-l84",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 28,  Response to Gifts Questions, 1 Cor 12-14",
+        "videoId": "swMt26Zdtuc",
+        "duration": "1:08:10",
+        "url": "https://www.youtube.com/watch?v=swMt26Zdtuc",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 28, Response to Gifts Questions, 1 Cor 12-14, Short",
+            "url": "https://www.youtube.com/watch?v=hx0g7cj4YFQ",
+            "legacyId": "c20-l82"
+          }
+        ]
+      },
+      {
+        "id": "c20-l86",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 29, Response to Gifts Questions, 1 Cor 12",
+        "videoId": "-vJaoM6Wrx8",
+        "duration": "1:30:08",
+        "url": "https://www.youtube.com/watch?v=-vJaoM6Wrx8",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 29, Response to Gifts Questions, 1 Cor 12, Short",
+            "url": "https://www.youtube.com/watch?v=tm8Zysy5JqU",
+            "legacyId": "c20-l85"
+          }
+        ]
+      },
+      {
+        "id": "c20-l90",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 30, Response to Gifts Questions, 1 Cor 13-14",
+        "videoId": "KrV9qaiz5h0",
+        "duration": "1:02:02",
+        "url": "https://www.youtube.com/watch?v=KrV9qaiz5h0",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 30, Response to Gifts Questions, 1 Cor 13-14, Short",
+            "url": "https://www.youtube.com/watch?v=56llbmB4ceA",
+            "legacyId": "c20-l88"
+          }
+        ]
+      },
+      {
+        "id": "c20-l93",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 31, 1 Cor 12-14 Excursus on Gifts",
+        "videoId": "Ca1H7LqzWYI",
+        "duration": "1:31:35",
+        "url": "https://www.youtube.com/watch?v=Ca1H7LqzWYI",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 31, 1 Cor 12-14 Excursus on Gifts, Short",
+            "url": "https://www.youtube.com/watch?v=bNHyvKH0Pf8",
+            "legacyId": "c20-l91"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 31, 1 Cor 12-14 Excursus on Gifts, Video Overview",
+            "url": "https://www.youtube.com/watch?v=1NzuFKVHY2E",
+            "legacyId": "c20-l92"
+          }
+        ]
+      },
+      {
+        "id": "c20-l96",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 32, 1 Cor 15, Resurrection",
+        "videoId": "zTeyPXf38BA",
+        "duration": "1:30:18",
+        "url": "https://www.youtube.com/watch?v=zTeyPXf38BA",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 32, 1 Cor 15, Resurrection, Short",
+            "url": "https://www.youtube.com/watch?v=--VOwR_gl5U",
+            "legacyId": "c20-l94"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 32, 1 Cor 15, Resurrection, Video Overview",
+            "url": "https://www.youtube.com/watch?v=2uDxCfMbzQo",
+            "legacyId": "c20-l95"
+          }
+        ]
+      },
+      {
+        "id": "c20-l99",
+        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 33, Jerusalem Collection, 1 Cor. 16",
+        "videoId": "nd5p8Bc_3kI",
+        "duration": "1:11:35",
+        "url": "https://www.youtube.com/watch?v=nd5p8Bc_3kI",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 33, Jerusalem Collection, 1 Cor. 16, Short",
+            "url": "https://www.youtube.com/watch?v=y1BMoIkUcyg",
+            "legacyId": "c20-l97"
+          },
+          {
+            "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 33, Jerusalem Collection, 1 Cor. 16, Video Overview",
+            "url": "https://www.youtube.com/watch?v=DGKtlP12lOw",
+            "legacyId": "c20-l98"
+          }
+        ]
+      }
+    ],
+    "playlistId": "PLnNXzYjQerJhWRW01dN9wCllmi15dXkgb",
+    "indexedAt": "2026-09-24",
+    "supplementalVideos": [
       {
         "id": "c20-l1",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 1, Orientation Part 1, Short",
@@ -4987,15 +5958,6 @@
         "videoId": "1VGTtBv7j3Q",
         "duration": "6:41",
         "url": "https://www.youtube.com/watch?v=1VGTtBv7j3Q",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l3",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 1, Orientation Part 1",
-        "videoId": "UkHJ_2zK8VI",
-        "duration": "1:19:00",
-        "url": "https://www.youtube.com/watch?v=UkHJ_2zK8VI",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5018,15 +5980,6 @@
         "readings": []
       },
       {
-        "id": "c20-l6",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 2, Orientation Part 2",
-        "videoId": "CdQrlgRGUlA",
-        "duration": "1:03:36",
-        "url": "https://www.youtube.com/watch?v=CdQrlgRGUlA",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l7",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 3, How Bible Teaches, Short",
         "videoId": "TyZRdLWtVac",
@@ -5041,15 +5994,6 @@
         "videoId": "bNSn3ivl3i0",
         "duration": "5:32",
         "url": "https://www.youtube.com/watch?v=bNSn3ivl3i0",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l9",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 3, How Bible Teaches",
-        "videoId": "dEEqFZqXe2c",
-        "duration": "58:47",
-        "url": "https://www.youtube.com/watch?v=dEEqFZqXe2c",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5072,15 +6016,6 @@
         "readings": []
       },
       {
-        "id": "c20-l12",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 4, How Bible Teaches Part 2",
-        "videoId": "br2BoIOQX4M",
-        "duration": "1:01:21",
-        "url": "https://www.youtube.com/watch?v=br2BoIOQX4M",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l13",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 5, Process of Validation, Short",
         "videoId": "qcngpgukpgs",
@@ -5095,15 +6030,6 @@
         "videoId": "l4qrb7EnzUU",
         "duration": "5:34",
         "url": "https://www.youtube.com/watch?v=l4qrb7EnzUU",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l15",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 5, Process of Validation",
-        "videoId": "dvgkHAogugI",
-        "duration": "49:09",
-        "url": "https://www.youtube.com/watch?v=dvgkHAogugI",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5126,15 +6052,6 @@
         "readings": []
       },
       {
-        "id": "c20-l18",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 6, Introduction to 1 Corinthians",
-        "videoId": "PZEmoMgRQJw",
-        "duration": "47:19",
-        "url": "https://www.youtube.com/watch?v=PZEmoMgRQJw",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l19",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 7, Introduction to 1 Corinthians, Part 2, Short",
         "videoId": "4w6Ykoutm44",
@@ -5149,15 +6066,6 @@
         "videoId": "R2Dq1uc4t4U",
         "duration": "6:13",
         "url": "https://www.youtube.com/watch?v=R2Dq1uc4t4U",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l21",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians,  Lecture 7, Introduction to 1 Corinthians,  Part 2",
-        "videoId": "3kzfylae4n0",
-        "duration": "48:31",
-        "url": "https://www.youtube.com/watch?v=3kzfylae4n0",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5180,15 +6088,6 @@
         "readings": []
       },
       {
-        "id": "c20-l24",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians,  Lecture 8, Structure of 1 Corinthians",
-        "videoId": "sDoqevCpNzA",
-        "duration": "42:41",
-        "url": "https://www.youtube.com/watch?v=sDoqevCpNzA",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l25",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 9, 1 Cor. 1:1-9 Introduction, Short",
         "videoId": "xx8kU3R1CT4",
@@ -5203,15 +6102,6 @@
         "videoId": "NGLr6rmhpKA",
         "duration": "6:14",
         "url": "https://www.youtube.com/watch?v=NGLr6rmhpKA",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l27",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 9, 1 Cor. 1:1-9 Introduction",
-        "videoId": "05X_h2-G7-8",
-        "duration": "1:05:10",
-        "url": "https://www.youtube.com/watch?v=05X_h2-G7-8",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5234,15 +6124,6 @@
         "readings": []
       },
       {
-        "id": "c20-l30",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 10, Response to Chloe's Household Part 1",
-        "videoId": "NwDChqxmdmA",
-        "duration": "53:10",
-        "url": "https://www.youtube.com/watch?v=NwDChqxmdmA",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l31",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 11, Response to Chloe's Household Part 2, Short",
         "videoId": "gfbIlitaleo",
@@ -5257,15 +6138,6 @@
         "videoId": "uO--eBAVEt4",
         "duration": "8:26",
         "url": "https://www.youtube.com/watch?v=uO--eBAVEt4",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l33",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 11, Response to Chloe's Household Part 2",
-        "videoId": "tK3tFZYtVdo",
-        "duration": "49:25",
-        "url": "https://www.youtube.com/watch?v=tK3tFZYtVdo",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5288,15 +6160,6 @@
         "readings": []
       },
       {
-        "id": "c20-l36",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 12, Response to Chloe's Household, Part 3",
-        "videoId": "ULlxTeNx8cE",
-        "duration": "46:09",
-        "url": "https://www.youtube.com/watch?v=ULlxTeNx8cE",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l37",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 13, Response to Chloe's Household, Part 4, Short",
         "videoId": "AUPT5lYtOJI",
@@ -5311,15 +6174,6 @@
         "videoId": "JGbtC2Fllbs",
         "duration": "6:46",
         "url": "https://www.youtube.com/watch?v=JGbtC2Fllbs",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l39",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 13, Response to Chloe's Household, Part 4",
-        "videoId": "P0vCFyfM5pk",
-        "duration": "1:17:46",
-        "url": "https://www.youtube.com/watch?v=P0vCFyfM5pk",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5342,15 +6196,6 @@
         "readings": []
       },
       {
-        "id": "c20-l42",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 14, Paul's Response to Oral Reports 1 Cor 5:1-4",
-        "videoId": "45dmnN0V0hM",
-        "duration": "55:12",
-        "url": "https://www.youtube.com/watch?v=45dmnN0V0hM",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l43",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 15, Paul's Response to Oral Reports, 1 Cor 5:5ff, Short",
         "videoId": "PkG1bwqYJ5w",
@@ -5365,15 +6210,6 @@
         "videoId": "rsUpu8NOyeQ",
         "duration": "6:57",
         "url": "https://www.youtube.com/watch?v=rsUpu8NOyeQ",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l45",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 15, Paul's Response to Oral Reports, 1 Cor 5:5ff",
-        "videoId": "ojWyKcAqQXY",
-        "duration": "44:16",
-        "url": "https://www.youtube.com/watch?v=ojWyKcAqQXY",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5396,15 +6232,6 @@
         "readings": []
       },
       {
-        "id": "c20-l48",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 16, Response to Oral Reports, 1 Cor. 6:1ff",
-        "videoId": "EDenPVRE1ns",
-        "duration": "1:26:56",
-        "url": "https://www.youtube.com/watch?v=EDenPVRE1ns",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l49",
         "title": "Dr. Gary T. Meadors, 1 Corintians, Session 17, Response to Oral Reports, 1 Cor 6:7-20, Short",
         "videoId": "C8sg7rPbwL0",
@@ -5419,15 +6246,6 @@
         "videoId": "li_cOt8JSPw",
         "duration": "6:52",
         "url": "https://www.youtube.com/watch?v=li_cOt8JSPw",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l51",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 17, Response to Oral Reports, 1 Cor 6:7-20",
-        "videoId": "WabTxpKzHps",
-        "duration": "1:19:57",
-        "url": "https://www.youtube.com/watch?v=WabTxpKzHps",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5450,15 +6268,6 @@
         "readings": []
       },
       {
-        "id": "c20-l54",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 18, Response to Issues of Sex, 1 Cor 7:1-7a",
-        "videoId": "x2ycX73DQkA",
-        "duration": "1:06:11",
-        "url": "https://www.youtube.com/watch?v=x2ycX73DQkA",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l55",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 19, Response to Issues of Sex, 1 Cor 7:7-40, Short",
         "videoId": "xy8ik_55rSE",
@@ -5473,15 +6282,6 @@
         "videoId": "dei1-3Lp5e0",
         "duration": "7:14",
         "url": "https://www.youtube.com/watch?v=dei1-3Lp5e0",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l57",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 19, Response to Issues of Sex,  1 Cor 7:7-40",
-        "videoId": "qPyQYS3oknc",
-        "duration": "1:13:41",
-        "url": "https://www.youtube.com/watch?v=qPyQYS3oknc",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5504,15 +6304,6 @@
         "readings": []
       },
       {
-        "id": "c20-l60",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 20, Response to Issues of Sex, 1 Cor 7 Excursus Divorce",
-        "videoId": "6TZrqC0RDUQ",
-        "duration": "1:25:43",
-        "url": "https://www.youtube.com/watch?v=6TZrqC0RDUQ",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l61",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 21, Response to Food to Idols, 1 Cor 8, Short",
         "videoId": "CwTdpdRmCbI",
@@ -5527,15 +6318,6 @@
         "videoId": "N2OoLGqjBr4",
         "duration": "5:42",
         "url": "https://www.youtube.com/watch?v=N2OoLGqjBr4",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l63",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 21, Response to Food to  Idols, 1 Cor 8",
-        "videoId": "m1-aF5qiFng",
-        "duration": "1:27:44",
-        "url": "https://www.youtube.com/watch?v=m1-aF5qiFng",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5558,15 +6340,6 @@
         "readings": []
       },
       {
-        "id": "c20-l66",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 22, Response to Food Idols, 1 Cor 9",
-        "videoId": "8a9erEPckjk",
-        "duration": "1:05:18",
-        "url": "https://www.youtube.com/watch?v=8a9erEPckjk",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l67",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 23, Response to Food Idols, 1 Cor 10, Short",
         "videoId": "8fWnFVzuZlc",
@@ -5581,15 +6354,6 @@
         "videoId": "57sw_gOshzA",
         "duration": "7:09",
         "url": "https://www.youtube.com/watch?v=57sw_gOshzA",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l69",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 23, Response to Food Idols, 1 Cor 10",
-        "videoId": "mPKq8Il653U",
-        "duration": "55:19",
-        "url": "https://www.youtube.com/watch?v=mPKq8Il653U",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5612,15 +6376,6 @@
         "readings": []
       },
       {
-        "id": "c20-l72",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 24, Response to Food Idols, 1 Cor 10 Conscience",
-        "videoId": "n2u7F1aDGqg",
-        "duration": "1:10:25",
-        "url": "https://www.youtube.com/watch?v=n2u7F1aDGqg",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l73",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 25, Response Worship Questions, 1 Cor 11:2ff, Short",
         "videoId": "G79apzq4Yvo",
@@ -5635,15 +6390,6 @@
         "videoId": "6zP7SdwCJk4",
         "duration": "7:03",
         "url": "https://www.youtube.com/watch?v=6zP7SdwCJk4",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l75",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 25, Response Worship Questions, 1 Cor 11:2ff",
-        "videoId": "BnG-rv7UFZs",
-        "duration": "1:18:10",
-        "url": "https://www.youtube.com/watch?v=BnG-rv7UFZs",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5666,15 +6412,6 @@
         "readings": []
       },
       {
-        "id": "c20-l78",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 26, Response to Worship Questions, 1 Cor 11 2-16 Pt2",
-        "videoId": "pztuTIsyIhM",
-        "duration": "1:17:45",
-        "url": "https://www.youtube.com/watch?v=pztuTIsyIhM",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l79",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 27, Response to Worship Questions, 1 Cor 11:17ff, Short",
         "videoId": "Ukvpf7gDYIU",
@@ -5689,15 +6426,6 @@
         "videoId": "4GHNlqmXefs",
         "duration": "5:58",
         "url": "https://www.youtube.com/watch?v=4GHNlqmXefs",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l81",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 27, Response to Worship Questions, 1 Cor 11:17ff",
-        "videoId": "irNnk-Hd_3g",
-        "duration": "1:02:32",
-        "url": "https://www.youtube.com/watch?v=irNnk-Hd_3g",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5720,29 +6448,11 @@
         "readings": []
       },
       {
-        "id": "c20-l84",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 28,  Response to Gifts Questions, 1 Cor 12-14",
-        "videoId": "swMt26Zdtuc",
-        "duration": "1:08:10",
-        "url": "https://www.youtube.com/watch?v=swMt26Zdtuc",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l85",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 29, Response to Gifts Questions, 1 Cor 12, Short",
         "videoId": "tm8Zysy5JqU",
         "duration": "0:44",
         "url": "https://www.youtube.com/watch?v=tm8Zysy5JqU",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l86",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 29, Response to Gifts Questions, 1 Cor 12",
-        "videoId": "-vJaoM6Wrx8",
-        "duration": "1:30:08",
-        "url": "https://www.youtube.com/watch?v=-vJaoM6Wrx8",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5774,15 +6484,6 @@
         "readings": []
       },
       {
-        "id": "c20-l90",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 30, Response to Gifts Questions, 1 Cor 13-14",
-        "videoId": "KrV9qaiz5h0",
-        "duration": "1:02:02",
-        "url": "https://www.youtube.com/watch?v=KrV9qaiz5h0",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l91",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 31, 1 Cor 12-14 Excursus on Gifts, Short",
         "videoId": "bNHyvKH0Pf8",
@@ -5797,15 +6498,6 @@
         "videoId": "1NzuFKVHY2E",
         "duration": "5:52",
         "url": "https://www.youtube.com/watch?v=1NzuFKVHY2E",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c20-l93",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 31, 1 Cor 12-14 Excursus on Gifts",
-        "videoId": "Ca1H7LqzWYI",
-        "duration": "1:31:35",
-        "url": "https://www.youtube.com/watch?v=Ca1H7LqzWYI",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -5828,15 +6520,6 @@
         "readings": []
       },
       {
-        "id": "c20-l96",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 32, 1 Cor 15, Resurrection",
-        "videoId": "zTeyPXf38BA",
-        "duration": "1:30:18",
-        "url": "https://www.youtube.com/watch?v=zTeyPXf38BA",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c20-l97",
         "title": "Dr. Gary T. Meadors, 1 Corinthians, Session 33, Jerusalem Collection, 1 Cor. 16, Short",
         "videoId": "y1BMoIkUcyg",
@@ -5853,19 +6536,8 @@
         "url": "https://www.youtube.com/watch?v=DGKtlP12lOw",
         "source": "YouTube playlist",
         "readings": []
-      },
-      {
-        "id": "c20-l99",
-        "title": "Dr. Gary T. Meadors, 1 Corinthians, Lecture 33, Jerusalem Collection, 1 Cor. 16",
-        "videoId": "nd5p8Bc_3kI",
-        "duration": "1:11:35",
-        "url": "https://www.youtube.com/watch?v=nd5p8Bc_3kI",
-        "source": "YouTube playlist",
-        "readings": []
       }
-    ],
-    "playlistId": "PLnNXzYjQerJhWRW01dN9wCllmi15dXkgb",
-    "indexedAt": "2026-09-24"
+    ]
   },
   {
     "id": "c21",
@@ -7027,29 +7699,557 @@
     "note": "This is normally a course working through a book using the methodology learned in Interpreting the OT.",
     "lessons": [
       {
-        "id": "c27-l1",
-        "title": "Dr. Bruce Waltke, Psalms, Session 1, Shorts Overview",
-        "videoId": "R1K8lU_E0Rg",
-        "duration": "0:59",
-        "url": "https://www.youtube.com/watch?v=R1K8lU_E0Rg",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l2",
-        "title": "Dr. Bruce Waltke, Psalms, Session 1, Overview Video NotebookLM",
-        "videoId": "HduWmoTF_DQ",
-        "duration": "8:16",
-        "url": "https://www.youtube.com/watch?v=HduWmoTF_DQ",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l3",
         "title": "Dr. Bruce Waltke, Psalms, Lecture 1, Introduction, Approaches to Psalms",
         "videoId": "vqRIYQbvyMY",
         "duration": "59:55",
         "url": "https://www.youtube.com/watch?v=vqRIYQbvyMY",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 1, Overview Video NotebookLM",
+            "url": "https://www.youtube.com/watch?v=HduWmoTF_DQ",
+            "legacyId": "c27-l2"
+          }
+        ]
+      },
+      {
+        "id": "c27-l6",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 2, Psalm 1--Wicket Gate to the Psalter",
+        "videoId": "mDyYMa2K6i8",
+        "duration": "53:51",
+        "url": "https://www.youtube.com/watch?v=mDyYMa2K6i8",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 2, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=oYyWZU6AZN0",
+            "legacyId": "c27-l4"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 2, Video Overview NotebookLM",
+            "url": "https://www.youtube.com/watch?v=91SO4kBBwd4",
+            "legacyId": "c27-l5"
+          }
+        ]
+      },
+      {
+        "id": "c27-l9",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 4, Historical Approach, Ps. 4",
+        "videoId": "n0bsHhtlvgo",
+        "duration": "1:09:51",
+        "url": "https://www.youtube.com/watch?v=n0bsHhtlvgo",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "dr. Bruce Waltke, Psalms, Session 4, Overview Video NotebookLM",
+            "url": "https://www.youtube.com/watch?v=K6R6phf35sI",
+            "legacyId": "c27-l8"
+          }
+        ]
+      },
+      {
+        "id": "c27-l12",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 5, Psalm 4, Hebrew Poetry, Psalm 23",
+        "videoId": "Hpqu5k91FGw",
+        "duration": "1:14:49",
+        "url": "https://www.youtube.com/watch?v=Hpqu5k91FGw",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 5, Overview Video NotebookLM",
+            "url": "https://www.youtube.com/watch?v=127N_4tgrk0",
+            "legacyId": "c27-l11"
+          }
+        ]
+      },
+      {
+        "id": "c27-l15",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 6, Form Critical Approach, Hymn Motifs",
+        "videoId": "9dJTq7BMQVc",
+        "duration": "1:18:53",
+        "url": "https://www.youtube.com/watch?v=9dJTq7BMQVc",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 6, Overview Video NotebookLM",
+            "url": "https://www.youtube.com/watch?v=9tCRo-yJOdM",
+            "legacyId": "c27-l14"
+          }
+        ]
+      },
+      {
+        "id": "c27-l18",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 7, Hymns--cause to praise, hymn theology",
+        "videoId": "kcwz7yiXaY4",
+        "duration": "1:16:05",
+        "url": "https://www.youtube.com/watch?v=kcwz7yiXaY4",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 7, Overview Video NotebookLM",
+            "url": "https://www.youtube.com/watch?v=3xACBRwRo1I",
+            "legacyId": "c27-l17"
+          }
+        ]
+      },
+      {
+        "id": "c27-l21",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 8, Hymns--Theology, hesed, creation, kingship, temple",
+        "videoId": "Cwcb4XOC83I",
+        "duration": "44:06",
+        "url": "https://www.youtube.com/watch?v=Cwcb4XOC83I",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 8, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=xT9N7TK2z8w",
+            "legacyId": "c27-l19"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 8, Video Overview NotebookLM",
+            "url": "https://www.youtube.com/watch?v=iDSKdaz3kBc",
+            "legacyId": "c27-l20"
+          }
+        ]
+      },
+      {
+        "id": "c27-l24",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 9, Pagan Imagery, Zion, Psalm 100",
+        "videoId": "Xl-WZ2Ijcq0",
+        "duration": "50:51",
+        "url": "https://www.youtube.com/watch?v=Xl-WZ2Ijcq0",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 9, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=OKXVpwI5VKE",
+            "legacyId": "c27-l22"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 9, Video Overview NotebookLM",
+            "url": "https://www.youtube.com/watch?v=bS955lVksjs",
+            "legacyId": "c27-l23"
+          }
+        ]
+      },
+      {
+        "id": "c27-l27",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 10, Psalm 8, a Psalm of Praise",
+        "videoId": "uksVRJe6R8U",
+        "duration": "1:28:30",
+        "url": "https://www.youtube.com/watch?v=uksVRJe6R8U",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 10, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=ALq_0TEuWqk",
+            "legacyId": "c27-l25"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 10, Video Overview NotebookLM",
+            "url": "https://www.youtube.com/watch?v=r20iM3koVYY",
+            "legacyId": "c27-l26"
+          }
+        ]
+      },
+      {
+        "id": "c27-l30",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 11, Petitionary Psalms--Psalm 92",
+        "videoId": "nQnvCVcZYO4",
+        "duration": "1:27:29",
+        "url": "https://www.youtube.com/watch?v=nQnvCVcZYO4",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 11, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=8RNwkRBXj88",
+            "legacyId": "c27-l28"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 11, Video Overview",
+            "url": "https://www.youtube.com/watch?v=L9R9P43YWWo",
+            "legacyId": "c27-l29"
+          }
+        ]
+      },
+      {
+        "id": "c27-l33",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 12, Petition Psalms, Lament, Enemy Motifs",
+        "videoId": "olw512KB-Is",
+        "duration": "1:20:20",
+        "url": "https://www.youtube.com/watch?v=olw512KB-Is",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 12, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=kWG0NilkQD8",
+            "legacyId": "c27-l31"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 12, Video Overview",
+            "url": "https://www.youtube.com/watch?v=4Wh3gmMgoyk",
+            "legacyId": "c27-l32"
+          }
+        ]
+      },
+      {
+        "id": "c27-l36",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 13, Imprecatory Psalms",
+        "videoId": "1Rdvt7fpqWM",
+        "duration": "1:17:39",
+        "url": "https://www.youtube.com/watch?v=1Rdvt7fpqWM",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 13, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=5XNYTMebTrY",
+            "legacyId": "c27-l34"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 13, Video Overview",
+            "url": "https://www.youtube.com/watch?v=xbyjXBaJTgU",
+            "legacyId": "c27-l35"
+          }
+        ]
+      },
+      {
+        "id": "c27-l39",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 14, Petition Psalms--Psalm 3",
+        "videoId": "59wgItpzKmo",
+        "duration": "1:05:53",
+        "url": "https://www.youtube.com/watch?v=59wgItpzKmo",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 14, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=xxt__w1OuBE",
+            "legacyId": "c27-l37"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 14, Video Overview",
+            "url": "https://www.youtube.com/watch?v=SitdguJF_Ow",
+            "legacyId": "c27-l38"
+          }
+        ]
+      },
+      {
+        "id": "c27-l42",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 15, Petition Psalms--Psalm 51",
+        "videoId": "c7UEDDqX_84",
+        "duration": "1:03:11",
+        "url": "https://www.youtube.com/watch?v=c7UEDDqX_84",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 15, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=9c4QaqC1Xh0",
+            "legacyId": "c27-l40"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 15, Video Overview",
+            "url": "https://www.youtube.com/watch?v=EEl5jeAu5n0",
+            "legacyId": "c27-l41"
+          }
+        ]
+      },
+      {
+        "id": "c27-l45",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 16, Petition Psalms, Lament, Psalm 22",
+        "videoId": "3pVNaTbVYxI",
+        "duration": "44:19",
+        "url": "https://www.youtube.com/watch?v=3pVNaTbVYxI",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 16, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=lUXTQRyS29Q",
+            "legacyId": "c27-l43"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 16, Video Overview",
+            "url": "https://www.youtube.com/watch?v=9QdChXGESR0",
+            "legacyId": "c27-l44"
+          }
+        ]
+      },
+      {
+        "id": "c27-l48",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 17, Communal Lament, Psalm 44",
+        "videoId": "HU3IC_Coo4E",
+        "duration": "1:10:43",
+        "url": "https://www.youtube.com/watch?v=HU3IC_Coo4E",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms ,Session 17, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=0-3LVC5ODeo",
+            "legacyId": "c27-l46"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 17, Video Overview",
+            "url": "https://www.youtube.com/watch?v=9ALkVv1XBr0",
+            "legacyId": "c27-l47"
+          }
+        ]
+      },
+      {
+        "id": "c27-l51",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 18, Psalms of Trust, Psalm 139, Psalm 91",
+        "videoId": "vFvfcP0T434",
+        "duration": "1:08:45",
+        "url": "https://www.youtube.com/watch?v=vFvfcP0T434",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 18, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=kdW8IirWKeg",
+            "legacyId": "c27-l49"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 18, Video Overview",
+            "url": "https://www.youtube.com/watch?v=Ke602JG0U5U",
+            "legacyId": "c27-l50"
+          }
+        ]
+      },
+      {
+        "id": "c27-l54",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 19, Liturgical Approach, Cultus/Ritual",
+        "videoId": "f06I9fg3D1g",
+        "duration": "1:00:16",
+        "url": "https://www.youtube.com/watch?v=f06I9fg3D1g",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 19, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=VLX-SDhurxE",
+            "legacyId": "c27-l52"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 19, Video Overview",
+            "url": "https://www.youtube.com/watch?v=u_V2uDf3iV8",
+            "legacyId": "c27-l53"
+          }
+        ]
+      },
+      {
+        "id": "c27-l57",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 20, Sacred sites, Sacred seasons and personnel",
+        "videoId": "rdwc4NeTVDk",
+        "duration": "52:04",
+        "url": "https://www.youtube.com/watch?v=rdwc4NeTVDk",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 20, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=ImGNJIfYdk4",
+            "legacyId": "c27-l55"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 20, Video Overview",
+            "url": "https://www.youtube.com/watch?v=XWh0NucLKhQ",
+            "legacyId": "c27-l56"
+          }
+        ]
+      },
+      {
+        "id": "c27-l60",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 21, Liturgical Approach, Coronation Psalms, Psalm 2",
+        "videoId": "c3xi6rvuNdo",
+        "duration": "1:09:32",
+        "url": "https://www.youtube.com/watch?v=c3xi6rvuNdo",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 21, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=zfZ4znnJgUk",
+            "legacyId": "c27-l58"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 21, Video Overview",
+            "url": "https://www.youtube.com/watch?v=lw7FWNrINtg",
+            "legacyId": "c27-l59"
+          }
+        ]
+      },
+      {
+        "id": "c27-l63",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 22, Liturgical Approach, Psalm 110",
+        "videoId": "NHqaays4CgM",
+        "duration": "1:03:59",
+        "url": "https://www.youtube.com/watch?v=NHqaays4CgM",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 22, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=Rpy4S1in2pQ",
+            "legacyId": "c27-l61"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms. Session 22 Video Overview",
+            "url": "https://www.youtube.com/watch?v=apZ9qSUZbmc",
+            "legacyId": "c27-l62"
+          }
+        ]
+      },
+      {
+        "id": "c27-l66",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 23, Rhetorical Approach, Poetic Techniques",
+        "videoId": "_rVf-pdyppc",
+        "duration": "1:08:38",
+        "url": "https://www.youtube.com/watch?v=_rVf-pdyppc",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 23, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=cd043_DIS_0",
+            "legacyId": "c27-l64"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 23, Video Overview",
+            "url": "https://www.youtube.com/watch?v=jRzYGzTONFM",
+            "legacyId": "c27-l65"
+          }
+        ]
+      },
+      {
+        "id": "c27-l69",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 24, Messianic Psalms, Psalm 16, Part 1",
+        "videoId": "UBT5ULRpb94",
+        "duration": "46:49",
+        "url": "https://www.youtube.com/watch?v=UBT5ULRpb94",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 24, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=EOOQ1Ruw-kk",
+            "legacyId": "c27-l67"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 24, Video Overview",
+            "url": "https://www.youtube.com/watch?v=dtKJaZuY3LI",
+            "legacyId": "c27-l68"
+          }
+        ]
+      },
+      {
+        "id": "c27-l72",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 25, Messianic Psalms, Psalm 16, Part 2",
+        "videoId": "_7O0mKsFUfw",
+        "duration": "54:06",
+        "url": "https://www.youtube.com/watch?v=_7O0mKsFUfw",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 25, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=Fh04GvIHeDE",
+            "legacyId": "c27-l70"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 25, Video Overview",
+            "url": "https://www.youtube.com/watch?v=Fepf_cJXC7M",
+            "legacyId": "c27-l71"
+          }
+        ]
+      },
+      {
+        "id": "c27-l75",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 26, Wisdom Psalms Genre, Ps. 19",
+        "videoId": "nRDyoU7ZAJ8",
+        "duration": "48:48",
+        "url": "https://www.youtube.com/watch?v=nRDyoU7ZAJ8",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 26, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=dgzaIW0NpBo",
+            "legacyId": "c27-l73"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 26, Video Overview",
+            "url": "https://www.youtube.com/watch?v=jEPhwVXOOCw",
+            "legacyId": "c27-l74"
+          }
+        ]
+      },
+      {
+        "id": "c27-l78",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 27, Wisdom Psalms Genre, Psalm 19",
+        "videoId": "gd1gx5gn47o",
+        "duration": "29:04",
+        "url": "https://www.youtube.com/watch?v=gd1gx5gn47o",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 27, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=0f1C1h79GUU",
+            "legacyId": "c27-l76"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 27, Video Overview",
+            "url": "https://www.youtube.com/watch?v=JcXpEUQF3ik",
+            "legacyId": "c27-l77"
+          }
+        ]
+      },
+      {
+        "id": "c27-l81",
+        "title": "Dr. Bruce Waltke, Psalms, Lecture 28, Editing of the Psalter",
+        "videoId": "VSQtnl3QYjk",
+        "duration": "1:20:04",
+        "url": "https://www.youtube.com/watch?v=VSQtnl3QYjk",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 28, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=LYfVge2mZTk",
+            "legacyId": "c27-l79"
+          },
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 28, Video Overview",
+            "url": "https://www.youtube.com/watch?v=A-cy_zFr7U8",
+            "legacyId": "c27-l80"
+          }
+        ]
+      }
+    ],
+    "playlistId": "PLnNXzYjQerJjLNpD_rBJhJTLqTl1QNzoI",
+    "indexedAt": "2026-09-24",
+    "supplementalVideos": [
+      {
+        "id": "c27-l1",
+        "title": "Dr. Bruce Waltke, Psalms, Session 1, Shorts Overview",
+        "videoId": "R1K8lU_E0Rg",
+        "duration": "0:59",
+        "url": "https://www.youtube.com/watch?v=R1K8lU_E0Rg",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7072,38 +8272,11 @@
         "readings": []
       },
       {
-        "id": "c27-l6",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 2, Psalm 1--Wicket Gate to the Psalter",
-        "videoId": "mDyYMa2K6i8",
-        "duration": "53:51",
-        "url": "https://www.youtube.com/watch?v=mDyYMa2K6i8",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l7",
         "title": "Dr. Bruce Waltke, Psalms, Session 4, Shorts Overview",
         "videoId": "Z34VE0GsgFM",
         "duration": "0:59",
         "url": "https://www.youtube.com/watch?v=Z34VE0GsgFM",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l8",
-        "title": "dr. Bruce Waltke, Psalms, Session 4, Overview Video NotebookLM",
-        "videoId": "K6R6phf35sI",
-        "duration": "6:26",
-        "url": "https://www.youtube.com/watch?v=K6R6phf35sI",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l9",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 4, Historical Approach, Ps. 4",
-        "videoId": "n0bsHhtlvgo",
-        "duration": "1:09:51",
-        "url": "https://www.youtube.com/watch?v=n0bsHhtlvgo",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7117,24 +8290,6 @@
         "readings": []
       },
       {
-        "id": "c27-l11",
-        "title": "Dr. Bruce Waltke, Psalms, Session 5, Overview Video NotebookLM",
-        "videoId": "127N_4tgrk0",
-        "duration": "5:30",
-        "url": "https://www.youtube.com/watch?v=127N_4tgrk0",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l12",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 5, Psalm 4, Hebrew Poetry, Psalm 23",
-        "videoId": "Hpqu5k91FGw",
-        "duration": "1:14:49",
-        "url": "https://www.youtube.com/watch?v=Hpqu5k91FGw",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l13",
         "title": "Dr. Bruce Waltke, Psalms, Session 6, Shorts Overview",
         "videoId": "s0TdjMo0GS8",
@@ -7144,47 +8299,11 @@
         "readings": []
       },
       {
-        "id": "c27-l14",
-        "title": "Dr. Bruce Waltke, Psalms, Session 6, Overview Video NotebookLM",
-        "videoId": "9tCRo-yJOdM",
-        "duration": "5:44",
-        "url": "https://www.youtube.com/watch?v=9tCRo-yJOdM",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l15",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 6, Form Critical Approach, Hymn Motifs",
-        "videoId": "9dJTq7BMQVc",
-        "duration": "1:18:53",
-        "url": "https://www.youtube.com/watch?v=9dJTq7BMQVc",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l16",
         "title": "Dr. Bruce Waltke, Psalms, Session 7, Shorts Overview",
         "videoId": "lEyFrenL4ns",
         "duration": "0:51",
         "url": "https://www.youtube.com/watch?v=lEyFrenL4ns",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l17",
-        "title": "Dr. Bruce Waltke, Psalms, Session 7, Overview Video NotebookLM",
-        "videoId": "3xACBRwRo1I",
-        "duration": "7:29",
-        "url": "https://www.youtube.com/watch?v=3xACBRwRo1I",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l18",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 7, Hymns--cause to praise, hymn theology",
-        "videoId": "kcwz7yiXaY4",
-        "duration": "1:16:05",
-        "url": "https://www.youtube.com/watch?v=kcwz7yiXaY4",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7207,15 +8326,6 @@
         "readings": []
       },
       {
-        "id": "c27-l21",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 8, Hymns--Theology, hesed, creation, kingship, temple",
-        "videoId": "Cwcb4XOC83I",
-        "duration": "44:06",
-        "url": "https://www.youtube.com/watch?v=Cwcb4XOC83I",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l22",
         "title": "Dr. Bruce Waltke, Psalms, Session 9, Shorts Overview",
         "videoId": "OKXVpwI5VKE",
@@ -7230,15 +8340,6 @@
         "videoId": "bS955lVksjs",
         "duration": "6:11",
         "url": "https://www.youtube.com/watch?v=bS955lVksjs",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l24",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 9, Pagan Imagery, Zion, Psalm 100",
-        "videoId": "Xl-WZ2Ijcq0",
-        "duration": "50:51",
-        "url": "https://www.youtube.com/watch?v=Xl-WZ2Ijcq0",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7261,15 +8362,6 @@
         "readings": []
       },
       {
-        "id": "c27-l27",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 10, Psalm 8, a Psalm of Praise",
-        "videoId": "uksVRJe6R8U",
-        "duration": "1:28:30",
-        "url": "https://www.youtube.com/watch?v=uksVRJe6R8U",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l28",
         "title": "Dr. Bruce Waltke, Psalms, Session 11, Shorts Overview",
         "videoId": "8RNwkRBXj88",
@@ -7284,15 +8376,6 @@
         "videoId": "L9R9P43YWWo",
         "duration": "6:34",
         "url": "https://www.youtube.com/watch?v=L9R9P43YWWo",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l30",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 11, Petitionary Psalms--Psalm 92",
-        "videoId": "nQnvCVcZYO4",
-        "duration": "1:27:29",
-        "url": "https://www.youtube.com/watch?v=nQnvCVcZYO4",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7315,15 +8398,6 @@
         "readings": []
       },
       {
-        "id": "c27-l33",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 12, Petition Psalms, Lament, Enemy Motifs",
-        "videoId": "olw512KB-Is",
-        "duration": "1:20:20",
-        "url": "https://www.youtube.com/watch?v=olw512KB-Is",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l34",
         "title": "Dr. Bruce Waltke, Psalms, Session 13, Shorts Overview",
         "videoId": "5XNYTMebTrY",
@@ -7338,15 +8412,6 @@
         "videoId": "xbyjXBaJTgU",
         "duration": "6:06",
         "url": "https://www.youtube.com/watch?v=xbyjXBaJTgU",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l36",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 13, Imprecatory Psalms",
-        "videoId": "1Rdvt7fpqWM",
-        "duration": "1:17:39",
-        "url": "https://www.youtube.com/watch?v=1Rdvt7fpqWM",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7369,15 +8434,6 @@
         "readings": []
       },
       {
-        "id": "c27-l39",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 14, Petition Psalms--Psalm 3",
-        "videoId": "59wgItpzKmo",
-        "duration": "1:05:53",
-        "url": "https://www.youtube.com/watch?v=59wgItpzKmo",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l40",
         "title": "Dr. Bruce Waltke, Psalms, Session 15, Shorts Overview",
         "videoId": "9c4QaqC1Xh0",
@@ -7392,15 +8448,6 @@
         "videoId": "EEl5jeAu5n0",
         "duration": "7:42",
         "url": "https://www.youtube.com/watch?v=EEl5jeAu5n0",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l42",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 15, Petition Psalms--Psalm 51",
-        "videoId": "c7UEDDqX_84",
-        "duration": "1:03:11",
-        "url": "https://www.youtube.com/watch?v=c7UEDDqX_84",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7423,15 +8470,6 @@
         "readings": []
       },
       {
-        "id": "c27-l45",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 16, Petition Psalms, Lament, Psalm 22",
-        "videoId": "3pVNaTbVYxI",
-        "duration": "44:19",
-        "url": "https://www.youtube.com/watch?v=3pVNaTbVYxI",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l46",
         "title": "Dr. Bruce Waltke, Psalms ,Session 17, Shorts Overview",
         "videoId": "0-3LVC5ODeo",
@@ -7446,15 +8484,6 @@
         "videoId": "9ALkVv1XBr0",
         "duration": "6:20",
         "url": "https://www.youtube.com/watch?v=9ALkVv1XBr0",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l48",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 17, Communal Lament, Psalm 44",
-        "videoId": "HU3IC_Coo4E",
-        "duration": "1:10:43",
-        "url": "https://www.youtube.com/watch?v=HU3IC_Coo4E",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7477,15 +8506,6 @@
         "readings": []
       },
       {
-        "id": "c27-l51",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 18, Psalms of Trust, Psalm 139, Psalm 91",
-        "videoId": "vFvfcP0T434",
-        "duration": "1:08:45",
-        "url": "https://www.youtube.com/watch?v=vFvfcP0T434",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l52",
         "title": "Dr. Bruce Waltke, Psalms, Session 19, Shorts Overview",
         "videoId": "VLX-SDhurxE",
@@ -7500,15 +8520,6 @@
         "videoId": "u_V2uDf3iV8",
         "duration": "5:35",
         "url": "https://www.youtube.com/watch?v=u_V2uDf3iV8",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l54",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 19, Liturgical Approach, Cultus/Ritual",
-        "videoId": "f06I9fg3D1g",
-        "duration": "1:00:16",
-        "url": "https://www.youtube.com/watch?v=f06I9fg3D1g",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7531,15 +8542,6 @@
         "readings": []
       },
       {
-        "id": "c27-l57",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 20, Sacred sites, Sacred seasons and personnel",
-        "videoId": "rdwc4NeTVDk",
-        "duration": "52:04",
-        "url": "https://www.youtube.com/watch?v=rdwc4NeTVDk",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l58",
         "title": "Dr. Bruce Waltke, Psalms, Session 21, Shorts Overview",
         "videoId": "zfZ4znnJgUk",
@@ -7554,15 +8556,6 @@
         "videoId": "lw7FWNrINtg",
         "duration": "6:55",
         "url": "https://www.youtube.com/watch?v=lw7FWNrINtg",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l60",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 21, Liturgical Approach, Coronation Psalms, Psalm 2",
-        "videoId": "c3xi6rvuNdo",
-        "duration": "1:09:32",
-        "url": "https://www.youtube.com/watch?v=c3xi6rvuNdo",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7585,15 +8578,6 @@
         "readings": []
       },
       {
-        "id": "c27-l63",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 22, Liturgical Approach, Psalm 110",
-        "videoId": "NHqaays4CgM",
-        "duration": "1:03:59",
-        "url": "https://www.youtube.com/watch?v=NHqaays4CgM",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l64",
         "title": "Dr. Bruce Waltke, Psalms, Session 23, Shorts Overview",
         "videoId": "cd043_DIS_0",
@@ -7608,15 +8592,6 @@
         "videoId": "jRzYGzTONFM",
         "duration": "6:46",
         "url": "https://www.youtube.com/watch?v=jRzYGzTONFM",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l66",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 23, Rhetorical Approach, Poetic Techniques",
-        "videoId": "_rVf-pdyppc",
-        "duration": "1:08:38",
-        "url": "https://www.youtube.com/watch?v=_rVf-pdyppc",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7639,15 +8614,6 @@
         "readings": []
       },
       {
-        "id": "c27-l69",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 24, Messianic Psalms, Psalm 16, Part 1",
-        "videoId": "UBT5ULRpb94",
-        "duration": "46:49",
-        "url": "https://www.youtube.com/watch?v=UBT5ULRpb94",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l70",
         "title": "Dr. Bruce Waltke, Psalms, Session 25, Shorts Overview",
         "videoId": "Fh04GvIHeDE",
@@ -7662,15 +8628,6 @@
         "videoId": "Fepf_cJXC7M",
         "duration": "7:25",
         "url": "https://www.youtube.com/watch?v=Fepf_cJXC7M",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l72",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 25, Messianic Psalms, Psalm 16, Part 2",
-        "videoId": "_7O0mKsFUfw",
-        "duration": "54:06",
-        "url": "https://www.youtube.com/watch?v=_7O0mKsFUfw",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7693,15 +8650,6 @@
         "readings": []
       },
       {
-        "id": "c27-l75",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 26, Wisdom Psalms Genre, Ps. 19",
-        "videoId": "nRDyoU7ZAJ8",
-        "duration": "48:48",
-        "url": "https://www.youtube.com/watch?v=nRDyoU7ZAJ8",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c27-l76",
         "title": "Dr. Bruce Waltke, Psalms, Session 27, Shorts Overview",
         "videoId": "0f1C1h79GUU",
@@ -7716,15 +8664,6 @@
         "videoId": "JcXpEUQF3ik",
         "duration": "7:29",
         "url": "https://www.youtube.com/watch?v=JcXpEUQF3ik",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c27-l78",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 27, Wisdom Psalms Genre, Psalm 19",
-        "videoId": "gd1gx5gn47o",
-        "duration": "29:04",
-        "url": "https://www.youtube.com/watch?v=gd1gx5gn47o",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7747,17 +8686,86 @@
         "readings": []
       },
       {
-        "id": "c27-l81",
-        "title": "Dr. Bruce Waltke, Psalms, Lecture 28, Editing of the Psalter",
-        "videoId": "VSQtnl3QYjk",
-        "duration": "1:20:04",
-        "url": "https://www.youtube.com/watch?v=VSQtnl3QYjk",
+        "id": "c27-l2",
+        "title": "Dr. Bruce Waltke, Psalms, Session 1, Overview Video NotebookLM",
+        "videoId": "HduWmoTF_DQ",
+        "duration": "8:16",
+        "url": "https://www.youtube.com/watch?v=HduWmoTF_DQ",
         "source": "YouTube playlist",
-        "readings": []
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 1, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=R1K8lU_E0Rg",
+            "legacyId": "c27-l1"
+          }
+        ]
+      },
+      {
+        "id": "c27-l8",
+        "title": "dr. Bruce Waltke, Psalms, Session 4, Overview Video NotebookLM",
+        "videoId": "K6R6phf35sI",
+        "duration": "6:26",
+        "url": "https://www.youtube.com/watch?v=K6R6phf35sI",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 4, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=Z34VE0GsgFM",
+            "legacyId": "c27-l7"
+          }
+        ]
+      },
+      {
+        "id": "c27-l11",
+        "title": "Dr. Bruce Waltke, Psalms, Session 5, Overview Video NotebookLM",
+        "videoId": "127N_4tgrk0",
+        "duration": "5:30",
+        "url": "https://www.youtube.com/watch?v=127N_4tgrk0",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 5, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=Rk_TpQJEp2A",
+            "legacyId": "c27-l10"
+          }
+        ]
+      },
+      {
+        "id": "c27-l14",
+        "title": "Dr. Bruce Waltke, Psalms, Session 6, Overview Video NotebookLM",
+        "videoId": "9tCRo-yJOdM",
+        "duration": "5:44",
+        "url": "https://www.youtube.com/watch?v=9tCRo-yJOdM",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 6, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=s0TdjMo0GS8",
+            "legacyId": "c27-l13"
+          }
+        ]
+      },
+      {
+        "id": "c27-l17",
+        "title": "Dr. Bruce Waltke, Psalms, Session 7, Overview Video NotebookLM",
+        "videoId": "3xACBRwRo1I",
+        "duration": "7:29",
+        "url": "https://www.youtube.com/watch?v=3xACBRwRo1I",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Bruce Waltke, Psalms, Session 7, Shorts Overview",
+            "url": "https://www.youtube.com/watch?v=lEyFrenL4ns",
+            "legacyId": "c27-l16"
+          }
+        ]
       }
-    ],
-    "playlistId": "PLnNXzYjQerJjLNpD_rBJhJTLqTl1QNzoI",
-    "indexedAt": "2026-09-24"
+    ]
   },
   {
     "id": "c28",
@@ -7771,20 +8779,481 @@
     "note": "",
     "lessons": [
       {
-        "id": "c28-l1",
-        "title": "Dr. John Walton, Job, Session 1, Interpretation problems and false ideas about Job, Video Overview",
-        "videoId": "AydkYkkcPq4",
-        "duration": "5:26",
-        "url": "https://www.youtube.com/watch?v=AydkYkkcPq4",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l2",
         "title": "Dr. John Walton, Job, Lecture 1, Interpretation problems and false ideas about Job",
         "videoId": "TGZVjOuxPF4",
         "duration": "21:28",
         "url": "https://www.youtube.com/watch?v=TGZVjOuxPF4",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 1, Interpretation problems and false ideas about Job, Video Overview",
+            "url": "https://www.youtube.com/watch?v=AydkYkkcPq4",
+            "legacyId": "c28-l1"
+          }
+        ]
+      },
+      {
+        "id": "c28-l4",
+        "title": "Dr. John Walton, Job, Lecture 2, Date and authorship",
+        "videoId": "0c_Ns162910",
+        "duration": "15:00",
+        "url": "https://www.youtube.com/watch?v=0c_Ns162910",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 2, Date and authorship, Video Overview",
+            "url": "https://www.youtube.com/watch?v=Xh_IUqK_jT8",
+            "legacyId": "c28-l3"
+          }
+        ]
+      },
+      {
+        "id": "c28-l6",
+        "title": "Dr. John Walton, Job, Lecture 3, Job as a book with Authority and Inspiration",
+        "videoId": "Qi8WuUa6nF0",
+        "duration": "16:38",
+        "url": "https://www.youtube.com/watch?v=Qi8WuUa6nF0",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 3, Job as a book with Authority and Inspiration, Video Overview",
+            "url": "https://www.youtube.com/watch?v=jLkc6j9QRg8",
+            "legacyId": "c28-l5"
+          }
+        ]
+      },
+      {
+        "id": "c28-l8",
+        "title": "Dr. John Walton, Job, Lecture 4, Genre and Structure (nature of Wisdom)",
+        "videoId": "nmnzEiCZhB0",
+        "duration": "26:36",
+        "url": "https://www.youtube.com/watch?v=nmnzEiCZhB0",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 4, Genre and Structure (nature of Wisdom), Video Overview",
+            "url": "https://www.youtube.com/watch?v=Uy0DnJx3MQ0",
+            "legacyId": "c28-l7"
+          }
+        ]
+      },
+      {
+        "id": "c28-l10",
+        "title": "Dr. John Walton, Job, Lecture 5, Job and the Ancient Near East",
+        "videoId": "jLIm6s6rWS4",
+        "duration": "28:49",
+        "url": "https://www.youtube.com/watch?v=jLIm6s6rWS4",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 5, Job and the Ancient Near East, Video Overview",
+            "url": "https://www.youtube.com/watch?v=nShmeOUKYZQ",
+            "legacyId": "c28-l9"
+          }
+        ]
+      },
+      {
+        "id": "c28-l12",
+        "title": "Dr. John Walton, Job, Lecture 6, Purpose of the Book of Job",
+        "videoId": "IsFcj-aHOVw",
+        "duration": "11:16",
+        "url": "https://www.youtube.com/watch?v=IsFcj-aHOVw",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 6, Purpose of the Book of Job, Video Overview",
+            "url": "https://www.youtube.com/watch?v=s0SnqQz3zdc",
+            "legacyId": "c28-l11"
+          }
+        ]
+      },
+      {
+        "id": "c28-l14",
+        "title": "Dr. John Walton, Job, Lecture 7, Theological Foundation: Retribution Principle, Triangle",
+        "videoId": "H3wd4oOO9CA",
+        "duration": "30:12",
+        "url": "https://www.youtube.com/watch?v=H3wd4oOO9CA",
+        "source": "YouTube playlist",
+        "readings": []
+      },
+      {
+        "id": "c28-l16",
+        "title": "Dr. John Walton, Job, Lecture 8, Scene on earth",
+        "videoId": "CXhoauE6dE8",
+        "duration": "15:35",
+        "url": "https://www.youtube.com/watch?v=CXhoauE6dE8",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 8, Scene on earth, Video Overview",
+            "url": "https://www.youtube.com/watch?v=kUIQlqTJ5E0",
+            "legacyId": "c28-l15"
+          }
+        ]
+      },
+      {
+        "id": "c28-l18",
+        "title": "Dr. John Walton, Job, Lecture 9, Scene in heaven, Part 1",
+        "videoId": "QHCjXsujf48",
+        "duration": "12:47",
+        "url": "https://www.youtube.com/watch?v=QHCjXsujf48",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 9, Scene in heaven, Part 1,  Video Overview",
+            "url": "https://www.youtube.com/watch?v=NTfkvm6tEuo",
+            "legacyId": "c28-l17"
+          }
+        ]
+      },
+      {
+        "id": "c28-l20",
+        "title": "Dr. John Walton, Job, Lecture 10, Sons of God and the Challenger",
+        "videoId": "WTTREaugwjM",
+        "duration": "10:33",
+        "url": "https://www.youtube.com/watch?v=WTTREaugwjM",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 10, Sons of God and the Challenger, Video Overview",
+            "url": "https://www.youtube.com/watch?v=y1eByLyvGtY",
+            "legacyId": "c28-l19"
+          }
+        ]
+      },
+      {
+        "id": "c28-l22",
+        "title": "Dr. John Walton, Job, Lecture 11, Scene in heaven part 2",
+        "videoId": "d5aw57QZCOY",
+        "duration": "9:36",
+        "url": "https://www.youtube.com/watch?v=d5aw57QZCOY",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 11, Scene in heaven part 2, Video Overview",
+            "url": "https://www.youtube.com/watch?v=h4DHLV9g5uk",
+            "legacyId": "c28-l21"
+          }
+        ]
+      },
+      {
+        "id": "c28-l24",
+        "title": "Dr. John Walton, Job, Lecture 12, Role of wife and friends",
+        "videoId": "kUBEZK2YTY4",
+        "duration": "14:55",
+        "url": "https://www.youtube.com/watch?v=kUBEZK2YTY4",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 12, Role of wife and friends, Video Overview",
+            "url": "https://www.youtube.com/watch?v=hg8EEYNlW4M",
+            "legacyId": "c28-l23"
+          }
+        ]
+      },
+      {
+        "id": "c28-l26",
+        "title": "Dr. John Walton, Job, Lecture 13, Dialogues series 1 (Job 3-14)",
+        "videoId": "pRLMCV6LTPQ",
+        "duration": "29:10",
+        "url": "https://www.youtube.com/watch?v=pRLMCV6LTPQ",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 13, Dialogues series 1 (Job 3-14), Video Overview",
+            "url": "https://www.youtube.com/watch?v=gSmpyhBdgYo",
+            "legacyId": "c28-l25"
+          }
+        ]
+      },
+      {
+        "id": "c28-l28",
+        "title": "Dr. John Walton, Job, Lecture 14, Dialogue series 2 (Job 15-21)",
+        "videoId": "MvaJZZE2R-o",
+        "duration": "7:55",
+        "url": "https://www.youtube.com/watch?v=MvaJZZE2R-o",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 14, Dialogue series 2 (Job 15-21), Video Overview",
+            "url": "https://www.youtube.com/watch?v=1g-_phpPnFs",
+            "legacyId": "c28-l27"
+          }
+        ]
+      },
+      {
+        "id": "c28-l30",
+        "title": "Dr. John Walton, Job, Lecture 15, Job 19:25 - I know my Redeemer lives",
+        "videoId": "EwPqWfi9ne0",
+        "duration": "15:16",
+        "url": "https://www.youtube.com/watch?v=EwPqWfi9ne0",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 15, Job 19:25 - I know my Redeemer lives, Video Overview",
+            "url": "https://www.youtube.com/watch?v=H4CdcQiFJCg",
+            "legacyId": "c28-l29"
+          }
+        ]
+      },
+      {
+        "id": "c28-l32",
+        "title": "Dr. John Walton, Job, Lecture 16, Dialogue series 3 (Job 22-27)",
+        "videoId": "cZpf9s4NaQQ",
+        "duration": "23:09",
+        "url": "https://www.youtube.com/watch?v=cZpf9s4NaQQ",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 16, Dialogue series 3 (Job 22-27), Video Overview",
+            "url": "https://www.youtube.com/watch?v=KlImrsevJF0",
+            "legacyId": "c28-l31"
+          }
+        ]
+      },
+      {
+        "id": "c28-l34",
+        "title": "Dr. John Walton, Job, Lecture 17, Conclusion of dialogue series and Wisdom Interlude (Job 28)",
+        "videoId": "NyM3h1Hcncs",
+        "duration": "17:04",
+        "url": "https://www.youtube.com/watch?v=NyM3h1Hcncs",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Ses 17, Conclusion of dialogue series & Wisdom Interlude-Job 28, Video Overvie",
+            "url": "https://www.youtube.com/watch?v=MNIi4yDo85I",
+            "legacyId": "c28-l33"
+          }
+        ]
+      },
+      {
+        "id": "c28-l36",
+        "title": "Dr. John Walton, Job, Lecture 18, Job's discourse (Job 29-31)",
+        "videoId": "cGR2XMgTl_o",
+        "duration": "12:56",
+        "url": "https://www.youtube.com/watch?v=cGR2XMgTl_o",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 18, Job's discourse (Job 29-31), Video Overview",
+            "url": "https://www.youtube.com/watch?v=A4cYesI5obo",
+            "legacyId": "c28-l35"
+          }
+        ]
+      },
+      {
+        "id": "c28-l38",
+        "title": "Dr. John Walton, Job, Lecture 19, \"Covenant with his eyes\" (Job 31:1)",
+        "videoId": "yV2ni1N7dcU",
+        "duration": "10:16",
+        "url": "https://www.youtube.com/watch?v=yV2ni1N7dcU",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 19, \"Covenant with his eyes\" (Job 31:1), Video Overview",
+            "url": "https://www.youtube.com/watch?v=Tn9JJG460hs",
+            "legacyId": "c28-l37"
+          }
+        ]
+      },
+      {
+        "id": "c28-l40",
+        "title": "Dr. John Walton, Job, Lecture 20, Elihu's discourse (Job 32-37)",
+        "videoId": "NX9f9EgioPw",
+        "duration": "10:28",
+        "url": "https://www.youtube.com/watch?v=NX9f9EgioPw",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 20, Elihu's discourse (Job 32-37), Video Overview",
+            "url": "https://www.youtube.com/watch?v=XWGaozqAV7Q",
+            "legacyId": "c28-l39"
+          }
+        ]
+      },
+      {
+        "id": "c28-l42",
+        "title": "Dr. John Walton, Job, Lecture 21, God speech 1 and Job's response (Job 38-40:5)",
+        "videoId": "hXt1wJ9Sudo",
+        "duration": "13:19",
+        "url": "https://www.youtube.com/watch?v=hXt1wJ9Sudo",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 21, God speech 1 and Job's response (Job 38-40:5), Video Overview",
+            "url": "https://www.youtube.com/watch?v=2x7yOS4-nT4",
+            "legacyId": "c28-l41"
+          }
+        ]
+      },
+      {
+        "id": "c28-l44",
+        "title": "Dr. John Walton, Job, Lecture 22, God speech 2 (Behemoth and Leviathan) (Job 40:6-41:34)",
+        "videoId": "08x908BBE2E",
+        "duration": "32:03",
+        "url": "https://www.youtube.com/watch?v=08x908BBE2E",
+        "source": "YouTube playlist",
+        "readings": []
+      },
+      {
+        "id": "c28-l46",
+        "title": "Dr. John Walton, Job, Lecture 23, Epilogue (Job 42)",
+        "videoId": "jgfiqAQyiY0",
+        "duration": "14:56",
+        "url": "https://www.youtube.com/watch?v=jgfiqAQyiY0",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 23, Epilogue (Job 42), Video Overview",
+            "url": "https://www.youtube.com/watch?v=q3gFVUvV_4Y",
+            "legacyId": "c28-l45"
+          }
+        ]
+      },
+      {
+        "id": "c28-l48",
+        "title": "Dr. John Walton, Job, Lecture 24, Job in the Book of Job",
+        "videoId": "IJZwtyQ_f58",
+        "duration": "11:36",
+        "url": "https://www.youtube.com/watch?v=IJZwtyQ_f58",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 24, Job in the Book of Job, Video Overview",
+            "url": "https://www.youtube.com/watch?v=BdSsWuOdY9U",
+            "legacyId": "c28-l47"
+          }
+        ]
+      },
+      {
+        "id": "c28-l50",
+        "title": "Dr. John Walton, Job, Lecture 25, The world in the Book of Job: Order, non-order and disorder",
+        "videoId": "ewOLI3A63Rc",
+        "duration": "11:29",
+        "url": "https://www.youtube.com/watch?v=ewOLI3A63Rc",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Ses 25, The world in the Book of Job-Order, non-order & disorder, Video Overvi",
+            "url": "https://www.youtube.com/watch?v=I_eQ5XdFfK4",
+            "legacyId": "c28-l49"
+          }
+        ]
+      },
+      {
+        "id": "c28-l52",
+        "title": "Dr. John Walton, Job, Lecture 26, God in the Book of Job",
+        "videoId": "YYL0MPMfEh8",
+        "duration": "16:38",
+        "url": "https://www.youtube.com/watch?v=YYL0MPMfEh8",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 26, God in the Book of Job, Video Overview",
+            "url": "https://www.youtube.com/watch?v=LYd9FqIhVIQ",
+            "legacyId": "c28-l51"
+          }
+        ]
+      },
+      {
+        "id": "c28-l54",
+        "title": "Dr. John Walton, Job,  Lecture 27, Theology of the Book of Job",
+        "videoId": "NCuycx6cWuo",
+        "duration": "12:13",
+        "url": "https://www.youtube.com/watch?v=NCuycx6cWuo",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 27, Theology of the Book of Job, Video Overview",
+            "url": "https://www.youtube.com/watch?v=48mvwMGLQxE",
+            "legacyId": "c28-l53"
+          }
+        ]
+      },
+      {
+        "id": "c28-l56",
+        "title": "Dr. John Walton, Job, Lecture 28, Suffering and the Book of Job",
+        "videoId": "txSRLoomfDg",
+        "duration": "16:05",
+        "url": "https://www.youtube.com/watch?v=txSRLoomfDg",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 28, Suffering and the Book of Job, Video Overview",
+            "url": "https://www.youtube.com/watch?v=zfU9QfDqGio",
+            "legacyId": "c28-l55"
+          }
+        ]
+      },
+      {
+        "id": "c28-l58",
+        "title": "Dr. John Walton, Job, Lecture 29, Message of the Book of Job",
+        "videoId": "_TY1qgb8vqw",
+        "duration": "10:52",
+        "url": "https://www.youtube.com/watch?v=_TY1qgb8vqw",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 29, Message of the Book of Job, Video Overview",
+            "url": "https://www.youtube.com/watch?v=lih4ZytTmSw",
+            "legacyId": "c28-l57"
+          }
+        ]
+      },
+      {
+        "id": "c28-l60",
+        "title": "Dr. John Walton, Job, Lecture 30, Application of the Book of Job",
+        "videoId": "ua3NwUa-o68",
+        "duration": "23:21",
+        "url": "https://www.youtube.com/watch?v=ua3NwUa-o68",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. John Walton, Job, Session 30, Application of the Book of Job, Video Overview",
+            "url": "https://www.youtube.com/watch?v=DFTjFowEW7w",
+            "legacyId": "c28-l59"
+          }
+        ]
+      }
+    ],
+    "playlistId": "PLnNXzYjQerJh7oQaQfwN-_tIi-Twb2XFP",
+    "indexedAt": "2026-09-24",
+    "supplementalVideos": [
+      {
+        "id": "c28-l1",
+        "title": "Dr. John Walton, Job, Session 1, Interpretation problems and false ideas about Job, Video Overview",
+        "videoId": "AydkYkkcPq4",
+        "duration": "5:26",
+        "url": "https://www.youtube.com/watch?v=AydkYkkcPq4",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7798,29 +9267,11 @@
         "readings": []
       },
       {
-        "id": "c28-l4",
-        "title": "Dr. John Walton, Job, Lecture 2, Date and authorship",
-        "videoId": "0c_Ns162910",
-        "duration": "15:00",
-        "url": "https://www.youtube.com/watch?v=0c_Ns162910",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l5",
         "title": "Dr. John Walton, Job, Session 3, Job as a book with Authority and Inspiration, Video Overview",
         "videoId": "jLkc6j9QRg8",
         "duration": "7:55",
         "url": "https://www.youtube.com/watch?v=jLkc6j9QRg8",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l6",
-        "title": "Dr. John Walton, Job, Lecture 3, Job as a book with Authority and Inspiration",
-        "videoId": "Qi8WuUa6nF0",
-        "duration": "16:38",
-        "url": "https://www.youtube.com/watch?v=Qi8WuUa6nF0",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7834,29 +9285,11 @@
         "readings": []
       },
       {
-        "id": "c28-l8",
-        "title": "Dr. John Walton, Job, Lecture 4, Genre and Structure (nature of Wisdom)",
-        "videoId": "nmnzEiCZhB0",
-        "duration": "26:36",
-        "url": "https://www.youtube.com/watch?v=nmnzEiCZhB0",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l9",
         "title": "Dr. John Walton, Job, Session 5, Job and the Ancient Near East, Video Overview",
         "videoId": "nShmeOUKYZQ",
         "duration": "7:49",
         "url": "https://www.youtube.com/watch?v=nShmeOUKYZQ",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l10",
-        "title": "Dr. John Walton, Job, Lecture 5, Job and the Ancient Near East",
-        "videoId": "jLIm6s6rWS4",
-        "duration": "28:49",
-        "url": "https://www.youtube.com/watch?v=jLIm6s6rWS4",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7870,29 +9303,11 @@
         "readings": []
       },
       {
-        "id": "c28-l12",
-        "title": "Dr. John Walton, Job, Lecture 6, Purpose of the Book of Job",
-        "videoId": "IsFcj-aHOVw",
-        "duration": "11:16",
-        "url": "https://www.youtube.com/watch?v=IsFcj-aHOVw",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l13",
         "title": "Dr. John Walton, Job, Ses 7, Theological Foundation: Retribution Principle, Triangle, Video Overview",
         "videoId": "4_9KWU9jabk",
         "duration": "6:54",
         "url": "https://www.youtube.com/watch?v=4_9KWU9jabk",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l14",
-        "title": "Dr. John Walton, Job, Lecture 7, Theological Foundation: Retribution Principle, Triangle",
-        "videoId": "H3wd4oOO9CA",
-        "duration": "30:12",
-        "url": "https://www.youtube.com/watch?v=H3wd4oOO9CA",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7906,29 +9321,11 @@
         "readings": []
       },
       {
-        "id": "c28-l16",
-        "title": "Dr. John Walton, Job, Lecture 8, Scene on earth",
-        "videoId": "CXhoauE6dE8",
-        "duration": "15:35",
-        "url": "https://www.youtube.com/watch?v=CXhoauE6dE8",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l17",
         "title": "Dr. John Walton, Job, Session 9, Scene in heaven, Part 1,  Video Overview",
         "videoId": "NTfkvm6tEuo",
         "duration": "7:13",
         "url": "https://www.youtube.com/watch?v=NTfkvm6tEuo",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l18",
-        "title": "Dr. John Walton, Job, Lecture 9, Scene in heaven, Part 1",
-        "videoId": "QHCjXsujf48",
-        "duration": "12:47",
-        "url": "https://www.youtube.com/watch?v=QHCjXsujf48",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7942,29 +9339,11 @@
         "readings": []
       },
       {
-        "id": "c28-l20",
-        "title": "Dr. John Walton, Job, Lecture 10, Sons of God and the Challenger",
-        "videoId": "WTTREaugwjM",
-        "duration": "10:33",
-        "url": "https://www.youtube.com/watch?v=WTTREaugwjM",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l21",
         "title": "Dr. John Walton, Job, Session 11, Scene in heaven part 2, Video Overview",
         "videoId": "h4DHLV9g5uk",
         "duration": "6:29",
         "url": "https://www.youtube.com/watch?v=h4DHLV9g5uk",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l22",
-        "title": "Dr. John Walton, Job, Lecture 11, Scene in heaven part 2",
-        "videoId": "d5aw57QZCOY",
-        "duration": "9:36",
-        "url": "https://www.youtube.com/watch?v=d5aw57QZCOY",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -7978,29 +9357,11 @@
         "readings": []
       },
       {
-        "id": "c28-l24",
-        "title": "Dr. John Walton, Job, Lecture 12, Role of wife and friends",
-        "videoId": "kUBEZK2YTY4",
-        "duration": "14:55",
-        "url": "https://www.youtube.com/watch?v=kUBEZK2YTY4",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l25",
         "title": "Dr. John Walton, Job, Session 13, Dialogues series 1 (Job 3-14), Video Overview",
         "videoId": "gSmpyhBdgYo",
         "duration": "8:49",
         "url": "https://www.youtube.com/watch?v=gSmpyhBdgYo",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l26",
-        "title": "Dr. John Walton, Job, Lecture 13, Dialogues series 1 (Job 3-14)",
-        "videoId": "pRLMCV6LTPQ",
-        "duration": "29:10",
-        "url": "https://www.youtube.com/watch?v=pRLMCV6LTPQ",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -8014,29 +9375,11 @@
         "readings": []
       },
       {
-        "id": "c28-l28",
-        "title": "Dr. John Walton, Job, Lecture 14, Dialogue series 2 (Job 15-21)",
-        "videoId": "MvaJZZE2R-o",
-        "duration": "7:55",
-        "url": "https://www.youtube.com/watch?v=MvaJZZE2R-o",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l29",
         "title": "Dr. John Walton, Job, Session 15, Job 19:25 - I know my Redeemer lives, Video Overview",
         "videoId": "H4CdcQiFJCg",
         "duration": "8:10",
         "url": "https://www.youtube.com/watch?v=H4CdcQiFJCg",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l30",
-        "title": "Dr. John Walton, Job, Lecture 15, Job 19:25 - I know my Redeemer lives",
-        "videoId": "EwPqWfi9ne0",
-        "duration": "15:16",
-        "url": "https://www.youtube.com/watch?v=EwPqWfi9ne0",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -8050,47 +9393,11 @@
         "readings": []
       },
       {
-        "id": "c28-l32",
-        "title": "Dr. John Walton, Job, Lecture 16, Dialogue series 3 (Job 22-27)",
-        "videoId": "cZpf9s4NaQQ",
-        "duration": "23:09",
-        "url": "https://www.youtube.com/watch?v=cZpf9s4NaQQ",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l33",
-        "title": "Dr. John Walton, Job, Ses 17, Conclusion of dialogue series & Wisdom Interlude-Job 28, Video Overvie",
-        "videoId": "MNIi4yDo85I",
-        "duration": "7:44",
-        "url": "https://www.youtube.com/watch?v=MNIi4yDo85I",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l34",
-        "title": "Dr. John Walton, Job, Lecture 17, Conclusion of dialogue series and Wisdom Interlude (Job 28)",
-        "videoId": "NyM3h1Hcncs",
-        "duration": "17:04",
-        "url": "https://www.youtube.com/watch?v=NyM3h1Hcncs",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l35",
         "title": "Dr. John Walton, Job, Session 18, Job's discourse (Job 29-31), Video Overview",
         "videoId": "A4cYesI5obo",
         "duration": "7:17",
         "url": "https://www.youtube.com/watch?v=A4cYesI5obo",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l36",
-        "title": "Dr. John Walton, Job, Lecture 18, Job's discourse (Job 29-31)",
-        "videoId": "cGR2XMgTl_o",
-        "duration": "12:56",
-        "url": "https://www.youtube.com/watch?v=cGR2XMgTl_o",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -8104,29 +9411,11 @@
         "readings": []
       },
       {
-        "id": "c28-l38",
-        "title": "Dr. John Walton, Job, Lecture 19, \"Covenant with his eyes\" (Job 31:1)",
-        "videoId": "yV2ni1N7dcU",
-        "duration": "10:16",
-        "url": "https://www.youtube.com/watch?v=yV2ni1N7dcU",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l39",
         "title": "Dr. John Walton, Job, Session 20, Elihu's discourse (Job 32-37), Video Overview",
         "videoId": "XWGaozqAV7Q",
         "duration": "8:17",
         "url": "https://www.youtube.com/watch?v=XWGaozqAV7Q",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l40",
-        "title": "Dr. John Walton, Job, Lecture 20, Elihu's discourse (Job 32-37)",
-        "videoId": "NX9f9EgioPw",
-        "duration": "10:28",
-        "url": "https://www.youtube.com/watch?v=NX9f9EgioPw",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -8140,29 +9429,11 @@
         "readings": []
       },
       {
-        "id": "c28-l42",
-        "title": "Dr. John Walton, Job, Lecture 21, God speech 1 and Job's response (Job 38-40:5)",
-        "videoId": "hXt1wJ9Sudo",
-        "duration": "13:19",
-        "url": "https://www.youtube.com/watch?v=hXt1wJ9Sudo",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l43",
         "title": "Dr. John Walton, Job, Ses 22, God speech 2 (Behemoth and Leviathan) (Job 40:6-41:34), Video Overview",
         "videoId": "YxBnLh4iNSI",
         "duration": "9:12",
         "url": "https://www.youtube.com/watch?v=YxBnLh4iNSI",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l44",
-        "title": "Dr. John Walton, Job, Lecture 22, God speech 2 (Behemoth and Leviathan) (Job 40:6-41:34)",
-        "videoId": "08x908BBE2E",
-        "duration": "32:03",
-        "url": "https://www.youtube.com/watch?v=08x908BBE2E",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -8176,47 +9447,11 @@
         "readings": []
       },
       {
-        "id": "c28-l46",
-        "title": "Dr. John Walton, Job, Lecture 23, Epilogue (Job 42)",
-        "videoId": "jgfiqAQyiY0",
-        "duration": "14:56",
-        "url": "https://www.youtube.com/watch?v=jgfiqAQyiY0",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l47",
         "title": "Dr. John Walton, Job, Session 24, Job in the Book of Job, Video Overview",
         "videoId": "BdSsWuOdY9U",
         "duration": "7:20",
         "url": "https://www.youtube.com/watch?v=BdSsWuOdY9U",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l48",
-        "title": "Dr. John Walton, Job, Lecture 24, Job in the Book of Job",
-        "videoId": "IJZwtyQ_f58",
-        "duration": "11:36",
-        "url": "https://www.youtube.com/watch?v=IJZwtyQ_f58",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l49",
-        "title": "Dr. John Walton, Job, Ses 25, The world in the Book of Job-Order, non-order & disorder, Video Overvi",
-        "videoId": "I_eQ5XdFfK4",
-        "duration": "6:06",
-        "url": "https://www.youtube.com/watch?v=I_eQ5XdFfK4",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l50",
-        "title": "Dr. John Walton, Job, Lecture 25, The world in the Book of Job: Order, non-order and disorder",
-        "videoId": "ewOLI3A63Rc",
-        "duration": "11:29",
-        "url": "https://www.youtube.com/watch?v=ewOLI3A63Rc",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -8230,29 +9465,11 @@
         "readings": []
       },
       {
-        "id": "c28-l52",
-        "title": "Dr. John Walton, Job, Lecture 26, God in the Book of Job",
-        "videoId": "YYL0MPMfEh8",
-        "duration": "16:38",
-        "url": "https://www.youtube.com/watch?v=YYL0MPMfEh8",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l53",
         "title": "Dr. John Walton, Job, Session 27, Theology of the Book of Job, Video Overview",
         "videoId": "48mvwMGLQxE",
         "duration": "7:23",
         "url": "https://www.youtube.com/watch?v=48mvwMGLQxE",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l54",
-        "title": "Dr. John Walton, Job,  Lecture 27, Theology of the Book of Job",
-        "videoId": "NCuycx6cWuo",
-        "duration": "12:13",
-        "url": "https://www.youtube.com/watch?v=NCuycx6cWuo",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -8266,29 +9483,11 @@
         "readings": []
       },
       {
-        "id": "c28-l56",
-        "title": "Dr. John Walton, Job, Lecture 28, Suffering and the Book of Job",
-        "videoId": "txSRLoomfDg",
-        "duration": "16:05",
-        "url": "https://www.youtube.com/watch?v=txSRLoomfDg",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c28-l57",
         "title": "Dr. John Walton, Job, Session 29, Message of the Book of Job, Video Overview",
         "videoId": "lih4ZytTmSw",
         "duration": "7:31",
         "url": "https://www.youtube.com/watch?v=lih4ZytTmSw",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c28-l58",
-        "title": "Dr. John Walton, Job, Lecture 29, Message of the Book of Job",
-        "videoId": "_TY1qgb8vqw",
-        "duration": "10:52",
-        "url": "https://www.youtube.com/watch?v=_TY1qgb8vqw",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -8302,17 +9501,24 @@
         "readings": []
       },
       {
-        "id": "c28-l60",
-        "title": "Dr. John Walton, Job, Lecture 30, Application of the Book of Job",
-        "videoId": "ua3NwUa-o68",
-        "duration": "23:21",
-        "url": "https://www.youtube.com/watch?v=ua3NwUa-o68",
+        "id": "c28-l33",
+        "title": "Dr. John Walton, Job, Ses 17, Conclusion of dialogue series & Wisdom Interlude-Job 28, Video Overvie",
+        "videoId": "MNIi4yDo85I",
+        "duration": "7:44",
+        "url": "https://www.youtube.com/watch?v=MNIi4yDo85I",
+        "source": "YouTube playlist",
+        "readings": []
+      },
+      {
+        "id": "c28-l49",
+        "title": "Dr. John Walton, Job, Ses 25, The world in the Book of Job-Order, non-order & disorder, Video Overvi",
+        "videoId": "I_eQ5XdFfK4",
+        "duration": "6:06",
+        "url": "https://www.youtube.com/watch?v=I_eQ5XdFfK4",
         "source": "YouTube playlist",
         "readings": []
       }
-    ],
-    "playlistId": "PLnNXzYjQerJh7oQaQfwN-_tIi-Twb2XFP",
-    "indexedAt": "2026-09-24"
+    ]
   },
   {
     "id": "c30",
@@ -13825,6 +15031,488 @@
     "note": "",
     "lessons": [
       {
+        "id": "c58-l3",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 1. Introduction to Mesopotamia",
+        "videoId": "l0i5AADvGq0",
+        "duration": "1:05:53",
+        "url": "https://www.youtube.com/watch?v=l0i5AADvGq0",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 1, Introduction to Mesopotamia, Short",
+            "url": "https://www.youtube.com/watch?v=GlVGNMP6Geo",
+            "legacyId": "c58-l1"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 1, Intro. to Mesopotamia, Video Overview",
+            "url": "https://www.youtube.com/watch?v=oZ_c8l4HF_Q",
+            "legacyId": "c58-l2"
+          }
+        ]
+      },
+      {
+        "id": "c58-l6",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 2, Topography of Mesopotamia and Israel",
+        "videoId": "FO_ovpytQWY",
+        "duration": "54:50",
+        "url": "https://www.youtube.com/watch?v=FO_ovpytQWY",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 2, Topography of Mesopotamia and Israel, Short",
+            "url": "https://www.youtube.com/watch?v=n3-l13ntUDQ",
+            "legacyId": "c58-l4"
+          },
+          {
+            "title": "Dr. Donal Fowler, Old Testament Backgrounds, Ses 2, Topography -Mesopotamia & Israel, Video Overview",
+            "url": "https://www.youtube.com/watch?v=bkqhQWbwd70",
+            "legacyId": "c58-l5"
+          }
+        ]
+      },
+      {
+        "id": "c58-l9",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 3, Cultural Essentials: Writing, Kingship",
+        "videoId": "qZ0vTqYwzPc",
+        "duration": "59:50",
+        "url": "https://www.youtube.com/watch?v=qZ0vTqYwzPc",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Ses 3, Cultures: Writing, Kingship, Video Overview",
+            "url": "https://www.youtube.com/watch?v=gSLSQFYEDjE",
+            "legacyId": "c58-l8"
+          }
+        ]
+      },
+      {
+        "id": "c58-l12",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 4, Divinization of Kings",
+        "videoId": "8hV5n5GBHU8",
+        "duration": "1:06:21",
+        "url": "https://www.youtube.com/watch?v=8hV5n5GBHU8",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 4, Divinization of Kings, Short",
+            "url": "https://www.youtube.com/watch?v=cfYWAmLg4pA",
+            "legacyId": "c58-l10"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 4, Divinization of Kings, Video Overview",
+            "url": "https://www.youtube.com/watch?v=R7ywPBXPM4s",
+            "legacyId": "c58-l11"
+          }
+        ]
+      },
+      {
+        "id": "c58-l15",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 5, Religious Paganism",
+        "videoId": "xhEQ1G5Mi28",
+        "duration": "1:00:42",
+        "url": "https://www.youtube.com/watch?v=xhEQ1G5Mi28",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 5, Religious Paganism, Short",
+            "url": "https://www.youtube.com/watch?v=l02wYqBPYYU",
+            "legacyId": "c58-l13"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 5, Religious Paganism, Video Overview",
+            "url": "https://www.youtube.com/watch?v=6FHd9dd1Mkk",
+            "legacyId": "c58-l14"
+          }
+        ]
+      },
+      {
+        "id": "c58-l18",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 6, End of Royal Divinization, Amorites",
+        "videoId": "0RzvXgAQZ6U",
+        "duration": "1:00:55",
+        "url": "https://www.youtube.com/watch?v=0RzvXgAQZ6U",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 6, End of Royal Divinization, Amorites, Short",
+            "url": "https://www.youtube.com/watch?v=JnvG1n_aIaI",
+            "legacyId": "c58-l16"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Ses 6, Royal Divinization, Amorites, Video Overview",
+            "url": "https://www.youtube.com/watch?v=tR9x4yKq9_c",
+            "legacyId": "c58-l17"
+          }
+        ]
+      },
+      {
+        "id": "c58-l21",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 7, Jubilee",
+        "videoId": "tq7DowlSwEA",
+        "duration": "58:14",
+        "url": "https://www.youtube.com/watch?v=tq7DowlSwEA",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 7, Jubilee, Short",
+            "url": "https://www.youtube.com/watch?v=wcN3BeSz7V0",
+            "legacyId": "c58-l19"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 7, Jubilee, Video Overview",
+            "url": "https://www.youtube.com/watch?v=7BymgaaafWo",
+            "legacyId": "c58-l20"
+          }
+        ]
+      },
+      {
+        "id": "c58-l24",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 8, Shepherd King",
+        "videoId": "asvmdNxR0W8",
+        "duration": "1:01:43",
+        "url": "https://www.youtube.com/watch?v=asvmdNxR0W8",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 8, Shepherd King, Short",
+            "url": "https://www.youtube.com/watch?v=ZfRbIxhleHU",
+            "legacyId": "c58-l22"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 8, Shepherd King, Video Overview",
+            "url": "https://www.youtube.com/watch?v=OcfNXcuiOwA",
+            "legacyId": "c58-l23"
+          }
+        ]
+      },
+      {
+        "id": "c58-l27",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 9,  John 10, Law",
+        "videoId": "Dqha_jmLGjk",
+        "duration": "1:00:43",
+        "url": "https://www.youtube.com/watch?v=Dqha_jmLGjk",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 9, John 10 and Law, Short",
+            "url": "https://www.youtube.com/watch?v=PCZPe8P3q-A",
+            "legacyId": "c58-l25"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 9, John 10, Law, Video Overview",
+            "url": "https://www.youtube.com/watch?v=QhpEetp-yB4",
+            "legacyId": "c58-l26"
+          }
+        ]
+      },
+      {
+        "id": "c58-l30",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 10, Literature of Babylon",
+        "videoId": "c7-C4URm590",
+        "duration": "1:01:47",
+        "url": "https://www.youtube.com/watch?v=c7-C4URm590",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler. Old Testament Backgrounds, Session 10, Literature of Babylon, Short",
+            "url": "https://www.youtube.com/watch?v=F_yRNPQHXJE",
+            "legacyId": "c58-l28"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 10, Literature of Babylon, Video Overview",
+            "url": "https://www.youtube.com/watch?v=54EgoCvDYek",
+            "legacyId": "c58-l29"
+          }
+        ]
+      },
+      {
+        "id": "c58-l33",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 11, Nuzi",
+        "videoId": "gPrg7XmK3C8",
+        "duration": "1:02:00",
+        "url": "https://www.youtube.com/watch?v=gPrg7XmK3C8",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 11, Nuzi, Short",
+            "url": "https://www.youtube.com/watch?v=VI3o-5e6hac",
+            "legacyId": "c58-l31"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 11, Nuzi, Video Overview",
+            "url": "https://www.youtube.com/watch?v=8b20bgRgHIk",
+            "legacyId": "c58-l32"
+          }
+        ]
+      },
+      {
+        "id": "c58-l36",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 12, People Groups:  Hurrians, Hittites, Habiru",
+        "videoId": "dXRy5MgeNrI",
+        "duration": "1:01:03",
+        "url": "https://www.youtube.com/watch?v=dXRy5MgeNrI",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Ses 12, People Groups-Hurrian, Hittites, Habiru, Short",
+            "url": "https://www.youtube.com/watch?v=VaB5yZ3MN40",
+            "legacyId": "c58-l34"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 12, Hurrians, Hittites, Habiru, Video Overview",
+            "url": "https://www.youtube.com/watch?v=a0nGJFPN0Y8",
+            "legacyId": "c58-l35"
+          }
+        ]
+      },
+      {
+        "id": "c58-l39",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 13, People Groups: Habiru, Arameans",
+        "videoId": "R8jhOYDL-2o",
+        "duration": "1:05:26",
+        "url": "https://www.youtube.com/watch?v=R8jhOYDL-2o",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 13, People Groups: Habiru, Arameans, Short",
+            "url": "https://www.youtube.com/watch?v=SamluHI33Zc",
+            "legacyId": "c58-l37"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Ses 13, People Groups-Habiru, Arameans, Video Overview",
+            "url": "https://www.youtube.com/watch?v=-R93BEGUpvk",
+            "legacyId": "c58-l38"
+          }
+        ]
+      },
+      {
+        "id": "c58-l42",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 14, Sea Peoples",
+        "videoId": "6vLotoK42gc",
+        "duration": "1:01:18",
+        "url": "https://www.youtube.com/watch?v=6vLotoK42gc",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 14, Sea Peoples, Short",
+            "url": "https://www.youtube.com/watch?v=XkdI8n8mx58",
+            "legacyId": "c58-l40"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 14, Sea Peoples, Video Overview",
+            "url": "https://www.youtube.com/watch?v=xi9yFB25v3c",
+            "legacyId": "c58-l41"
+          }
+        ]
+      },
+      {
+        "id": "c58-l45",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 15, People Groups, Rise Of Monarchy",
+        "videoId": "-vheRFtbpko",
+        "duration": "1:03:42",
+        "url": "https://www.youtube.com/watch?v=-vheRFtbpko",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 15, People Groups, Rise Of Monarchy, Short",
+            "url": "https://www.youtube.com/watch?v=S49Oiw-L0Ns",
+            "legacyId": "c58-l43"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Ses15, People Groups, Rise of Monarchy, Video Overview",
+            "url": "https://www.youtube.com/watch?v=1iNvoIIg8gk",
+            "legacyId": "c58-l44"
+          }
+        ]
+      },
+      {
+        "id": "c58-l48",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 16, Theology of Kingship",
+        "videoId": "XPaYBMZNx1E",
+        "duration": "1:02:16",
+        "url": "https://www.youtube.com/watch?v=XPaYBMZNx1E",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 16, Theology of Kingship, Short",
+            "url": "https://www.youtube.com/watch?v=U3cIExludT8",
+            "legacyId": "c58-l46"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 16, Theology of Kingship, Video Overview",
+            "url": "https://www.youtube.com/watch?v=-vnO_q4TwlA",
+            "legacyId": "c58-l47"
+          }
+        ]
+      },
+      {
+        "id": "c58-l51",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 17, Kingship in the Ancient Near East",
+        "videoId": "Ho08ETL4FZo",
+        "duration": "1:01:27",
+        "url": "https://www.youtube.com/watch?v=Ho08ETL4FZo",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 17, Kingship in the Ancient Near East, Short",
+            "url": "https://www.youtube.com/watch?v=n6rda4drQO0",
+            "legacyId": "c58-l49"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Ses17, Kingship in Ancient Near East, Video Overview",
+            "url": "https://www.youtube.com/watch?v=QOdcKFnvcKw",
+            "legacyId": "c58-l50"
+          }
+        ]
+      },
+      {
+        "id": "c58-l54",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 18, Rise Of Assyria",
+        "videoId": "_X0YeAc3hNA",
+        "duration": "1:03:33",
+        "url": "https://www.youtube.com/watch?v=_X0YeAc3hNA",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 18, Rise of Assyria, Short",
+            "url": "https://www.youtube.com/watch?v=hqWtb-AReNk",
+            "legacyId": "c58-l52"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 18, Rise Of Assyria, Video Overview",
+            "url": "https://www.youtube.com/watch?v=21ym4MWkG9w",
+            "legacyId": "c58-l53"
+          }
+        ]
+      },
+      {
+        "id": "c58-l57",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 19, Imperial Assyria",
+        "videoId": "mZ7ZKex4GUA",
+        "duration": "59:09",
+        "url": "https://www.youtube.com/watch?v=mZ7ZKex4GUA",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 19, Imperial Assyria, Short",
+            "url": "https://www.youtube.com/watch?v=DJ2TBJwpZKA",
+            "legacyId": "c58-l55"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 19, Imperial Assyria, Video Overview",
+            "url": "https://www.youtube.com/watch?v=-PAm2YRDwCs",
+            "legacyId": "c58-l56"
+          }
+        ]
+      },
+      {
+        "id": "c58-l60",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 20, Demise of Assyria",
+        "videoId": "mjW376ozWt0",
+        "duration": "58:41",
+        "url": "https://www.youtube.com/watch?v=mjW376ozWt0",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 20, Demise of Assyria, Short",
+            "url": "https://www.youtube.com/watch?v=bPAl-HO1720",
+            "legacyId": "c58-l58"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 20, Demise of Assyria, Video Overview",
+            "url": "https://www.youtube.com/watch?v=IwxjzsJ7auI",
+            "legacyId": "c58-l59"
+          }
+        ]
+      },
+      {
+        "id": "c58-l63",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 21, Neo-Babylonian Empire",
+        "videoId": "GGMGszZKe8I",
+        "duration": "58:28",
+        "url": "https://www.youtube.com/watch?v=GGMGszZKe8I",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 21, Neo-Babylonian Empire, Short",
+            "url": "https://www.youtube.com/watch?v=hRZaWWaIZQU",
+            "legacyId": "c58-l61"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 21, Neo-Babylonian Empire, Video Overview",
+            "url": "https://www.youtube.com/watch?v=hIwbIWTCpQQ",
+            "legacyId": "c58-l62"
+          }
+        ]
+      },
+      {
+        "id": "c58-l66",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 22, Persian Empire",
+        "videoId": "KUii9MCmJn0",
+        "duration": "1:00:57",
+        "url": "https://www.youtube.com/watch?v=KUii9MCmJn0",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 22, Persian Empire, Short",
+            "url": "https://www.youtube.com/watch?v=JiPiSQK7acg",
+            "legacyId": "c58-l64"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 22, Persian Empire, Video Overview",
+            "url": "https://www.youtube.com/watch?v=ElYKlzQZ1zA",
+            "legacyId": "c58-l65"
+          }
+        ]
+      },
+      {
+        "id": "c58-l69",
+        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 23, Persians To Greeks",
+        "videoId": "ytd12WkFE90",
+        "duration": "37:48",
+        "url": "https://www.youtube.com/watch?v=ytd12WkFE90",
+        "source": "YouTube playlist",
+        "readings": [],
+        "supplements": [
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 23, Persians to Greeks, Short",
+            "url": "https://www.youtube.com/watch?v=7pLpyIRXlp8",
+            "legacyId": "c58-l67"
+          },
+          {
+            "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 23, Persians To Greeks, Video Overview",
+            "url": "https://www.youtube.com/watch?v=H7y6NZuZsDA",
+            "legacyId": "c58-l68"
+          }
+        ]
+      }
+    ],
+    "playlistId": "PLnNXzYjQerJjKUYOSiBKGZSv6jZp4ThV6",
+    "indexedAt": "2026-09-24",
+    "supplementalVideos": [
+      {
         "id": "c58-l1",
         "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 1, Introduction to Mesopotamia, Short",
         "videoId": "GlVGNMP6Geo",
@@ -13839,15 +15527,6 @@
         "videoId": "oZ_c8l4HF_Q",
         "duration": "5:17",
         "url": "https://www.youtube.com/watch?v=oZ_c8l4HF_Q",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c58-l3",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 1. Introduction to Mesopotamia",
-        "videoId": "l0i5AADvGq0",
-        "duration": "1:05:53",
-        "url": "https://www.youtube.com/watch?v=l0i5AADvGq0",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -13870,15 +15549,6 @@
         "readings": []
       },
       {
-        "id": "c58-l6",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 2, Topography of Mesopotamia and Israel",
-        "videoId": "FO_ovpytQWY",
-        "duration": "54:50",
-        "url": "https://www.youtube.com/watch?v=FO_ovpytQWY",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c58-l7",
         "title": "Dr. Donald Fowler, Old Testament Backgrounds, Ses. 3, Cultural Essentials: Writing, Kingship, Short",
         "videoId": "FjoxIBSkjVY",
@@ -13893,15 +15563,6 @@
         "videoId": "gSLSQFYEDjE",
         "duration": "6:46",
         "url": "https://www.youtube.com/watch?v=gSLSQFYEDjE",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c58-l9",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 3, Cultural Essentials: Writing, Kingship",
-        "videoId": "qZ0vTqYwzPc",
-        "duration": "59:50",
-        "url": "https://www.youtube.com/watch?v=qZ0vTqYwzPc",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -13924,15 +15585,6 @@
         "readings": []
       },
       {
-        "id": "c58-l12",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 4, Divinization of Kings",
-        "videoId": "8hV5n5GBHU8",
-        "duration": "1:06:21",
-        "url": "https://www.youtube.com/watch?v=8hV5n5GBHU8",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c58-l13",
         "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 5, Religious Paganism, Short",
         "videoId": "l02wYqBPYYU",
@@ -13947,15 +15599,6 @@
         "videoId": "6FHd9dd1Mkk",
         "duration": "7:41",
         "url": "https://www.youtube.com/watch?v=6FHd9dd1Mkk",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c58-l15",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 5, Religious Paganism",
-        "videoId": "xhEQ1G5Mi28",
-        "duration": "1:00:42",
-        "url": "https://www.youtube.com/watch?v=xhEQ1G5Mi28",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -13978,15 +15621,6 @@
         "readings": []
       },
       {
-        "id": "c58-l18",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 6, End of Royal Divinization, Amorites",
-        "videoId": "0RzvXgAQZ6U",
-        "duration": "1:00:55",
-        "url": "https://www.youtube.com/watch?v=0RzvXgAQZ6U",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c58-l19",
         "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 7, Jubilee, Short",
         "videoId": "wcN3BeSz7V0",
@@ -14001,15 +15635,6 @@
         "videoId": "7BymgaaafWo",
         "duration": "6:55",
         "url": "https://www.youtube.com/watch?v=7BymgaaafWo",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c58-l21",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 7, Jubilee",
-        "videoId": "tq7DowlSwEA",
-        "duration": "58:14",
-        "url": "https://www.youtube.com/watch?v=tq7DowlSwEA",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -14032,15 +15657,6 @@
         "readings": []
       },
       {
-        "id": "c58-l24",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 8, Shepherd King",
-        "videoId": "asvmdNxR0W8",
-        "duration": "1:01:43",
-        "url": "https://www.youtube.com/watch?v=asvmdNxR0W8",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c58-l25",
         "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 9, John 10 and Law, Short",
         "videoId": "PCZPe8P3q-A",
@@ -14055,15 +15671,6 @@
         "videoId": "QhpEetp-yB4",
         "duration": "6:12",
         "url": "https://www.youtube.com/watch?v=QhpEetp-yB4",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c58-l27",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 9,  John 10, Law",
-        "videoId": "Dqha_jmLGjk",
-        "duration": "1:00:43",
-        "url": "https://www.youtube.com/watch?v=Dqha_jmLGjk",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -14086,15 +15693,6 @@
         "readings": []
       },
       {
-        "id": "c58-l30",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 10, Literature of Babylon",
-        "videoId": "c7-C4URm590",
-        "duration": "1:01:47",
-        "url": "https://www.youtube.com/watch?v=c7-C4URm590",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c58-l31",
         "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 11, Nuzi, Short",
         "videoId": "VI3o-5e6hac",
@@ -14109,15 +15707,6 @@
         "videoId": "8b20bgRgHIk",
         "duration": "6:29",
         "url": "https://www.youtube.com/watch?v=8b20bgRgHIk",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c58-l33",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 11, Nuzi",
-        "videoId": "gPrg7XmK3C8",
-        "duration": "1:02:00",
-        "url": "https://www.youtube.com/watch?v=gPrg7XmK3C8",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -14140,15 +15729,6 @@
         "readings": []
       },
       {
-        "id": "c58-l36",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 12, People Groups:  Hurrians, Hittites, Habiru",
-        "videoId": "dXRy5MgeNrI",
-        "duration": "1:01:03",
-        "url": "https://www.youtube.com/watch?v=dXRy5MgeNrI",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c58-l37",
         "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 13, People Groups: Habiru, Arameans, Short",
         "videoId": "SamluHI33Zc",
@@ -14163,15 +15743,6 @@
         "videoId": "-R93BEGUpvk",
         "duration": "5:44",
         "url": "https://www.youtube.com/watch?v=-R93BEGUpvk",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c58-l39",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 13, People Groups: Habiru, Arameans",
-        "videoId": "R8jhOYDL-2o",
-        "duration": "1:05:26",
-        "url": "https://www.youtube.com/watch?v=R8jhOYDL-2o",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -14194,15 +15765,6 @@
         "readings": []
       },
       {
-        "id": "c58-l42",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 14, Sea Peoples",
-        "videoId": "6vLotoK42gc",
-        "duration": "1:01:18",
-        "url": "https://www.youtube.com/watch?v=6vLotoK42gc",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c58-l43",
         "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 15, People Groups, Rise Of Monarchy, Short",
         "videoId": "S49Oiw-L0Ns",
@@ -14217,15 +15779,6 @@
         "videoId": "1iNvoIIg8gk",
         "duration": "6:14",
         "url": "https://www.youtube.com/watch?v=1iNvoIIg8gk",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c58-l45",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 15, People Groups, Rise Of Monarchy",
-        "videoId": "-vheRFtbpko",
-        "duration": "1:03:42",
-        "url": "https://www.youtube.com/watch?v=-vheRFtbpko",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -14248,15 +15801,6 @@
         "readings": []
       },
       {
-        "id": "c58-l48",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 16, Theology of Kingship",
-        "videoId": "XPaYBMZNx1E",
-        "duration": "1:02:16",
-        "url": "https://www.youtube.com/watch?v=XPaYBMZNx1E",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c58-l49",
         "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 17, Kingship in the Ancient Near East, Short",
         "videoId": "n6rda4drQO0",
@@ -14271,15 +15815,6 @@
         "videoId": "QOdcKFnvcKw",
         "duration": "6:48",
         "url": "https://www.youtube.com/watch?v=QOdcKFnvcKw",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c58-l51",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 17, Kingship in the Ancient Near East",
-        "videoId": "Ho08ETL4FZo",
-        "duration": "1:01:27",
-        "url": "https://www.youtube.com/watch?v=Ho08ETL4FZo",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -14302,15 +15837,6 @@
         "readings": []
       },
       {
-        "id": "c58-l54",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 18, Rise Of Assyria",
-        "videoId": "_X0YeAc3hNA",
-        "duration": "1:03:33",
-        "url": "https://www.youtube.com/watch?v=_X0YeAc3hNA",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c58-l55",
         "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 19, Imperial Assyria, Short",
         "videoId": "DJ2TBJwpZKA",
@@ -14325,15 +15851,6 @@
         "videoId": "-PAm2YRDwCs",
         "duration": "9:52",
         "url": "https://www.youtube.com/watch?v=-PAm2YRDwCs",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c58-l57",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 19, Imperial Assyria",
-        "videoId": "mZ7ZKex4GUA",
-        "duration": "59:09",
-        "url": "https://www.youtube.com/watch?v=mZ7ZKex4GUA",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -14356,15 +15873,6 @@
         "readings": []
       },
       {
-        "id": "c58-l60",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 20, Demise of Assyria",
-        "videoId": "mjW376ozWt0",
-        "duration": "58:41",
-        "url": "https://www.youtube.com/watch?v=mjW376ozWt0",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c58-l61",
         "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 21, Neo-Babylonian Empire, Short",
         "videoId": "hRZaWWaIZQU",
@@ -14379,15 +15887,6 @@
         "videoId": "hIwbIWTCpQQ",
         "duration": "8:21",
         "url": "https://www.youtube.com/watch?v=hIwbIWTCpQQ",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
-        "id": "c58-l63",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 21, Neo-Babylonian Empire",
-        "videoId": "GGMGszZKe8I",
-        "duration": "58:28",
-        "url": "https://www.youtube.com/watch?v=GGMGszZKe8I",
         "source": "YouTube playlist",
         "readings": []
       },
@@ -14410,15 +15909,6 @@
         "readings": []
       },
       {
-        "id": "c58-l66",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 22, Persian Empire",
-        "videoId": "KUii9MCmJn0",
-        "duration": "1:00:57",
-        "url": "https://www.youtube.com/watch?v=KUii9MCmJn0",
-        "source": "YouTube playlist",
-        "readings": []
-      },
-      {
         "id": "c58-l67",
         "title": "Dr. Donald Fowler, Old Testament Backgrounds, Session 23, Persians to Greeks, Short",
         "videoId": "7pLpyIRXlp8",
@@ -14435,19 +15925,8 @@
         "url": "https://www.youtube.com/watch?v=H7y6NZuZsDA",
         "source": "YouTube playlist",
         "readings": []
-      },
-      {
-        "id": "c58-l69",
-        "title": "Dr. Don Fowler, Old Testament Backgrounds, Lecture 23, Persians To Greeks",
-        "videoId": "ytd12WkFE90",
-        "duration": "37:48",
-        "url": "https://www.youtube.com/watch?v=ytd12WkFE90",
-        "source": "YouTube playlist",
-        "readings": []
       }
-    ],
-    "playlistId": "PLnNXzYjQerJjKUYOSiBKGZSv6jZp4ThV6",
-    "indexedAt": "2026-09-24"
+    ]
   },
   {
     "id": "c59",

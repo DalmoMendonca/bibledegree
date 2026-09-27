@@ -130,44 +130,44 @@
       "question": "What does the acronym Tanakh name?",
       "options": [
         "Torah, Psalms, and Gospels",
-        "Torah, Prophets, and Writings",
         "Law, Epistles, and Apocalypse",
+        "Torah, Prophets, and Writings",
         "Patriarchs, Kings, and Apostles"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "The three Hebrew names are Torah, Nevi’im, and Ketuvim."
     },
     {
       "question": "Why does Hayes prefer “instruction” to a narrow translation of Torah as “law”?",
       "options": [
+        "It better conveys the scope of teaching implied by the term",
         "It excludes all legal material",
         "It means the collection has no narratives",
-        "It identifies a Greek rather than Hebrew word",
-        "It better conveys the scope of teaching implied by the term"
+        "It identifies a Greek rather than Hebrew word"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "Instruction includes more than a modern reader may imagine when hearing only the word law."
     },
     {
       "question": "What does comparing biblical canons ask first?",
       "options": [
-        "Which works different communities regard as authoritative",
         "Which surviving manuscript has the largest handwriting",
         "Whether every book uses the same poetic meter",
-        "How many chapters a modern publisher prints per page"
+        "How many chapters a modern publisher prints per page",
+        "Which works different communities regard as authoritative"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Canonical boundaries concern the recognized collection; manuscript and layout questions are different issues."
     },
     {
       "question": "What is the Septuagint in this lecture?",
       "options": [
         "A medieval Latin commentary on the Gospels",
-        "A collection written only in Aramaic",
         "A Greek translation tradition important to Jewish and Christian readers",
+        "A collection written only in Aramaic",
         "The name of the final division of the Tanakh"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "Hayes uses the Septuagint to show how translation and arrangement affected the reception of scripture."
     },
     {
@@ -175,21 +175,21 @@
       "options": [
         "They provide the original autograph of every biblical book",
         "They eliminate all textual variants",
-        "They demonstrate that the Bible was originally written in Latin",
-        "They substantially extend the available early manuscript evidence"
+        "They substantially extend the available early manuscript evidence",
+        "They demonstrate that the Bible was originally written in Latin"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Earlier witnesses illuminate both continuity and variation; they do not supply every original manuscript."
     },
     {
       "question": "How should a reader initially handle dissonant biblical perspectives?",
       "options": [
-        "Assume one must be a copying mistake",
         "Describe each voice carefully before seeking a synthesis",
+        "Assume one must be a copying mistake",
         "Assign every passage an identical setting",
         "Replace all difficult passages with later doctrinal formulas"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Hayes treats the preservation of diverse voices as something to investigate and appreciate."
     },
     {
@@ -197,21 +197,21 @@
       "options": [
         "Narrative cannot address religious concerns",
         "A catechism necessarily predates every narrative",
-        "Narrative can explore moral and existential questions indirectly",
-        "Narrative always states a single explicit moral after each scene"
+        "Narrative always states a single explicit moral after each scene",
+        "Narrative can explore moral and existential questions indirectly"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "Story, metaphor, and character can address questions without the form of systematic propositions."
     },
     {
       "question": "What might a tension between older material and a final editorial perspective indicate?",
       "options": [
-        "A layered history of composition and interpretation",
         "That the passage has no interpretable meaning",
+        "A layered history of composition and interpretation",
         "That no editor ever worked on the collection",
         "That all biblical books were written at one moment"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "The final collection may retain traces of inherited traditions alongside later editorial commitments."
     }
   ],

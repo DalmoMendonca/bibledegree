@@ -1,0 +1,281 @@
+{
+  "summary": "In Lecture 22 of 'Introduction to the New Testament History and Literature,' Professor Dale Martin explores medieval interpretations of scripture and contrasts them with the historical critical method. Martin highlights how early Christian interpreters like Origen and Augustine used allegorical readings to derive multiple meanings from biblical texts, a practice prevalent before modern historical criticism. This method, developed during the Reformation and refined in the 19th century, focuses on uncovering the original intent of biblical authors, requiring knowledge of historical contexts and languages. Martin emphasizes that while historical criticism is dominant in academic biblical studies, it does not fully encompass the diverse ways scripture has been interpreted throughout history. He argues for the inclusion of various interpretative approaches, such as feminist or queer readings, to enrich understanding. Martin also discusses the limitations of historical criticism, noting that even scholars using the same method can arrive at different conclusions. The lecture concludes with a reflection on the importance of recognizing the historical critical method as one of many legitimate ways to engage with biblical texts, encouraging students to appreciate the rich tradition of pre-modern interpretations.",
+  "keyIdeas": [
+    {
+      "title": "Historical Critical Method",
+      "explanation": "Focuses on the original intent of biblical authors, using historical context and languages."
+    },
+    {
+      "title": "Medieval Interpretations",
+      "explanation": "Early interpreters like Origen and Augustine used allegorical readings to find multiple meanings."
+    },
+    {
+      "title": "Reformation's Impact",
+      "explanation": "Shifted interpretation from church authority to scripture itself, paving the way for historical criticism."
+    },
+    {
+      "title": "Limitations of Historical Criticism",
+      "explanation": "Even scholars using it can reach different conclusions; it doesn't fully encompass theological readings."
+    },
+    {
+      "title": "Inclusion of Other Methods",
+      "explanation": "Encourages the use of feminist, queer, and other readings to enrich biblical interpretation."
+    },
+    {
+      "title": "Pre-modern Practices",
+      "explanation": "Emphasizes the historical richness of pre-modern interpretations and their cultural significance."
+    }
+  ],
+  "terms": [
+    {
+      "term": "Synkrisis",
+      "definition": "A comparison of Christ's liturgy with that of the Jews, illustrating superiority."
+    },
+    {
+      "term": "Sensus Literalis",
+      "definition": "Literal sense of scripture emphasized during the Reformation as fundamental."
+    },
+    {
+      "term": "Eisegesis",
+      "definition": "Reading into the text something not originally present, often viewed negatively."
+    },
+    {
+      "term": "Lectio Divina",
+      "definition": "A practice of praying scripture by using its words as personal prayer."
+    },
+    {
+      "term": "Anagogical Sense",
+      "definition": "A reading of the text to lead one to a higher spiritual or moral understanding."
+    },
+    {
+      "term": "JEPD Theory",
+      "definition": "A theory that the Pentateuch was composed of four different sources."
+    }
+  ],
+  "mastery": [
+    {
+      "question": "What is the primary focus of the historical critical method?",
+      "answer": "Uncovering the original intent of biblical authors through historical context."
+    },
+    {
+      "question": "How did pre-modern interpreters like Origen view biblical texts?",
+      "answer": "They used allegorical readings to find multiple meanings."
+    },
+    {
+      "question": "What impact did the Reformation have on biblical interpretation?",
+      "answer": "It shifted authority from the church to scripture itself."
+    },
+    {
+      "question": "Why is historical criticism limited?",
+      "answer": "It cannot fully encompass theological readings or prevent differing conclusions."
+    },
+    {
+      "question": "What does 'lectio divina' involve?",
+      "answer": "Praying scripture by using its words as personal prayer."
+    },
+    {
+      "question": "What is 'synkrisis' in the context of biblical interpretation?",
+      "answer": "A comparison of Christ's liturgy with Jewish liturgy to show superiority."
+    },
+    {
+      "question": "Why include feminist or queer readings in biblical studies?",
+      "answer": "To enrich understanding with diverse interpretative approaches."
+    },
+    {
+      "question": "What is 'sensus literalis'?",
+      "answer": "Literal sense of scripture emphasized during the Reformation."
+    }
+  ],
+  "reflection": [
+    "How do different interpretive methods impact your understanding of biblical texts?",
+    "What are the strengths and weaknesses of historical criticism?",
+    "Why is it important to study both historical and pre-modern interpretations?",
+    "How do cultural and historical contexts influence biblical interpretation?",
+    "What role do personal beliefs play in interpreting scripture?"
+  ],
+  "quiz": [
+    {
+      "question": "What does the historical critical method prioritize?",
+      "options": [
+        "Modern ethical applications",
+        "Personal spiritual insights",
+        "Original intent of authors",
+        "Canonical coherence"
+      ],
+      "answer": 2,
+      "explanation": "It focuses on what ancient authors intended, using historical context."
+    },
+    {
+      "question": "How did Origen interpret I Samuel 28?",
+      "options": [
+        "Literally as a moral lesson",
+        "Symbolically about Jesus",
+        "As a historical account",
+        "Metaphorically about Israel"
+      ],
+      "answer": 0,
+      "explanation": "Origen insisted on a literal reading to teach Christians about afterlife."
+    },
+    {
+      "question": "What was the Reformation's stance on scripture?",
+      "options": [
+        "Church tradition as authority",
+        "Allegorical readings preferred",
+        "Literal readings rejected",
+        "Scripture alone as authority"
+      ],
+      "answer": 3,
+      "explanation": "The Reformation emphasized 'sola scriptura' or scripture alone as the authority."
+    },
+    {
+      "question": "What is a limitation of historical criticism?",
+      "options": [
+        "It ignores original languages",
+        "It cannot prevent differing interpretations",
+        "It relies on church authority",
+        "It excludes allegorical meanings"
+      ],
+      "answer": 1,
+      "explanation": "Even using the same method, scholars can have varying interpretations."
+    },
+    {
+      "question": "What does 'lectio divina' involve?",
+      "options": [
+        "Analytical textual criticism",
+        "Historical context analysis",
+        "Praying using scripture words",
+        "Canonical comparison"
+      ],
+      "answer": 2,
+      "explanation": "It is a practice of praying by using the words of scripture as personal prayer."
+    },
+    {
+      "question": "Why is it important to include diverse interpretations?",
+      "options": [
+        "To enrich understanding",
+        "To maintain traditional views",
+        "To align with church doctrine",
+        "To simplify biblical texts"
+      ],
+      "answer": 0,
+      "explanation": "Diverse interpretations like feminist or queer readings enrich understanding."
+    },
+    {
+      "question": "What does 'sensus literalis' mean?",
+      "options": [
+        "Prophetic interpretation",
+        "Allegorical sense",
+        "Moral teachings",
+        "Literal sense of scripture"
+      ],
+      "answer": 3,
+      "explanation": "It refers to the literal sense of scripture emphasized during the Reformation."
+    },
+    {
+      "question": "What is 'synkrisis' in biblical interpretation?",
+      "options": [
+        "Historical account of Jesus' life",
+        "Comparison of Christ and Jewish liturgies",
+        "Moral lesson for Christians",
+        "Allegorical reading of Psalms"
+      ],
+      "answer": 1,
+      "explanation": "It compares Christ's liturgy with Jewish liturgy to show superiority."
+    },
+    {
+      "question": "Why is understanding historical context important in biblical studies?",
+      "options": [
+        "To simplify scripture",
+        "To align with church teachings",
+        "To understand original meaning",
+        "To focus on modern application"
+      ],
+      "answer": 2,
+      "explanation": "Historical context helps uncover the original intent of biblical authors."
+    },
+    {
+      "question": "What does 'eisegesis' refer to?",
+      "options": [
+        "Reading into the text",
+        "Critical analysis of text",
+        "Literal interpretation",
+        "Historical context study"
+      ],
+      "answer": 0,
+      "explanation": "Eisegesis involves reading into the text something not originally present."
+    },
+    {
+      "question": "What was Augustine's approach to Genesis 1?",
+      "options": [
+        "Literal and historical",
+        "Prophetic and symbolic",
+        "Moral and ethical",
+        "Allegorical and Trinitarian"
+      ],
+      "answer": 3,
+      "explanation": "Augustine interpreted Genesis 1 allegorically to see the Trinity in creation."
+    },
+    {
+      "question": "How did Bernard of Clairvaux interpret the Song of Songs?",
+      "options": [
+        "Literally as a love poem",
+        "Allegorically with homoerotic elements",
+        "Historically as a prophecy",
+        "Ethically for moral teaching"
+      ],
+      "answer": 1,
+      "explanation": "Bernard used the Song of Songs' eroticism allegorically, even introducing homoerotic elements."
+    },
+    {
+      "question": "Why does Professor Martin emphasize diverse methods?",
+      "options": [
+        "To simplify biblical interpretation",
+        "To align with modern church doctrine",
+        "To enrich understanding and cultural significance",
+        "To focus only on historical accuracy"
+      ],
+      "answer": 2,
+      "explanation": "Diverse methods enrich understanding and highlight the Bible's cultural impact."
+    },
+    {
+      "question": "What is a key presupposition of historical criticism?",
+      "options": [
+        "Avoidance of anachronism",
+        "Focus on allegorical meanings",
+        "Emphasis on modern application",
+        "Reliance on church authority"
+      ],
+      "answer": 0,
+      "explanation": "Historical criticism avoids anachronism to ensure accurate interpretation."
+    },
+    {
+      "question": "How does historical criticism view the Bible?",
+      "options": [
+        "As a single unified book",
+        "As purely allegorical",
+        "As a modern ethical guide",
+        "As a library of texts"
+      ],
+      "answer": 3,
+      "explanation": "It views the Bible as a library of texts, each studied individually."
+    },
+    {
+      "question": "What does 'anagogical sense' mean?",
+      "options": [
+        "Literal historical account",
+        "Leading to higher moral understanding",
+        "Allegorical story of Israel",
+        "Prophetic prediction"
+      ],
+      "answer": 1,
+      "explanation": "Anagogical sense refers to a reading that leads to higher spiritual or moral understanding."
+    }
+  ],
+  "basis": "transcript",
+  "sourceUrl": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-22",
+  "sourceNote": "Prepared from the complete published lecture transcript. Independent study questions, not Yale assessments. Interpretive positions belong to the lecturer.",
+  "preparedBy": "AI-assisted preparation, one-time static publication",
+  "status": "published",
+  "readings": [],
+  "sourceHash": "9986d8c87a528bfa8e2407f3b55acd987b63e3e054032fd4c867a1c35e36dcd4"
+}

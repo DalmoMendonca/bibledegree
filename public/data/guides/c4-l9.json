@@ -1,0 +1,281 @@
+{
+  "summary": "The lecture by Professor Dale Martin explores the Gospel of Luke and Acts as a unified two-volume work by the same author. Professor Martin, a noted scholar in New Testament studies, explains how almost no scholars dispute the common authorship of these texts. The Gospel of Luke is not an eyewitness account; instead, it is a compilation of various written and oral sources, including Mark and possibly Q. Luke's prologue sets the stage for a narrative that is both a 'bios' of Jesus and a historical account by ancient standards, though not necessarily by modern ones. Luke and Acts are structured to highlight themes such as Jesus' Jewish piety, the role of the Holy Spirit, and the message of salvation extending to the gentiles. The narrative begins in Galilee, focuses on Jerusalem, and then expands outward, illustrating the Gospel's journey from a Jewish context to a universal one. This structure is intentional, demonstrating thematic rather than chronological storytelling. The lecture also discusses the literary techniques Luke employs, such as moving Jesus' inaugural sermon to emphasize thematic elements. These texts are analyzed not just for their historical claims but for their theological messages, such as the rejection of prophets and the spread of the Gospel to gentiles, which are foreshadowed in Luke and fully developed in Acts.",
+  "keyIdeas": [
+    {
+      "title": "Common Authorship",
+      "explanation": "Luke and Acts are written by the same author, a widely accepted view among scholars."
+    },
+    {
+      "title": "Non-Eyewitness Account",
+      "explanation": "The author of Luke is not an eyewitness but compiles information from various sources."
+    },
+    {
+      "title": "Literary Form and Structure",
+      "explanation": "Luke and Acts are structured to be a 'bios' and a historical account, though not in a modern sense."
+    },
+    {
+      "title": "Thematic Focus",
+      "explanation": "Themes include Jesus' Jewishness, the Holy Spirit, and the expansion of the Gospel to gentiles."
+    },
+    {
+      "title": "Narrative Geography",
+      "explanation": "The narrative begins in Galilee, focuses on Jerusalem, and then moves outward to the gentiles."
+    },
+    {
+      "title": "Theological Messaging",
+      "explanation": "The author emphasizes themes like prophetic rejection and the Gospel's spread beyond Judaism."
+    }
+  ],
+  "terms": [
+    {
+      "term": "Bios",
+      "definition": "A genre of literature about a great man, not a modern biography."
+    },
+    {
+      "term": "Theophilus",
+      "definition": "The recipient of Luke, possibly a patron or a symbolic name for God-lovers."
+    },
+    {
+      "term": "Synoptic Problem",
+      "definition": "The issue of how the Gospels of Matthew, Mark, and Luke relate to each other."
+    },
+    {
+      "term": "Q Source",
+      "definition": "A hypothetical written source for the Gospels of Matthew and Luke."
+    },
+    {
+      "term": "Holy Spirit",
+      "definition": "A major actor in the book of Acts, guiding the spread of the Gospel."
+    },
+    {
+      "term": "Gentile Mission",
+      "definition": "The spread of the Gospel to non-Jews, a key theme in Acts."
+    }
+  ],
+  "mastery": [
+    {
+      "question": "What literary genre does Luke's Gospel resemble?",
+      "answer": "A 'bios', a life story of a great man."
+    },
+    {
+      "question": "Why is Theophilus mentioned in Luke's prologue?",
+      "answer": "Possibly as a patron or symbolic for God-lovers."
+    },
+    {
+      "question": "What is the significance of Jesus' inaugural sermon in Luke?",
+      "answer": "It sets thematic elements such as prophetic rejection and the mission to gentiles."
+    },
+    {
+      "question": "What role does the Holy Spirit play in Acts?",
+      "answer": "The Holy Spirit is the main actor, guiding the spread of the Gospel."
+    },
+    {
+      "question": "How does Luke's narrative geography progress?",
+      "answer": "From Galilee to Jerusalem, then outward to the gentiles."
+    },
+    {
+      "question": "What does the term 'orderly account' imply in Luke?",
+      "answer": "A structured narrative, not necessarily chronological."
+    },
+    {
+      "question": "How does the Gospel of Luke end?",
+      "answer": "In Jerusalem, focusing on the Jewish context."
+    },
+    {
+      "question": "What is the 'time of the Gentiles' according to Luke?",
+      "answer": "A period after Jerusalem's fall, leading to gentile domination."
+    }
+  ],
+  "reflection": [
+    "How does Luke's approach to storytelling differ from modern historical accounts?",
+    "What are the implications of Luke's narrative structure for understanding early Christianity?",
+    "In what ways does Luke's portrayal of Jesus reflect Jewish traditions?",
+    "How does the Gospel of Luke prepare readers for the themes in Acts?",
+    "What can we infer about the author's intentions through the geographical progression in Acts?"
+  ],
+  "quiz": [
+    {
+      "question": "What is the primary focus of Luke's Gospel?",
+      "options": [
+        "Chronological historical accuracy",
+        "The life of Paul",
+        "Jesus' Jewish piety and prophetic role",
+        "Detailed genealogies"
+      ],
+      "answer": 2,
+      "explanation": "The Gospel emphasizes Jesus' Jewish piety and prophetic role, not strict chronology."
+    },
+    {
+      "question": "Why is Luke considered a 'bios'?",
+      "options": [
+        "It tells the life story of Jesus.",
+        "It follows the structure of a modern biography.",
+        "It is written by a biologist.",
+        "It includes scientific observations."
+      ],
+      "answer": 0,
+      "explanation": "A 'bios' is a life story of a great man, fitting the narrative style of Luke."
+    },
+    {
+      "question": "What is the significance of Theophilus in Luke's Gospel?",
+      "options": [
+        "He is an apostle.",
+        "He funds the Gospel's writing.",
+        "He is a Roman official.",
+        "He represents all God-lovers."
+      ],
+      "answer": 3,
+      "explanation": "Theophilus could be a symbolic name for God-lovers or an actual patron."
+    },
+    {
+      "question": "What does 'orderly account' mean in Luke?",
+      "options": [
+        "Chronological sequence",
+        "A structured narrative form",
+        "A more accurate historical account",
+        "A list of events"
+      ],
+      "answer": 1,
+      "explanation": "The term refers to a structured narrative, not necessarily chronological or historically accurate."
+    },
+    {
+      "question": "How does Luke's Gospel end?",
+      "options": [
+        "In Galilee",
+        "In Rome",
+        "In Jerusalem",
+        "In Antioch"
+      ],
+      "answer": 2,
+      "explanation": "Luke's Gospel ends in Jerusalem, focusing on the Jewish context before Acts begins."
+    },
+    {
+      "question": "What role does the Holy Spirit play in Acts?",
+      "options": [
+        "The main actor",
+        "A minor character",
+        "A historical figure",
+        "A Jewish prophet"
+      ],
+      "answer": 0,
+      "explanation": "The Holy Spirit is the main actor in Acts, guiding the spread of the Gospel."
+    },
+    {
+      "question": "What is the 'time of the Gentiles' according to Luke?",
+      "options": [
+        "A brief moment after Jesus' death",
+        "An era of Jewish dominance",
+        "A time of Roman occupation",
+        "A period after Jerusalem's fall"
+      ],
+      "answer": 3,
+      "explanation": "The 'time of the Gentiles' refers to the period after Jerusalem's fall and during Gentile domination."
+    },
+    {
+      "question": "What is the significance of Jesus' inaugural sermon in Luke?",
+      "options": [
+        "It marks his final sermon.",
+        "It foreshadows themes in Acts.",
+        "It is a direct quote from Mark.",
+        "It focuses solely on miracles."
+      ],
+      "answer": 1,
+      "explanation": "The inaugural sermon foreshadows themes such as prophetic rejection and the mission to gentiles."
+    },
+    {
+      "question": "How does Luke treat the chronology of events?",
+      "options": [
+        "Follows Mark exactly",
+        "Chronologically accurate",
+        "Focuses on thematic arrangement",
+        "Ignores historical context"
+      ],
+      "answer": 2,
+      "explanation": "Luke focuses on thematic arrangement rather than strict chronological accuracy."
+    },
+    {
+      "question": "What does the term 'bios' signify in Luke's context?",
+      "options": [
+        "A genre about great men",
+        "A biological study",
+        "An autobiography",
+        "A fictional narrative"
+      ],
+      "answer": 0,
+      "explanation": "'Bios' is a literary genre about great men, fitting the narrative of Jesus' life in Luke."
+    },
+    {
+      "question": "Who is the first Gentile convert in Acts?",
+      "options": [
+        "A Greek philosopher",
+        "A Jewish Rabbi",
+        "An Egyptian scribe",
+        "A Roman Centurion"
+      ],
+      "answer": 3,
+      "explanation": "Cornelius, the Roman Centurion, is the first Gentile convert in Acts."
+    },
+    {
+      "question": "What is Luke's view on historicity?",
+      "options": [
+        "Strict adherence to facts",
+        "Focus on theological themes",
+        "An unbiased historical account",
+        "Complete disregard for truth"
+      ],
+      "answer": 1,
+      "explanation": "Luke emphasizes theological themes over strict historical accuracy."
+    },
+    {
+      "question": "What theme is central to Luke's narrative?",
+      "options": [
+        "Economic policies",
+        "Military strategies",
+        "Reversal of social order",
+        "Natural disasters"
+      ],
+      "answer": 2,
+      "explanation": "Luke focuses on the reversal of social order, lifting the poor and humbling the rich."
+    },
+    {
+      "question": "What does the 'orderly account' claim in Luke imply?",
+      "options": [
+        "A structured narrative",
+        "An exact timeline",
+        "A legal document",
+        "A poetic work"
+      ],
+      "answer": 0,
+      "explanation": "The 'orderly account' implies a structured narrative, not an exact timeline."
+    },
+    {
+      "question": "What is the importance of Jerusalem in Luke-Acts?",
+      "options": [
+        "It is ignored.",
+        "It is only mentioned in Acts.",
+        "It is the final destination.",
+        "It is the starting point for the Gospel."
+      ],
+      "answer": 3,
+      "explanation": "Jerusalem is the focal point in Luke-Acts, from where the Gospel spreads."
+    },
+    {
+      "question": "How does Luke handle sources?",
+      "options": [
+        "He creates entirely new stories.",
+        "He compiles and edits existing sources.",
+        "He only uses oral traditions.",
+        "He disregards previous writings."
+      ],
+      "answer": 1,
+      "explanation": "Luke compiles and edits existing sources to craft his narrative."
+    }
+  ],
+  "basis": "transcript",
+  "sourceUrl": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-9",
+  "sourceNote": "Prepared from the complete published lecture transcript. Independent study questions, not Yale assessments. Interpretive positions belong to the lecturer.",
+  "preparedBy": "AI-assisted preparation, one-time static publication",
+  "status": "published",
+  "readings": [],
+  "sourceHash": "47501a00b51b5af368b3db252f02e8dddeade3710f3d186e0f5a89b4bf093dfd"
+}

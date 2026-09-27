@@ -1,0 +1,281 @@
+{
+  "summary": "Professor Dale Martin explores how Christianity evolved from a small Jewish sect to a major world religion. Initially, followers of Jesus did not see themselves as starting a new religion but as continuing Judaism. Over time, the gospel about Jesus, rather than his teachings, became central. The spread of Christianity involved significant diversity, with different groups interpreting Jesus' role and message in various ways. The second century saw the development of Christian scriptures, separation from Judaism, and the rise of different Christian sects like Gnosticism and Marcionism. Figures such as Valentinus and Montanus contributed to diverse theological views. The third century introduced monasticism and empire-wide persecution, while scholars like Origen advanced Christian scholarship. By the fourth century, Constantine's influence and the Council of Nicaea sought to unify Christian doctrine, leading to the establishment of orthodox Christianity. The concept of Christianity as a 'world religion' emerged in the twentieth century, shaped by colonialism and global missionary activities. Despite its ancient roots, Christianity's global identity was solidified much later through cultural and political developments.",
+  "keyIdeas": [
+    {
+      "title": "Transformation from Jewish Sect",
+      "explanation": "Christianity began as a Jewish movement, with early followers seeing themselves as continuing Judaism rather than creating a new religion."
+    },
+    {
+      "title": "Shift to Gospel about Jesus",
+      "explanation": "After Jesus' death, the focus shifted from his teachings to the gospel about him, emphasizing his identity and significance."
+    },
+    {
+      "title": "Diversity and Sect Development",
+      "explanation": "Early Christianity was marked by diversity, with sects like Gnosticism and Marcionism offering different theological interpretations."
+    },
+    {
+      "title": "Monasticism and Persecution",
+      "explanation": "The third century saw the rise of monasticism and empire-wide persecution, which significantly impacted Christian practices and structures."
+    },
+    {
+      "title": "Council of Nicaea",
+      "explanation": "Constantine's efforts to unify Christianity led to the Council of Nicaea, which aimed to establish orthodox Christian doctrine."
+    },
+    {
+      "title": "World Religion Concept",
+      "explanation": "The term 'world religion' emerged in the twentieth century, influenced by colonialism and global missionary activities, defining Christianity's global identity."
+    }
+  ],
+  "terms": [
+    {
+      "term": "Gnosticism",
+      "definition": "A diverse set of early Christian sects with elaborate mythologies, often emphasizing secret knowledge."
+    },
+    {
+      "term": "Monasticism",
+      "definition": "A religious way of life characterized by asceticism and communal living, emerging prominently in the third century."
+    },
+    {
+      "term": "Council of Nicaea",
+      "definition": "A pivotal church council in 325 AD convened by Constantine to establish Christian orthodoxy, resulting in the Nicene Creed."
+    },
+    {
+      "term": "Martyrdom",
+      "definition": "The act of suffering death for one's religious beliefs, which became ideologically significant in early Christianity."
+    },
+    {
+      "term": "Valentinus",
+      "definition": "An influential Christian thinker in the second century known for philosophical and theological contributions."
+    },
+    {
+      "term": "World Religion",
+      "definition": "A term used in the twentieth century to classify religions with a global presence, including Christianity."
+    }
+  ],
+  "mastery": [
+    {
+      "question": "How did early Christians view their relationship with Judaism?",
+      "answer": "They saw themselves as continuing Judaism, not creating a new religion."
+    },
+    {
+      "question": "What was the focus of early Christian teachings?",
+      "answer": "The focus shifted from Jesus' teachings to the gospel about him."
+    },
+    {
+      "question": "How did Constantine influence Christianity?",
+      "answer": "He convened the Council of Nicaea to unify Christian doctrine."
+    },
+    {
+      "question": "What role did Origen play in early Christianity?",
+      "answer": "Origen was a significant biblical scholar, advancing Christian scholarship."
+    },
+    {
+      "question": "What characterized second-century Christianity?",
+      "answer": "It was marked by diversity, with different sects and theological interpretations."
+    },
+    {
+      "question": "How did the concept of 'world religion' emerge?",
+      "answer": "It developed in the twentieth century, influenced by colonialism and global missions."
+    },
+    {
+      "question": "What was the impact of monasticism in the third century?",
+      "answer": "Monasticism became crucial for preserving texts and religious practices."
+    },
+    {
+      "question": "Why was martyrdom significant in early Christianity?",
+      "answer": "Martyrdom developed an ideology that emphasized bravery and closeness to God."
+    }
+  ],
+  "reflection": [
+    "How does understanding early Christian diversity challenge modern perceptions of Christianity?",
+    "In what ways did political power influence the development of Christian doctrine?",
+    "What are the implications of viewing Christianity as a 'world religion'?",
+    "How do early Christian sects like Gnosticism inform contemporary religious studies?",
+    "What role did monasticism play in shaping medieval European culture?"
+  ],
+  "quiz": [
+    {
+      "question": "What was the initial perception of Christianity by its early followers?",
+      "options": [
+        "A completely new religion",
+        "A philosophical movement",
+        "A continuation of Judaism",
+        "A political ideology"
+      ],
+      "answer": 2,
+      "explanation": "Early Christians saw themselves as continuing Judaism, not starting a new religion."
+    },
+    {
+      "question": "What was the primary message of the historical Jesus?",
+      "options": [
+        "The coming kingdom of God",
+        "His own divinity",
+        "The need for new scriptures",
+        "The importance of the Roman Empire"
+      ],
+      "answer": 0,
+      "explanation": "Jesus primarily spoke about the kingdom of God, not himself."
+    },
+    {
+      "question": "How did the role of bishops change in the second century?",
+      "options": [
+        "They were abolished",
+        "They lost influence",
+        "They became secular leaders",
+        "They became monarchical figures"
+      ],
+      "answer": 3,
+      "explanation": "Bishops became like monarchs, ruling over town areas."
+    },
+    {
+      "question": "What was a significant second-century development in Christian scripture?",
+      "options": [
+        "Establishment of the New Testament canon",
+        "Collection of Paul's letters",
+        "Creation of a Christian Bible",
+        "Elimination of non-Christian texts"
+      ],
+      "answer": 1,
+      "explanation": "The collection of Paul's letters was a key development."
+    },
+    {
+      "question": "What did Marcion advocate regarding the Christian canon?",
+      "options": [
+        "Inclusion of all Jewish texts",
+        "A single unified scripture",
+        "Exclusion of Jewish elements",
+        "A focus on the Old Testament"
+      ],
+      "answer": 2,
+      "explanation": "Marcion edited texts to remove Jewish elements."
+    },
+    {
+      "question": "How did early Christianity view martyrdom?",
+      "options": [
+        "As a path to heaven",
+        "As a form of defeat",
+        "As a political statement",
+        "As unnecessary"
+      ],
+      "answer": 0,
+      "explanation": "Martyrdom was seen as leading directly to heaven."
+    },
+    {
+      "question": "What characterized the monastic movement in the third century?",
+      "options": [
+        "Emphasis on wealth",
+        "Political engagement",
+        "Urban development",
+        "Isolation and asceticism"
+      ],
+      "answer": 3,
+      "explanation": "Monasticism emphasized isolation and ascetic practices."
+    },
+    {
+      "question": "What was the focus of Origen's scholarship?",
+      "options": [
+        "Political theory",
+        "Biblical commentary",
+        "Military strategy",
+        "Economic reform"
+      ],
+      "answer": 1,
+      "explanation": "Origen was known for his extensive biblical commentaries."
+    },
+    {
+      "question": "What major shift occurred in the fourth century under Constantine?",
+      "options": [
+        "Abolition of Christianity",
+        "Separation of church and state",
+        "Unification of Christian doctrine",
+        "Expansion of the Roman Empire"
+      ],
+      "answer": 2,
+      "explanation": "Constantine aimed to unify Christian doctrine through councils."
+    },
+    {
+      "question": "How did the concept of 'world religion' develop?",
+      "options": [
+        "In the twentieth century",
+        "In ancient Rome",
+        "During the Reformation",
+        "In the Middle Ages"
+      ],
+      "answer": 0,
+      "explanation": "The term 'world religion' was coined in the twentieth century."
+    },
+    {
+      "question": "What did the Nicene Creed establish?",
+      "options": [
+        "New Testament canon",
+        "End of monasticism",
+        "Roman political power",
+        "Trinitarian theology"
+      ],
+      "answer": 3,
+      "explanation": "The Nicene Creed established Trinitarian theology."
+    },
+    {
+      "question": "What role did philosophy play in early Christianity?",
+      "options": [
+        "It was rejected",
+        "It influenced Christian theology",
+        "It was unknown",
+        "It replaced scripture"
+      ],
+      "answer": 1,
+      "explanation": "Philosophy, especially Platonism, influenced Christian theology."
+    },
+    {
+      "question": "Who was Justin Martyr?",
+      "options": [
+        "A Roman emperor",
+        "A Gnostic leader",
+        "A Christian philosopher",
+        "A Jewish prophet"
+      ],
+      "answer": 2,
+      "explanation": "Justin Martyr was a significant early Christian philosopher."
+    },
+    {
+      "question": "What was a major criticism by non-Christians like Galen?",
+      "options": [
+        "Christians were superstitious",
+        "Christians were too educated",
+        "Christians were politically powerful",
+        "Christians were economically dominant"
+      ],
+      "answer": 0,
+      "explanation": "Galen criticized Christians as superstitious and uneducated."
+    },
+    {
+      "question": "Why did some scholars believe Christianity grew before Constantine?",
+      "options": [
+        "Military conquests",
+        "Political alliances",
+        "Economic prosperity",
+        "Effective healing and exorcism"
+      ],
+      "answer": 3,
+      "explanation": "Some attribute growth to Christians being effective healers and exorcists."
+    },
+    {
+      "question": "What was a key reason for Roman persecution of Christians?",
+      "options": [
+        "Economic disputes",
+        "Religious nonconformity",
+        "Political ambitions",
+        "Cultural assimilation"
+      ],
+      "answer": 1,
+      "explanation": "Christians refused to sacrifice to Roman gods, seen as a threat."
+    }
+  ],
+  "basis": "transcript",
+  "sourceUrl": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-26",
+  "sourceNote": "Prepared from the complete published lecture transcript. Independent study questions, not Yale assessments. Interpretive positions belong to the lecturer.",
+  "preparedBy": "AI-assisted preparation, one-time static publication",
+  "status": "published",
+  "readings": [],
+  "sourceHash": "e22a0c82c8c0565805a53195328030529ae346bcd5b59bea6a62d58810ed5d19"
+}

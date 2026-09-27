@@ -1,0 +1,281 @@
+{
+  "summary": "In Lecture 18 of the Yale course on New Testament History and Literature, Professor Dale Martin discusses the diversity of early Christian attitudes towards Jewish law and Christology. Martin, a respected scholar, highlights how different Christian texts, such as those by Matthew, Luke, and Paul, present varied interpretations of the law. Matthew's Gospel suggests adherence to Jewish law, while Luke/Acts views it as ethnic customs, and Paul forbids Gentile Christians from following it. The lecture also explores different Christologies, particularly debates on whether Jesus was always divine or became divine at a specific point, like his resurrection. Professor Martin references Bart Ehrman’s work, emphasizing textual variations and their implications for understanding early Christian beliefs. The lecture also examines the book of James, which presents Jewish wisdom literature and contrasts with Paul's teachings on faith and works. James argues for a faith that manifests in works, particularly justice for the poor, differing from Paul’s view where faith is more about trust in God. Martin suggests these differences may not represent direct opposition but rather different definitions and contexts for faith and works. The lecture concludes with an invitation to consider these theological complexities in historical terms, encouraging critical reflection on how early Christian diversity shaped what later became orthodox beliefs.",
+  "keyIdeas": [
+    {
+      "title": "Diversity in Early Christianity",
+      "explanation": "Early Christianity exhibited a wide range of beliefs about Jewish law, with various texts offering different interpretations."
+    },
+    {
+      "title": "Christology Debates",
+      "explanation": "The nature of Jesus' divinity was debated, with some believing he became divine at his resurrection, while others saw him as eternally divine."
+    },
+    {
+      "title": "Role of Jewish Law",
+      "explanation": "Matthew, Luke/Acts, and Paul had differing views on the relevance of Jewish law for Christians, reflecting broader early Christian diversity."
+    },
+    {
+      "title": "James and Jewish Wisdom Literature",
+      "explanation": "James is seen as an example of Jewish wisdom literature, emphasizing practical teachings and social justice."
+    },
+    {
+      "title": "Faith and Works Debate",
+      "explanation": "James presents a view that faith must be accompanied by works, particularly justice, contrasting with Paul's teachings."
+    },
+    {
+      "title": "Historical Approach to Theology",
+      "explanation": "Professor Martin encourages understanding theological texts within their historical context, acknowledging the process of shaping orthodoxy."
+    }
+  ],
+  "terms": [
+    {
+      "term": "Christology",
+      "definition": "The study of the nature and work of Christ, particularly debates on his divinity."
+    },
+    {
+      "term": "Jewish Law",
+      "definition": "The religious laws and customs of Judaism, debated in early Christianity regarding their applicability."
+    },
+    {
+      "term": "Adoptionism",
+      "definition": "The belief that Jesus was adopted as the Son of God at a specific point, such as his baptism or resurrection."
+    },
+    {
+      "term": "Wisdom Literature",
+      "definition": "A genre of ancient literature that focuses on practical and ethical teachings, often seen in the book of James."
+    },
+    {
+      "term": "Faith",
+      "definition": "In Paul's writings, a trust in God, while in James, it refers to mental acknowledgment of God's existence."
+    },
+    {
+      "term": "Works",
+      "definition": "In James, actions demonstrating justice and care for the poor; in Paul, often related to Jewish law observance."
+    }
+  ],
+  "mastery": [
+    {
+      "question": "What are some differing views on Jewish law in early Christianity?",
+      "answer": "Matthew sees it as essential, Luke/Acts as ethnic customs, and Paul discourages Gentile observance."
+    },
+    {
+      "question": "How does the book of James differ from Paul's teachings on faith and works?",
+      "answer": "James emphasizes that faith must be accompanied by works, particularly justice, contrasting with Paul's focus on faith alone."
+    },
+    {
+      "question": "What is the significance of Christology in early Christian debates?",
+      "answer": "Christology addressed the nature of Jesus' divinity, with debates on whether he was always divine or became divine."
+    },
+    {
+      "question": "How does Professor Martin view the development of Christian orthodoxy?",
+      "answer": "He sees it as a historical process of struggle and diversity rather than a static, pre-defined belief system."
+    },
+    {
+      "question": "What is the role of wisdom literature in the book of James?",
+      "answer": "It uses practical and ethical teachings common in Jewish wisdom literature, emphasizing justice and proper conduct."
+    },
+    {
+      "question": "What does Bart Ehrman suggest about textual variations in the New Testament?",
+      "answer": "He argues some variations may reflect early Christological debates, such as whether Jesus was adopted as God's Son."
+    },
+    {
+      "question": "How might early Christians have viewed Jesus' divinity?",
+      "answer": "Some believed he was always divine, others thought he became divine at his resurrection or baptism."
+    },
+    {
+      "question": "Why does James focus on justice in his teachings?",
+      "answer": "James addresses a community that is poor and oppressed, emphasizing justice as a necessary complement to faith."
+    }
+  ],
+  "reflection": [
+    "How do different interpretations of Jewish law reflect broader early Christian diversity?",
+    "In what ways might our understanding of Jesus' divinity influence modern Christian beliefs?",
+    "How can examining historical context enhance our understanding of theological texts?",
+    "What are the implications of viewing James as Jewish wisdom literature?",
+    "How do the different definitions of faith and works in James and Paul shape their theological arguments?"
+  ],
+  "quiz": [
+    {
+      "question": "What does Matthew's Gospel suggest about Jewish law?",
+      "options": [
+        "It is irrelevant to Christians.",
+        "It is only for Jews.",
+        "It should be observed by followers.",
+        "It should be completely abolished."
+      ],
+      "answer": 2,
+      "explanation": "Matthew implies that Jewish law is to be observed, interpreted differently but not abolished."
+    },
+    {
+      "question": "What is a key feature of the book of James?",
+      "options": [
+        "Jewish wisdom literature.",
+        "A new revelation about Christ.",
+        "A focus on Gentile laws.",
+        "A rejection of all works."
+      ],
+      "answer": 0,
+      "explanation": "James is seen as a representation of Jewish wisdom literature, emphasizing practical teachings."
+    },
+    {
+      "question": "How does Paul view the law in Galatians?",
+      "options": [
+        "It should be strictly observed.",
+        "It is the path to salvation.",
+        "It is irrelevant to everyone.",
+        "It cuts off grace."
+      ],
+      "answer": 3,
+      "explanation": "Paul teaches that seeking justification through the law cuts off grace, emphasizing faith instead."
+    },
+    {
+      "question": "What Christological belief did some early Christians hold?",
+      "options": [
+        "Jesus was never divine.",
+        "Jesus became divine at his resurrection.",
+        "Jesus was only a prophet.",
+        "Jesus was always human."
+      ],
+      "answer": 1,
+      "explanation": "Some early Christians believed Jesus became divine at his resurrection, a debated Christology."
+    },
+    {
+      "question": "What does 'faith' represent for Paul?",
+      "options": [
+        "Mental acknowledgment.",
+        "Religious ritual.",
+        "Trust in God.",
+        "A scientific proposition."
+      ],
+      "answer": 2,
+      "explanation": "For Paul, faith is more about trust in God than mere belief in propositions."
+    },
+    {
+      "question": "What does James argue about faith without works?",
+      "options": [
+        "It is dead.",
+        "It is sufficient.",
+        "It is superior to works.",
+        "It is the only path to salvation."
+      ],
+      "answer": 0,
+      "explanation": "James argues that faith without works is dead, emphasizing the necessity of action."
+    },
+    {
+      "question": "How does the Gospel of John view Jesus' divinity?",
+      "options": [
+        "Jesus became divine at baptism.",
+        "Jesus was never divine.",
+        "Jesus became divine at resurrection.",
+        "Jesus was always divine."
+      ],
+      "answer": 3,
+      "explanation": "The Gospel of John portrays Jesus as always divine, aligning with later orthodox beliefs."
+    },
+    {
+      "question": "What is Professor Martin's view on the development of Christian orthodoxy?",
+      "options": [
+        "A sudden divine revelation.",
+        "A historical process of struggle.",
+        "A unified early agreement.",
+        "A decision by one council."
+      ],
+      "answer": 1,
+      "explanation": "Martin emphasizes the historical process and struggle involved in forming orthodox beliefs."
+    },
+    {
+      "question": "What is the significance of the phrase 'today I have begotten you' in Luke?",
+      "options": [
+        "It denies Jesus' divinity.",
+        "It affirms Jesus' eternal divinity.",
+        "It implies Jesus became God's Son at baptism.",
+        "It is irrelevant to Christology."
+      ],
+      "answer": 2,
+      "explanation": "The phrase suggests an adoptionist view, where Jesus becomes God's Son at baptism."
+    },
+    {
+      "question": "What was Marcion's stance on Jewish scriptures?",
+      "options": [
+        "He rejected them entirely.",
+        "He embraced them fully.",
+        "He selectively edited them.",
+        "He ignored them."
+      ],
+      "answer": 0,
+      "explanation": "Marcion rejected Jewish scriptures, creating his own edited canon excluding them."
+    },
+    {
+      "question": "What does James emphasize in his teachings?",
+      "options": [
+        "Ritual observance.",
+        "Mystical experiences.",
+        "Complete isolation.",
+        "Justice for the poor."
+      ],
+      "answer": 3,
+      "explanation": "James focuses on justice for the poor, reflecting his wisdom literature style."
+    },
+    {
+      "question": "What is the main argument of James against certain Christians?",
+      "options": [
+        "Works alone lead to salvation.",
+        "Faith without works is inadequate.",
+        "Faith alone is sufficient.",
+        "Scripture should be ignored."
+      ],
+      "answer": 1,
+      "explanation": "James argues that faith without works is inadequate, contrasting with interpretations of Paul's teachings."
+    },
+    {
+      "question": "How do some scholars reconcile Paul and James' teachings?",
+      "options": [
+        "Complete agreement on all points.",
+        "Irreconcilable differences.",
+        "Different definitions of faith and works.",
+        "Personal animosity."
+      ],
+      "answer": 2,
+      "explanation": "Some scholars argue they have different definitions, leading to apparent contradictions."
+    },
+    {
+      "question": "What role does wisdom literature play in James?",
+      "options": [
+        "It provides practical ethical teachings.",
+        "It introduces new theological concepts.",
+        "It focuses on ritual purity.",
+        "It disregards traditional knowledge."
+      ],
+      "answer": 0,
+      "explanation": "James utilizes wisdom literature to provide practical ethical teachings, common in Jewish tradition."
+    },
+    {
+      "question": "What was the charge against Jesus leading to his execution?",
+      "options": [
+        "Performing miracles.",
+        "Blasphemy.",
+        "Disrupting the peace.",
+        "Claiming to be a king."
+      ],
+      "answer": 3,
+      "explanation": "Jesus was executed on the charge of claiming to be a king, a political accusation."
+    },
+    {
+      "question": "What does the diversity in early Christianity highlight?",
+      "options": [
+        "A single unified belief system.",
+        "Various interpretations of law and Christology.",
+        "A rejection of all Jewish traditions.",
+        "A focus on ritual sacrifice."
+      ],
+      "answer": 1,
+      "explanation": "The diversity highlights various interpretations of law and Christology within early Christian communities."
+    }
+  ],
+  "basis": "transcript",
+  "sourceUrl": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-18",
+  "sourceNote": "Prepared from the complete published lecture transcript. Independent study questions, not Yale assessments. Interpretive positions belong to the lecturer.",
+  "preparedBy": "AI-assisted preparation, one-time static publication",
+  "status": "published",
+  "readings": [],
+  "sourceHash": "73e8b7bcea8e602fe1ae11cb93b0a222aeb1563289582f1b6fb63c1359a245c5"
+}

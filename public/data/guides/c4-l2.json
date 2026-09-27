@@ -1,0 +1,281 @@
+{
+  "summary": "In Lecture 2 of 'Introduction to the New Testament History and Literature,' Professor Dale Martin explores the distinction between scripture and canon. Scripture refers to writings considered holy by a community, whereas canon is a definitive list of texts. The lecture traces the development of the New Testament canon, beginning with Paul's letters, the earliest Christian writings. These letters were circulated and imitated, leading to their acceptance as scripture. The gospels, initially oral traditions, were later documented, with Mark being the first around 70 CE. The canon was influenced by figures like Marcion, who proposed a limited set of texts, sparking debates on what should be included. Over time, consensus formed around the four gospels: Matthew, Mark, Luke, and John, although many texts were considered. Factors influencing inclusion were apostolic authorship, general acceptance, and theological compatibility with proto-orthodox Christianity. The invention of the codex also played a crucial role, allowing for easier compilation and comparison of texts. The canon was not universally agreed upon immediately, and variations exist across different Christian traditions to this day. Professor Martin emphasizes that theological appropriateness was a key criterion, reflecting the views of early Christian leaders who shaped what became orthodox Christianity.",
+  "keyIdeas": [
+    {
+      "title": "Scripture vs. Canon",
+      "explanation": "Scripture is any holy writing, while canon is a definitive list of texts a religious community adheres to."
+    },
+    {
+      "title": "Development of Christian Texts",
+      "explanation": "Paul's letters were the earliest Christian writings, later regarded as scripture and forming the basis of the New Testament."
+    },
+    {
+      "title": "Influence of Oral Tradition",
+      "explanation": "The gospels originated from oral traditions about Jesus, which were later documented, starting with Mark around 70 CE."
+    },
+    {
+      "title": "Role of Marcion",
+      "explanation": "Marcion proposed a limited canon, excluding Jewish scriptures, which prompted broader debates on canon formation."
+    },
+    {
+      "title": "Criteria for Canon Inclusion",
+      "explanation": "Texts were included based on apostolic authorship, acceptance, and theological alignment with proto-orthodox Christianity."
+    },
+    {
+      "title": "Impact of the Codex",
+      "explanation": "The codex allowed for easier compilation and comparison of texts, influencing the solidification of the New Testament canon."
+    }
+  ],
+  "terms": [
+    {
+      "term": "Canon",
+      "definition": "A definitive list of sacred texts recognized by a religious community."
+    },
+    {
+      "term": "Scripture",
+      "definition": "Writings considered holy and authoritative by a religious group."
+    },
+    {
+      "term": "Proto-orthodox Christianity",
+      "definition": "Early Christian beliefs that later became recognized as orthodox."
+    },
+    {
+      "term": "Codex",
+      "definition": "An ancient manuscript in book form, made of pages sewn together."
+    },
+    {
+      "term": "Apocrypha",
+      "definition": "Texts not included in the canonical Bible, often of disputed authenticity."
+    },
+    {
+      "term": "Pseudonymous",
+      "definition": "Works written under a false name, often attributed to a famous figure."
+    }
+  ],
+  "mastery": [
+    {
+      "question": "What distinguishes scripture from canon?",
+      "answer": "Scripture is any writing considered holy, while canon is a specific list of such writings."
+    },
+    {
+      "question": "Why are Paul's letters significant in early Christianity?",
+      "answer": "They are the earliest Christian writings and were later regarded as scripture."
+    },
+    {
+      "question": "What role did Marcion play in the formation of the New Testament canon?",
+      "answer": "He proposed a limited canon, excluding Jewish scriptures, prompting broader debates."
+    },
+    {
+      "question": "How did the codex influence the New Testament canon?",
+      "answer": "It allowed easier compilation and comparison of texts, aiding canon solidification."
+    },
+    {
+      "question": "Why was apostolic authorship important for inclusion in the canon?",
+      "answer": "It linked texts to the apostles, providing credibility and historical proximity to Jesus."
+    },
+    {
+      "question": "What does 'proto-orthodox Christianity' refer to?",
+      "answer": "Beliefs that later became recognized as orthodox Christianity."
+    },
+    {
+      "question": "How did oral tradition contribute to the formation of the gospels?",
+      "answer": "Stories and sayings about Jesus were passed down orally and later documented."
+    },
+    {
+      "question": "Why is the codex considered a significant technological advancement?",
+      "answer": "It transformed scrolls into books, allowing easier access and cross-referencing of texts."
+    }
+  ],
+  "reflection": [
+    "How does understanding the distinction between scripture and canon change your view of religious texts?",
+    "What might be the implications of Marcion's exclusion of Jewish scriptures for early Christianity?",
+    "In what ways does the process of canon formation reflect broader cultural or political influences?",
+    "How does the invention of the codex compare to modern technological advancements in information dissemination?",
+    "What challenges arise from having multiple versions of a religious canon across different traditions?"
+  ],
+  "quiz": [
+    {
+      "question": "What is the primary difference between scripture and canon?",
+      "options": [
+        "Scripture is only the New Testament; canon includes all religious texts.",
+        "Scripture is a closed list; canon is an open collection.",
+        "Scripture is any holy writing; canon is a definitive list.",
+        "Scripture is always inspired; canon is not."
+      ],
+      "answer": 2,
+      "explanation": "Scripture can refer to any writing considered holy, while canon is a specific list recognized by a religious community."
+    },
+    {
+      "question": "What is the oldest material in the New Testament?",
+      "options": [
+        "The letters of Paul",
+        "The Gospel of Mark",
+        "The Book of Revelation",
+        "The Gospel of John"
+      ],
+      "answer": 0,
+      "explanation": "Paul's letters are the earliest Christian writings, predating the gospels by 20-30 years."
+    },
+    {
+      "question": "Why did Marcion exclude Jewish scriptures from his canon?",
+      "options": [
+        "He believed the Jewish God was the true God.",
+        "He thought Paul's letters were more important.",
+        "He wanted to include more gospels.",
+        "He saw the Jewish God as different from Jesus' Father."
+      ],
+      "answer": 3,
+      "explanation": "Marcion viewed the Jewish God as separate from the God of Jesus, leading him to reject Jewish scriptures."
+    },
+    {
+      "question": "What technological development helped solidify the New Testament canon?",
+      "options": [
+        "The printing press",
+        "The codex",
+        "The scroll",
+        "The digital book"
+      ],
+      "answer": 1,
+      "explanation": "The codex allowed for easier navigation and comparison of texts, influencing canon formation."
+    },
+    {
+      "question": "Which criterion was not a primary reason for including texts in the New Testament canon?",
+      "options": [
+        "Apostolic authorship",
+        "General acceptance",
+        "Inspiration",
+        "Theological alignment"
+      ],
+      "answer": 2,
+      "explanation": "Inspiration was not a primary criterion for inclusion; other factors were more significant."
+    },
+    {
+      "question": "What does 'proto-orthodox Christianity' refer to?",
+      "options": [
+        "Beliefs that later became orthodox",
+        "Christian beliefs in the first century",
+        "Early Christian beliefs later deemed heretical",
+        "A sect that rejected the New Testament"
+      ],
+      "answer": 0,
+      "explanation": "Proto-orthodox Christianity refers to early beliefs that eventually became recognized as orthodox."
+    },
+    {
+      "question": "Why were some gospels excluded from the New Testament?",
+      "options": [
+        "They were all pseudonymous",
+        "They were less popular",
+        "They were written in Hebrew",
+        "They taught heretical doctrines"
+      ],
+      "answer": 3,
+      "explanation": "Gospels teaching doctrines considered heretical were excluded from the canon."
+    },
+    {
+      "question": "What role did oral tradition play in the formation of the gospels?",
+      "options": [
+        "It was disregarded by early Christians",
+        "It contributed to the written gospels",
+        "It was the basis for all New Testament writings",
+        "It only influenced the Old Testament"
+      ],
+      "answer": 1,
+      "explanation": "Oral traditions of Jesus' sayings and stories were passed down and later documented in the gospels."
+    },
+    {
+      "question": "How did Christians respond to Marcion's proposed canon?",
+      "options": [
+        "They accepted his canon universally",
+        "They included only Jewish scriptures",
+        "They developed their own lists",
+        "They rejected all gospels"
+      ],
+      "answer": 2,
+      "explanation": "Marcion's canon prompted other Christian leaders to decide what should be included in the canon."
+    },
+    {
+      "question": "Which gospel was likely written first?",
+      "options": [
+        "Mark",
+        "Matthew",
+        "Luke",
+        "John"
+      ],
+      "answer": 0,
+      "explanation": "The Gospel of Mark is considered the earliest written gospel, around the year 70 CE."
+    },
+    {
+      "question": "Why was the codex preferred over scrolls?",
+      "options": [
+        "It was easier to transport",
+        "It contained more texts",
+        "It was cheaper to produce",
+        "It was more aesthetically pleasing"
+      ],
+      "answer": 3,
+      "explanation": "The codex allowed easier access and reference to multiple texts compared to cumbersome scrolls."
+    },
+    {
+      "question": "What factor did not influence the New Testament canon formation?",
+      "options": [
+        "Theological acceptability",
+        "Popularity among non-Christians",
+        "Proximity to Jesus",
+        "Authorship by apostles"
+      ],
+      "answer": 1,
+      "explanation": "Popularity among non-Christians did not influence the New Testament canon formation."
+    },
+    {
+      "question": "Why did early Christians read Jewish scriptures in Greek?",
+      "options": [
+        "Hebrew was forbidden",
+        "Greek was seen as holier",
+        "Greek was their first language",
+        "Hebrew scriptures were lost"
+      ],
+      "answer": 2,
+      "explanation": "Most Jews in the first century had Greek as their first language, leading to Greek scripture use."
+    },
+    {
+      "question": "How did the reformers influence the Protestant canon?",
+      "options": [
+        "By emphasizing Hebrew scriptures",
+        "By rejecting the New Testament",
+        "By accepting only Greek texts",
+        "By including all Apocrypha"
+      ],
+      "answer": 0,
+      "explanation": "Reformers returned to Hebrew texts, excluding Greek Jewish documents not in the Hebrew Bible."
+    },
+    {
+      "question": "Why is the Protestant Old Testament different from the Catholic one?",
+      "options": [
+        "Protestants accept more books",
+        "Catholics exclude the Apocrypha",
+        "Catholics follow only the Hebrew Bible",
+        "Protestants exclude Greek texts"
+      ],
+      "answer": 3,
+      "explanation": "Protestants exclude Greek Jewish documents not in the Hebrew Bible, unlike Catholics."
+    },
+    {
+      "question": "Why did the rabbis reject the Greek Bible?",
+      "options": [
+        "It was seen as less inspired",
+        "To counter Christian dominance",
+        "It was inaccurate",
+        "It was too difficult to translate"
+      ],
+      "answer": 1,
+      "explanation": "Rabbis rejected the Greek Bible partly to counter the growing influence of Christianity."
+    }
+  ],
+  "basis": "transcript",
+  "sourceUrl": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-2",
+  "sourceNote": "Prepared from the complete published lecture transcript. Independent study questions, not Yale assessments. Interpretive positions belong to the lecturer.",
+  "preparedBy": "AI-assisted preparation, one-time static publication",
+  "status": "published",
+  "readings": [],
+  "sourceHash": "cbcfaae2fdf7a43adc984e48d400146ee1ba362112317fb5d8e5e669af2a03a6"
+}

@@ -130,44 +130,44 @@
       "question": "In the lecture’s explanation, why might poorer coins remain in circulation?",
       "options": [
         "Every coin’s metal content is identical",
-        "People spend them while retaining better coins",
         "The government forbids anyone to hold valuable objects",
+        "People spend them while retaining better coins",
         "Better coins cannot be stored"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Freedman uses the tendency to hoard better money to explain how poorer currency can dominate exchange."
     },
     {
       "question": "Why was information about land and population important to Diocletian?",
       "options": [
+        "It supported more systematic assessment and collection of taxes",
         "It replaced the need for an army",
         "It established modern income-tax payroll records",
-        "It guaranteed equal wealth across the empire",
-        "It supported more systematic assessment and collection of taxes"
+        "It guaranteed equal wealth across the empire"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "Productive resources had to be assessed in an economy where wealth was not primarily represented by modern salaries."
     },
     {
       "question": "What was the tetrarchy’s basic structure?",
       "options": [
-        "Two senior emperors and two junior colleagues",
         "One emperor and three elected assemblies",
         "Four unrelated independent republics",
-        "Two emperors without designated assistants"
+        "Two emperors without designated assistants",
+        "Two senior emperors and two junior colleagues"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "The Augusti and Caesars distributed responsibility, though cooperation and succession remained problematic."
     },
     {
       "question": "Which distinction best describes Diocletian’s reforming stance?",
       "options": [
         "Revolutionary goals pursued without administrative change",
-        "An intention to abolish imperial government",
         "Conservative goals pursued through radical changes",
+        "An intention to abolish imperial government",
         "A refusal to address frontier defense"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "He sought to preserve imperial order by significantly reorganizing its machinery."
     },
     {
@@ -175,21 +175,21 @@
       "options": [
         "It abolished all demand for goods",
         "It permanently ended scarcity in every province",
-        "It applied only to imaginary commodities",
-        "Fixed legal prices encouraged evasion and black markets"
+        "Fixed legal prices encouraged evasion and black markets",
+        "It applied only to imaginary commodities"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Freedman explains how legal prices and actual market pressures could diverge."
     },
     {
       "question": "How did the emperor’s public image change?",
       "options": [
-        "It became exclusively an informal local office",
         "It became more distant, ceremonial, and exalted",
+        "It became exclusively an informal local office",
         "All court ceremony was prohibited",
         "The emperor was presented as having no special authority"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "The lecture connects administrative reorganization with a more sacred and remote presentation of rulership."
     },
     {
@@ -197,21 +197,21 @@
       "options": [
         "A permanent inability to defend any frontier",
         "The immediate extinction of the entire empire",
-        "The breakdown of the tetrarchic succession system",
-        "The complete disappearance of imperial administration"
+        "The complete disappearance of imperial administration",
+        "The breakdown of the tetrarchic succession system"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "A failed succession arrangement coexisted with meaningful recovery in defense and state capacity."
     },
     {
       "question": "How does Freedman caution against hindsight?",
       "options": [
-        "Later Western collapse should not erase the reality of fourth-century recovery",
         "Contemporaries all knew precisely when the West would fall",
+        "Later Western collapse should not erase the reality of fourth-century recovery",
         "Historians must ignore every later event",
         "Every reform inevitably failed within a year"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Contemporaries could experience restored order even when historians know that later crises would follow."
     }
   ],

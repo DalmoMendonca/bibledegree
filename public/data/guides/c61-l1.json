@@ -130,44 +130,44 @@
       "question": "What role did local elites play?",
       "options": [
         "They eliminated the need for any army",
-        "They supported civic institutions and shared practices that helped integrate the empire",
         "They refused all public expenditure",
+        "They supported civic institutions and shared practices that helped integrate the empire",
         "They lived entirely outside cities"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Local patronage and a common elite culture supplemented state and military power."
     },
     {
       "question": "Why does Freedman qualify Roman tolerance?",
       "options": [
+        "It permitted much diversity while imposing boundaries and persecuting Christians at times",
         "It meant every belief and practice was equally protected",
         "It excluded every non-Roman deity",
-        "It was a modern system of universal individual rights",
-        "It permitted much diversity while imposing boundaries and persecuting Christians at times"
+        "It was a modern system of universal individual rights"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "The lecture treats tolerance as historically significant but conditional."
     },
     {
       "question": "Which third-century development destabilized imperial rule?",
       "options": [
-        "Armies repeatedly made and unmade emperors",
         "A peaceful succession rule became universally accepted",
         "The empire permanently abolished its army",
-        "Every province became an independent democracy"
+        "Every province became an independent democracy",
+        "Armies repeatedly made and unmade emperors"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Military intervention in succession produced short and often violent reigns."
     },
     {
       "question": "Which regional imbalance does Freedman identify?",
       "options": [
         "The East contained no cities",
-        "The West alone participated in Mediterranean trade",
         "The East had become more prosperous and commercially developed than the West",
+        "The West alone participated in Mediterranean trade",
         "Both regions had identical economic conditions"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "This asymmetry helps frame later divergent trajectories."
     },
     {
@@ -175,21 +175,21 @@
       "options": [
         "Structural features can never matter historically",
         "Every empire has exactly the same weaknesses",
-        "Only a single ruler’s personality counts",
-        "It does not yet explain why the system fails at that particular time"
+        "It does not yet explain why the system fails at that particular time",
+        "Only a single ruler’s personality counts"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "A causal account needs mechanisms and timing as well as a list of vulnerabilities."
     },
     {
       "question": "What paradox concerns Christianity and Roman inheritance?",
       "options": [
-        "Christianity began as Rome’s only legal religion",
         "A once-persecuted movement became a major preserver of Roman legacies",
+        "Christianity began as Rome’s only legal religion",
         "The Western church rejected every use of Latin",
         "Religious institutions cannot preserve political cultures"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Freedman uses this reversal to introduce the complicated afterlife of empire."
     },
     {
@@ -197,21 +197,21 @@
       "options": [
         "The Roman and modern Olympic medal counts",
         "The length of every emperor’s speeches",
-        "The third-century recovery and the later Western collapse",
-        "The number of churches in modern capitals"
+        "The number of churches in modern capitals",
+        "The third-century recovery and the later Western collapse"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "The empire’s survival of one crisis makes later failure something requiring explanation."
     },
     {
       "question": "Which historical approach best follows the lecture?",
       "options": [
-        "Weigh internal weakness, external pressure, religious change, and regional continuity",
         "Assume Christianity alone explains every outcome",
+        "Weigh internal weakness, external pressure, religious change, and regional continuity",
         "Treat all provinces as experiencing identical change",
         "Read later collapse as inevitable from the beginning"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Freedman presents debated causal questions and warns against a simple predetermined story."
     }
   ],

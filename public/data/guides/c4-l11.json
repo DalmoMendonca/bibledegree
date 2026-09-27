@@ -1,0 +1,281 @@
+{
+  "summary": "In Lecture 11, Professor Dale Martin explores the distinctive characteristics of the Gospel of John compared to the Synoptic Gospels—Matthew, Mark, and Luke. Martin, a Yale professor, emphasizes that John presents a different narrative style, focusing more on dialogues and theological themes rather than action. This Gospel introduces themes such as light and darkness, and it portrays Jesus as a pre-existing divine being, a concept not found in the Synoptics. Martin highlights Johannine Christianity as a distinct form of early Christianity, suggesting it reflects a more sectarian community with strong insider-outsider boundaries. The Gospel's narrative differences include overlapping ministries of Jesus and John the Baptist, a different timeline for Jesus’ life, and unique events like the cleansing of the temple and the Last Supper. John’s Christology is more developed, presenting Jesus as equal to God, a radical departure from the other Gospels. Martin also discusses how the Gospel uses allegory to reflect the community's conflicts with the synagogue, revealing its sectarian nature. The lecture underscores the importance of understanding these differences to appreciate the diversity within early Christianity.",
+  "keyIdeas": [
+    {
+      "title": "Distinctive Style of John's Gospel",
+      "explanation": "The Gospel of John features long dialogues and repetitive themes, differing from the action-oriented Synoptics."
+    },
+    {
+      "title": "Narrative Differences",
+      "explanation": "John’s Gospel includes unique events and overlaps Jesus and John the Baptist's ministries, unlike the Synoptics."
+    },
+    {
+      "title": "High Christology",
+      "explanation": "John presents Jesus as pre-existing and divine, equating him with God, which is not seen in other Gospels."
+    },
+    {
+      "title": "Sectarian Nature",
+      "explanation": "John reflects a community with strong insider-outsider boundaries, emphasizing themes of light and darkness."
+    },
+    {
+      "title": "Use of Allegory",
+      "explanation": "The Gospel uses stories like the healing of the blind man to reflect conflicts with the synagogue."
+    },
+    {
+      "title": "Themes of Light and Darkness",
+      "explanation": "Recurrent themes in John include light vs. darkness and seeing vs. knowing, which signify deeper theological ideas."
+    }
+  ],
+  "terms": [
+    {
+      "term": "Johannine Christianity",
+      "definition": "A distinct form of early Christianity reflected in the Gospel of John and the letters of John."
+    },
+    {
+      "term": "Christology",
+      "definition": "The branch of theology dealing with the nature and role of Christ."
+    },
+    {
+      "term": "Sectarianism",
+      "definition": "A group's strong boundary-setting to distinguish insiders from outsiders, often found in religious contexts."
+    },
+    {
+      "term": "Prologue of John",
+      "definition": "The introduction of the Gospel of John, presenting themes like Jesus' pre-existence and divinity."
+    },
+    {
+      "term": "Signs",
+      "definition": "Miracles in John's Gospel that carry symbolic meaning beyond mere demonstration of power."
+    },
+    {
+      "term": "Beloved Disciple",
+      "definition": "A unique character in the Gospel of John, possibly a literary creation, representing the ideal follower."
+    }
+  ],
+  "mastery": [
+    {
+      "question": "What makes the Gospel of John different from the Synoptics?",
+      "answer": "John focuses on dialogues and theological themes rather than action."
+    },
+    {
+      "question": "How does John's Gospel portray Jesus’ origin?",
+      "answer": "It presents Jesus as a pre-existing divine being."
+    },
+    {
+      "question": "What is Johannine Christianity?",
+      "answer": "A form of early Christianity reflected in the Gospel and letters of John."
+    },
+    {
+      "question": "Why is the Gospel of John considered sectarian?",
+      "answer": "It emphasizes strong insider-outsider boundaries and themes of light vs. darkness."
+    },
+    {
+      "question": "What narrative difference exists regarding John the Baptist?",
+      "answer": "John's and Jesus' ministries overlap in John's Gospel."
+    },
+    {
+      "question": "What is a key theme in John's Gospel?",
+      "answer": "The contrast between light and darkness."
+    },
+    {
+      "question": "How does John’s Gospel handle the Last Supper?",
+      "answer": "It omits the institution of the Eucharist and includes a foot washing instead."
+    },
+    {
+      "question": "What allegorical use does John’s Gospel make of stories?",
+      "answer": "It uses stories to reflect community conflicts with the synagogue."
+    }
+  ],
+  "reflection": [
+    "How does the Gospel of John's portrayal of Jesus' divinity affect your understanding of early Christianity?",
+    "What do the narrative differences in John suggest about the author's intentions?",
+    "How might the sectarian nature of Johannine Christianity influence its theological themes?",
+    "What role do allegory and symbolism play in John's Gospel?",
+    "How do the themes of light and darkness in John relate to its overall message?"
+  ],
+  "quiz": [
+    {
+      "question": "What is a key narrative difference between John and the Synoptics regarding Jesus' ministry?",
+      "options": [
+        "More exorcisms",
+        "Shorter duration",
+        "Overlap with John the Baptist's ministry",
+        "Focus on parables"
+      ],
+      "answer": 2,
+      "explanation": "John's Gospel presents overlapping ministries of Jesus and John the Baptist, unlike the Synoptics."
+    },
+    {
+      "question": "In John's Gospel, what theme is emphasized through the use of 'signs'?",
+      "options": [
+        "Symbolic meanings",
+        "Exorcisms",
+        "Philosophical teachings",
+        "Parables"
+      ],
+      "answer": 0,
+      "explanation": "The signs in John carry symbolic meaning beyond demonstrating Jesus' power."
+    },
+    {
+      "question": "How does John's Gospel depict Jesus' relationship with God?",
+      "options": [
+        "As merely a prophet",
+        "As a moral teacher",
+        "As a lesser being",
+        "As equal to God"
+      ],
+      "answer": 3,
+      "explanation": "John presents a high Christology, equating Jesus with God, which is unique among the Gospels."
+    },
+    {
+      "question": "What does the term 'sectarianism' refer to in the context of John's Gospel?",
+      "options": [
+        "Inclusivity of all beliefs",
+        "Strong boundary-setting",
+        "Focus on miracles",
+        "Emphasis on parables"
+      ],
+      "answer": 1,
+      "explanation": "Sectarianism involves strong boundaries distinguishing insiders from outsiders, prevalent in John's community."
+    },
+    {
+      "question": "How does John’s Gospel handle the timeline of Jesus' life?",
+      "options": [
+        "Shorter than Synoptics",
+        "Focuses only on birth",
+        "Contains three Passovers",
+        "Omits Jerusalem"
+      ],
+      "answer": 2,
+      "explanation": "John's Gospel mentions three Passovers, suggesting a longer ministry than the Synoptics."
+    },
+    {
+      "question": "In John's Gospel, what does Jesus claim that leads to an attempt to stone him?",
+      "options": [
+        "He is 'I am'",
+        "He is a prophet",
+        "He is a teacher",
+        "He is a healer"
+      ],
+      "answer": 0,
+      "explanation": "Jesus' claim to be 'I am' equates him with God, provoking outrage."
+    },
+    {
+      "question": "What is the significance of the 'beloved disciple' in John's Gospel?",
+      "options": [
+        "Represents Peter",
+        "Is a historical figure",
+        "Represents Judas",
+        "Symbolizes the ideal follower"
+      ],
+      "answer": 3,
+      "explanation": "The beloved disciple may be a literary creation representing the ideal follower of Jesus."
+    },
+    {
+      "question": "How does John's Gospel differ in the depiction of the Last Supper?",
+      "options": [
+        "Includes Eucharist",
+        "Focuses on foot washing",
+        "Occurs in Galilee",
+        "Introduces a new disciple"
+      ],
+      "answer": 1,
+      "explanation": "John emphasizes a foot washing ceremony instead of the Eucharist, unlike the Synoptics."
+    },
+    {
+      "question": "How does the Gospel of John portray the world?",
+      "options": [
+        "As a place of harmony",
+        "As a source of light",
+        "As a dark enemy place",
+        "As a neutral space"
+      ],
+      "answer": 2,
+      "explanation": "John describes the world as a dark place opposed to Jesus, emphasizing the theme of light vs. darkness."
+    },
+    {
+      "question": "What is a recurrent theme in John's Gospel?",
+      "options": [
+        "Light and darkness",
+        "Judgment",
+        "Wealth",
+        "Angels"
+      ],
+      "answer": 0,
+      "explanation": "Light and darkness are central themes in John, symbolizing spiritual enlightenment and ignorance."
+    },
+    {
+      "question": "In John's Gospel, what is the significance of Jesus being 'lifted up'?",
+      "options": [
+        "Only his resurrection",
+        "Only his crucifixion",
+        "Only his ascension",
+        "A multifaceted symbol"
+      ],
+      "answer": 3,
+      "explanation": "The 'lifting up' is a puzzle that may refer to crucifixion, resurrection, or ascension, inviting interpretation."
+    },
+    {
+      "question": "How does John’s Gospel treat exorcisms compared to the Synoptics?",
+      "options": [
+        "Focuses on them",
+        "Includes none",
+        "Centers around them",
+        "Depicts new exorcisms"
+      ],
+      "answer": 1,
+      "explanation": "John's Gospel includes no exorcisms, unlike the Synoptics, where they are frequent."
+    },
+    {
+      "question": "What theme is expressed through Jesus' dialogues in John?",
+      "options": [
+        "Silence and solitude",
+        "Wealth and poverty",
+        "Confrontation and division",
+        "Peace and harmony"
+      ],
+      "answer": 2,
+      "explanation": "John’s dialogues often lead to confrontation and division, reflecting the Gospel’s sectarian themes."
+    },
+    {
+      "question": "What allegory does John use in the story of the blind man?",
+      "options": [
+        "Community's conflicts",
+        "Political power",
+        "Economic disparity",
+        "Natural disasters"
+      ],
+      "answer": 0,
+      "explanation": "The story of the blind man allegorizes the community's conflicts with the synagogue."
+    },
+    {
+      "question": "How does the Gospel of John depict Jesus' birth?",
+      "options": [
+        "In Bethlehem",
+        "In Nazareth",
+        "In Jerusalem",
+        "Not mentioned"
+      ],
+      "answer": 3,
+      "explanation": "John’s Gospel does not focus on Jesus’ birth, differing from Matthew and Luke."
+    },
+    {
+      "question": "What does John’s Gospel suggest about faith without seeing?",
+      "options": [
+        "It's less valid",
+        "It's superior",
+        "It's unnecessary",
+        "It's irrelevant"
+      ],
+      "answer": 1,
+      "explanation": "John suggests that faith without seeing is superior, as Jesus commends those who believe without seeing."
+    }
+  ],
+  "basis": "transcript",
+  "sourceUrl": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-11",
+  "sourceNote": "Prepared from the complete published lecture transcript. Independent study questions, not Yale assessments. Interpretive positions belong to the lecturer.",
+  "preparedBy": "AI-assisted preparation, one-time static publication",
+  "status": "published",
+  "readings": [],
+  "sourceHash": "57813f02929a3fdefbd35ba4fce461bfd7c959f48e19f131173ab380e71d2bae"
+}
